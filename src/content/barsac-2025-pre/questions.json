@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "barsac-2025-pre-a.1",
+    "type": "mtf",
+    "stem": "The P50 for maternal haemoglobin",
+    "source": "BARSAC 2025 Pre · A.1",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "increases due to elevated levels of 2,3-diphosphoglycerate",
+        "isCorrect": true,
+        "explanation": "During pregnancy, maternal red blood cells increase their concentration of 2,3-diphosphoglycerate (2,3-DPG) by approximately 30%. This molecule binds preferentially to deoxygenated adult haemoglobin (HbA), stabilizing it in the tense (T) state and thereby reducing its affinity for oxygen. A lower oxygen affinity corresponds to a rightward shift of the oxyhaemoglobin dissociation curve (ODC) and an increase in the P50, which is the partial pressure of oxygen at which haemoglobin is 50% saturated."
+      },
+      {
+        "text": "remains unchanged",
+        "isCorrect": false,
+        "explanation": "The physiological adaptations of pregnancy, particularly the rise in 2,3-DPG, cause a significant and purposeful shift in the maternal ODC, leading to an increased P50."
+      },
+      {
+        "text": "increases to maintain pH",
+        "isCorrect": false,
+        "explanation": "While pH does influence P50 via the Bohr effect, the sustained increase in P50 during pregnancy is a metabolic adaptation driven by 2,3-DPG, not a primary mechanism for pH regulation. Pregnancy is associated with a compensated respiratory alkalosis, which, in isolation, would tend to shift the ODC to the left and decrease P50."
+      },
+      {
+        "text": "decreases to enhance oxygen delivery to tissues",
+        "isCorrect": false,
+        "explanation": "A decrease in P50 signifies a left-shifted ODC and an increased affinity of haemoglobin for oxygen. This would impair, not enhance, the release of oxygen to peripheral tissues. The statement incorrectly links a decreased P50 with enhanced oxygen delivery."
+      },
+      {
+        "text": "is lower than foetal P50",
+        "isCorrect": false,
+        "explanation": "Fetal haemoglobin (HbF) has a different subunit composition (α2γ2) than adult haemoglobin (α2β2) and binds 2,3-DPG poorly. This gives HbF a higher intrinsic affinity for oxygen and thus a significantly lower P50 (approximately 19 mmHg) compared to maternal HbA (approximately 27-30 mmHg). Therefore, the maternal P50 is higher than the foetal P50. This P50 differential is a critical adaptation that creates the necessary oxygen partial pressure gradient across the placenta, facilitating oxygen transfer from mother to foetus."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.2",
+    "type": "mtf",
+    "stem": "Concerning cardiovascular reflexes",
+    "source": "BARSAC 2025 Pre · A.2",
+    "explanation": "Note: The question stem in the source document is incomplete but clearly refers to this reflex.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "carotid sinus baroreceptor stimulation decreases sympathetic tone",
+        "isCorrect": true,
+        "explanation": "Carotid sinus baroreceptors are stretch receptors that increase their firing rate in response to a rise in arterial blood pressure. This increased afferent signalling via the glossopharyngeal nerve to the nucleus tractus solitarius in the medulla results in reflex inhibition of sympathetic outflow and simultaneous activation of parasympathetic (vagal) outflow, leading to vasodilation and bradycardia."
+      },
+      {
+        "text": "stimulation of stretch receptors in the aortic arch increases heart rate",
+        "isCorrect": false,
+        "explanation": "Stretch receptors in the aortic arch are also baroreceptors. Similar to their carotid counterparts, their stimulation by increased arterial pressure elicits a reflex decrease in heart rate and sympathetic tone to lower blood pressure."
+      },
+      {
+        "text": "rapid intravenous infusion of saline produces tachycardia",
+        "isCorrect": true,
+        "explanation": "This describes the Bainbridge reflex (atrial reflex). A rapid infusion of fluid increases venous return, stretching mechanoreceptors in the right atrium and venoatrial junctions. Afferent signals travel via the vagus nerve to the medulla, resulting in a reflex inhibition of vagal tone and an increase in sympathetic tone to the sinoatrial node, causing tachycardia. This reflex helps prevent venous congestion by increasing cardiac output to match the increased venous return."
+      },
+      {
+        "text": "stimulation of mechanical receptors in ventricular walls produces tachycardia and hypertension",
+        "isCorrect": false,
+        "explanation": "This is the opposite of the Bezold-Jarisch reflex. Stimulation of mechanoreceptors and chemoreceptors within the ventricular walls (particularly the inferoposterior wall) by stretch or noxious stimuli (e.g., ischaemia, certain drugs) triggers a cardioinhibitory reflex characterized by profound bradycardia, vasodilation, and hypotension."
+      },
+      {
+        "text": "the afferent limb of",
+        "isCorrect": false,
+        "explanation": "The afferent limb of the Bezold-Jarisch reflex is composed of unmyelinated vagal C-fibres, which are part of the parasympathetic nervous system, not the sympathetic system."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.3",
+    "type": "mtf",
+    "stem": "The apex of the upright human lung compared with the base has",
+    "source": "BARSAC 2025 Pre · A.3",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "a higher PO₂",
+        "isCorrect": true,
+        "explanation": "In the upright lung, both ventilation (V) and perfusion (Q) are lower at the apex than the base due to gravity. However, perfusion decreases more dramatically than ventilation. This results in a high ventilation-perfusion (V/Q) ratio at the apex, meaning the alveoli are relatively over-ventilated for the amount of blood they receive. This leads to more efficient gas exchange, a higher alveolar partial pressure of oxygen (PAO2), and consequently a higher end-capillary PO2."
+      },
+      {
+        "text": "higher ventilation",
+        "isCorrect": false,
+        "explanation": "Due to the effect of gravity on the lung and pleural space, intrapleural pressure is more negative at the apex. This holds the apical alveoli more open at rest (higher functional residual capacity) and places them on a less compliant part of the pressure-volume curve. The basal alveoli are less expanded at rest but are on a steeper, more compliant part of the curve, allowing for a greater change in volume with each breath. Therefore, ventilation is greater at the base."
+      },
+      {
+        "text": "a lower pH in end-capillary blood",
+        "isCorrect": false,
+        "explanation": "The high V/Q ratio at the apex results in more effective elimination of carbon dioxide, leading to a lower alveolar and end-capillary PCO2. A lower PCO2 results in a higher (more alkaline) blood pH at the apex compared to the base."
+      },
+      {
+        "text": "a higher blood flow",
+        "isCorrect": false,
+        "explanation": "Hydrostatic pressure effects cause pulmonary blood flow to be lowest at the apex (West's Zone 1 or 2) and highest at the base (West's Zone 3) in the upright position."
+      },
+      {
+        "text": "a higher ventilation-perfusion ratio",
+        "isCorrect": true,
+        "explanation": "As perfusion decreases more steeply than ventilation from the base to the apex, the ratio of ventilation to perfusion (V/Q) is highest at the apex (typically >3.0) and lowest at the base (typically <1.0)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.4",
+    "type": "mtf",
+    "stem": "Regarding the mechanisms of regulation of bronchomotor tone",
+    "source": "BARSAC 2025 Pre · A.4",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "cyclic adenosine monophosphate (cAMP) relaxes bronchial smooth muscle",
+        "isCorrect": true,
+        "explanation": "Stimulation of β2-adrenergic receptors on bronchial smooth muscle activates the Gs protein, which in turn stimulates adenylyl cyclase to produce cAMP. Increased intracellular cAMP activates protein kinase A (PKA), which phosphorylates several target proteins, leading to a decrease in intracellular calcium concentration and subsequent smooth muscle relaxation (bronchodilation)."
+      },
+      {
+        "text": "cholinergic drugs reduce the production of cyclic guanosine monophosphate (cGMP) and cause bronchoconstriction",
+        "isCorrect": false,
+        "explanation": "Cholinergic drugs (muscarinic agonists) cause bronchoconstriction by stimulating M₃ receptors, which increases intracellular calcium. This process is associated with an increase in cyclic guanosine monophosphate (cGMP) levels, not a reduction. Anticholinergic drugs, which cause bronchodilation, work by blocking acetylcholine's effects and promoting the degradation of cGMP."
+      },
+      {
+        "text": "production of cAMP is stimulated by the enzyme phosphodiesterase",
+        "isCorrect": false,
+        "explanation": "The enzyme phosphodiesterase (PDE) metabolizes or breaks down cAMP into its inactive form, 5'-AMP. Therefore, PDE activity reduces intracellular cAMP levels. Production of cAMP is stimulated by the enzyme adenylyl cyclase."
+      },
+      {
+        "text": "activation of guanylate cyclase causes bronchoconstriction",
+        "isCorrect": false,
+        "explanation": "Activation of guanylate cyclase leads to the production of cGMP. In airway smooth muscle, cGMP acts as a second messenger that mediates relaxation (bronchodilation), much like cAMP."
+      },
+      {
+        "text": "histamine has no clinically significant effect on airway calibre",
+        "isCorrect": false,
+        "explanation": "Histamine is a powerful bronchoconstrictor released from mast cells during allergic reactions. It acts on H₁ receptors on airway smooth muscle and is a key mediator in the pathophysiology of asthma, having a profound and clinically significant effect on airway calibre."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.5",
+    "type": "mtf",
+    "stem": "Venous return to the right side of the heart is decreased during",
+    "source": "BARSAC 2025 Pre · A.5",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "expiration against a closed glottis",
+        "isCorrect": true,
+        "explanation": "Expiration against a closed glottis (Valsalva manoeuvre) markedly increases intrathoracic pressure. This increased pressure compresses the great veins (vena cavae) within the thorax, increasing right atrial pressure and impeding the flow of blood from the periphery back to the heart, thus decreasing venous return."
+      },
+      {
+        "text": "peripheral venous vasoconstriction",
+        "isCorrect": false,
+        "explanation": "Peripheral venous vasoconstriction, typically mediated by sympathetic stimulation, decreases the capacitance of the venous system and increases the mean systemic filling pressure. This increases the pressure gradient for venous return, thereby increasing the flow of blood back to the heart."
+      },
+      {
+        "text": "the inspiratory phase of positive pressure mechanical ventilation",
+        "isCorrect": true,
+        "explanation": "During the inspiratory phase of positive pressure ventilation (PPV), positive pressure is transmitted to the intrathoracic structures. This increases right atrial pressure, which is the back-pressure to venous return. The increased intrathoracic pressure reduces the pressure gradient from the periphery to the right atrium, thereby decreasing venous return."
+      },
+      {
+        "text": "carotid sinus massage",
+        "isCorrect": false,
+        "explanation": "Carotid sinus massage stimulates baroreceptors, leading to reflex vasodilation and bradycardia. While profound vasodilation could potentially reduce venous return by increasing venous capacitance, this is not its primary or most direct effect. The primary effect is on arterial tone and heart rate."
+      },
+      {
+        "text": "application of CPAP (continuous positive inspiratory pressure)",
+        "isCorrect": true,
+        "explanation": "Continuous positive airway pressure (CPAP), like the inspiratory phase of PPV or PEEP, maintains a constantly elevated intrathoracic pressure. This consistently elevates right atrial pressure, which impedes venous return to the right side of the heart."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.6",
+    "type": "mtf",
+    "stem": "The cerebral metabolic rate for oxygen",
+    "source": "BARSAC 2025 Pre · A.6",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "can be reduced to 10% of the preanaesthetic value by propofol",
+        "isCorrect": false,
+        "explanation": "Propofol produces a dose-dependent reduction in the cerebral metabolic rate for oxygen (CMRO2). However, the maximum reduction achievable with propofol (or other anaesthetics like barbiturates) is approximately 50-60%, which corresponds to the point of complete electroencephalographic (EEG) suppression (an isoelectric EEG). The remaining metabolic activity is required for maintaining cellular integrity and ion gradients, and cannot be suppressed by anaesthetic agents."
+      },
+      {
+        "text": "during hypothermia cannot be further reduced after complete electroencephalographic suppression has been reached",
+        "isCorrect": false,
+        "explanation": "Anaesthetic agents like propofol or thiopental can only reduce the component of CMRO2 associated with synaptic activity (functional metabolism). Hypothermia, in contrast, reduces all metabolic processes, including the basal metabolic rate required for cellular viability. Therefore, even after EEG suppression has been achieved with an anaesthetic, further cooling will continue to decrease CMRO2."
+      },
+      {
+        "text": "is unchanged during coma",
+        "isCorrect": false,
+        "explanation": "Coma is a state of profoundly reduced neuronal activity. As CMRO2 is directly linked to neuronal function, it is significantly decreased during coma."
+      },
+      {
+        "text": "is directly proportional to neuronal activity",
+        "isCorrect": true,
+        "explanation": "Cerebral metabolism is tightly linked to neuronal function. Increases in neuronal activity (e.g., during sensory stimulation, cognitive tasks, or seizures) lead to a proportional increase in metabolic demand for oxygen and glucose. Conversely, states of reduced neuronal activity (e.g., anaesthesia, coma) result in a decreased CMRO2."
+      },
+      {
+        "text": "is coupled to cerebral blood flow",
+        "isCorrect": true,
+        "explanation": "Under normal physiological conditions, cerebral blood flow (CBF) is tightly coupled to cerebral metabolism (CMRO2). This \"flow-metabolism coupling\" ensures that oxygen and substrate delivery via blood flow is precisely matched to the metabolic demands of the brain tissue. When CMRO2 increases, local vasodilators are released, increasing CBF, and vice versa. Most intravenous anaesthetics, including propofol, preserve this coupling, reducing both CBF and"
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.7",
+    "type": "mtf",
+    "stem": "Intracranial pressure increases in the presence of",
+    "source": "BARSAC 2025 Pre · A.7",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "communicating hydrocephalus",
+        "isCorrect": true,
+        "explanation": "Communicating hydrocephalus is characterized by impaired absorption of cerebrospinal fluid (CSF) at the arachnoid granulations, despite normal flow between the ventricles. This imbalance between CSF production and absorption leads to an accumulation of CSF volume within the fixed cranial vault, thereby increasing intracranial pressure (ICP)."
+      },
+      {
+        "text": "interstitial brain oedema",
+        "isCorrect": true,
+        "explanation": "Interstitial brain oedema involves the movement of fluid from the CSF into the brain's extracellular space, often seen in obstructive hydrocephalus. This, along with other forms of oedema (vasogenic, cytotoxic), increases the volume of the brain parenchyma, which, according to the Monro-Kellie doctrine, will increase ICP."
+      },
+      {
+        "text": "low PaCO₂",
+        "isCorrect": false,
+        "explanation": "A low partial pressure of arterial carbon dioxide (PaCO2), or hypocapnia, causes cerebral vasoconstriction. This reduces cerebral blood flow and cerebral blood volume, which in turn leads to a decrease in ICP. This is the basis for using therapeutic hyperventilation to acutely manage raised ICP."
+      },
+      {
+        "text": "high positive end-expiratory pressure (PEEP)",
+        "isCorrect": true,
+        "explanation": "High levels of PEEP increase intrathoracic pressure, which can impede venous drainage from the head by increasing pressure in the jugular veins. This impaired venous outflow can lead to cerebral venous congestion and a subsequent increase in ICP, particularly in patients with poor intracranial compliance."
+      },
+      {
+        "text": "a head-down position",
+        "isCorrect": true,
+        "explanation": "A head-down (Trendelenburg) position places the head below the level of the heart. This increases the hydrostatic pressure in the cerebral venous system, which impairs venous drainage from the cranium and leads to an increase in ICP."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.8",
+    "type": "mtf",
+    "stem": "Regarding liver physiology",
+    "source": "BARSAC 2025 Pre · A.8",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "is perfused by 25-30% of the total cardiac output",
+        "isCorrect": true,
+        "explanation": "The liver has a large blood flow, receiving approximately 25% of the total cardiac output, which amounts to about 1.2-1.5 L/min in an adult at rest."
+      },
+      {
+        "text": "receives 75% of oxygen via the hepatic artery",
+        "isCorrect": true,
+        "explanation": "The liver has a dual blood supply. While the portal vein provides about 75% of the total blood flow, it consists of deoxygenated venous blood from the splanchnic circulation. The hepatic artery, although providing only 25% of the blood flow, delivers fully oxygenated arterial blood. Consequently, the hepatic artery is responsible for supplying 50-75% of the liver's oxygen requirements."
+      },
+      {
+        "text": "hepatic blood flow increases during positive pressure mechanical ventilation",
+        "isCorrect": false,
+        "explanation": "Positive pressure mechanical ventilation increases intrathoracic pressure, which can decrease venous return and cardiac output. The reduction in cardiac output leads to a decrease in overall splanchnic and hepatic blood flow. Additionally, increased intrathoracic pressure can directly increase hepatic venous pressure, further impeding flow through the liver."
+      },
+      {
+        "text": "converts ammonia to urea",
+        "isCorrect": true,
+        "explanation": "A primary metabolic function of the liver is the detoxification of ammonia, a byproduct of protein metabolism, by converting it into urea via the urea cycle. The urea is then excreted by the kidneys."
+      },
+      {
+        "text": "is the main site for clotting factor VIII production",
+        "isCorrect": false,
+        "explanation": "The liver is the main site for the production of most clotting factors (e.g., I, II, V, VII, IX, X, XI) and anticoagulant proteins. However, Factor VIII is primarily synthesized by endothelial cells, particularly liver sinusoidal endothelial cells (LSECs), but also by endothelial cells in extrahepatic sites. Hepatocytes themselves do not produce significant amounts of Factor VIII."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.9",
+    "type": "mtf",
+    "stem": "Regarding the autoregulation of renal blood flow and glomerular filtration rate",
+    "source": "BARSAC 2025 Pre · A.9",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "it is affected by hypertension",
+        "isCorrect": true,
+        "explanation": "In chronic hypertension, the entire autoregulatory curve for renal blood flow (RBF) and glomerular filtration rate (GFR) is shifted to the right. This means that the kidneys adapt to maintain constant flow at a higher range of pressures, but they also become more vulnerable to ischaemia if blood pressure drops to what would be considered a \"normal\" level for a normotensive individual."
+      },
+      {
+        "text": "it is not altered in case of acute drop of blood pressure underneath 50 mm Hg",
+        "isCorrect": false,
+        "explanation": "The lower limit of renal autoregulation is typically around a mean arterial pressure (MAP) of 60-80 mmHg in normotensive individuals. Below this threshold, autoregulatory mechanisms fail, the renal arterioles are maximally dilated, and RBF and GFR become passively dependent on perfusion pressure. A drop in MAP below 50 mmHg is well outside the autoregulatory range and will cause a significant decrease in RBF and GFR."
+      },
+      {
+        "text": "in septic shock, renal blood flow and glomerular filtration are more dependent on blood pressure than in normal condition",
+        "isCorrect": true,
+        "explanation": "Septic shock is associated with profound systemic inflammation, endothelial dysfunction, and dysregulation of vasoactive mediators. These processes impair or abolish the kidney's intrinsic autoregulatory mechanisms. As a result, RBF and GFR become much more directly dependent on systemic blood pressure, making the kidneys highly vulnerable to hypotension."
+      },
+      {
+        "text": "it is not affected by vasopressors",
+        "isCorrect": false,
+        "explanation": "Vasopressors, such as norepinephrine, directly act on renal arterioles. While their primary purpose in shock is to increase systemic MAP to a level that supports organ perfusion (i.e., within the autoregulatory range), they can also directly affect afferent and efferent arteriolar tone, thereby influencing autoregulation itself."
+      },
+      {
+        "text": "it is maintained within a mean blood pressure range",
+        "isCorrect": true,
+        "explanation": "Renal autoregulation is the intrinsic ability of the kidney to maintain a relatively constant RBF and GFR over a specific range of systemic blood pressures. This range is typically cited as being between a MAP of approximately 80 and 180 mmHg in normotensive individuals."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.10",
+    "type": "mtf",
+    "stem": "Aldosterone is secreted in response to",
+    "source": "BARSAC 2025 Pre · A.10",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "high extracellular potassium levels",
+        "isCorrect": true,
+        "explanation": "High extracellular potassium concentration (hyperkalaemia) is a direct and potent stimulus for aldosterone secretion from the zona glomerulosa of the adrenal cortex. Aldosterone then acts on the kidneys to promote potassium excretion, forming a crucial negative feedback loop for potassium homeostasis."
+      },
+      {
+        "text": "a rise in blood volume",
+        "isCorrect": false,
+        "explanation": "A rise in blood volume stretches atrial myocytes, leading to the release of atrial natriuretic peptide (ANP). ANP acts to inhibit the release of renin and aldosterone, promoting natriuresis and diuresis to reduce blood volume. Aldosterone secretion is stimulated by a decrease in effective circulating volume."
+      },
+      {
+        "text": "low extracellular sodium levels",
+        "isCorrect": false,
+        "explanation": "While severe hyponatraemia can have a minor direct stimulatory effect, the primary mechanism linking sodium to aldosterone is indirect. Low extracellular sodium levels, particularly as sensed by the macula densa in the kidney, are a powerful stimulus for renin release, which then activates the renin-angiotensin-aldosterone system (RAAS) to increase aldosterone. The primary trigger is not the low sodium itself, but the RAAS activation it causes."
+      },
+      {
+        "text": "release of renin from the juxtaglomerular apparatus",
+        "isCorrect": true,
+        "explanation": "The release of renin from the juxtaglomerular apparatus is the first and rate-limiting step of the RAAS. Renin leads to the formation of angiotensin II, which is a primary and powerful stimulator of aldosterone secretion from the adrenal cortex."
+      },
+      {
+        "text": "vasopressin release from the posterior pituitary",
+        "isCorrect": false,
+        "explanation": "Vasopressin (antidiuretic hormone, ADH) is released in response to high plasma osmolality or severe hypovolaemia. While it works in concert with aldosterone to restore blood volume by promoting water reabsorption, it is not a primary stimulus for aldosterone secretion. The main stimuli are angiotensin II and potassium."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.11",
+    "type": "mtf",
+    "stem": "Dobutamine",
+    "source": "BARSAC 2025 Pre · A.11",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "is a synthetic catecholamine",
+        "isCorrect": true,
+        "explanation": "Dobutamine is a synthetic catecholamine, designed to primarily stimulate cardiac β1-adrenergic receptors."
+      },
+      {
+        "text": "is a racemic mixture of 2 stereoisomers",
+        "isCorrect": true,
+        "explanation": "The commercially available formulation of dobutamine is a racemic mixture of its (+) and (-) stereoisomers. These isomers have distinct and complementary effects at adrenergic receptors, with the (+) isomer being a potent β1 agonist and α1 antagonist, and the (-) isomer being an α1 agonist. The net clinical effect is the result of their combined actions."
+      },
+      {
+        "text": "has a plasma half-life of 30 min",
+        "isCorrect": false,
+        "explanation": "Dobutamine has a very short plasma half-life of approximately 2 minutes. It is rapidly metabolized by catechol-O-methyltransferase (COMT). This short half-life necessitates its administration as a continuous intravenous infusion to maintain a therapeutic effect."
+      },
+      {
+        "text": "has equal β1 and β2 agonist potency",
+        "isCorrect": false,
+        "explanation": "Dobutamine is a selective β1-adrenergic agonist. While it does possess some β2 agonist activity, its affinity and potency for β1 receptors are significantly greater. This selectivity is responsible for its primary clinical effect of increasing myocardial contractility (inotropism) with less pronounced effects on heart rate and peripheral vasodilation compared to non-selective agonists like isoproterenol."
+      },
+      {
+        "text": "increases myocardial oxygen consumption",
+        "isCorrect": true,
+        "explanation": "By stimulating β1 receptors, dobutamine increases both myocardial contractility and heart rate. Both of these actions are major determinants of myocardial oxygen consumption (MVO2), which is therefore significantly increased during dobutamine infusion."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.13",
+    "type": "mtf",
+    "stem": "Concerning benzodiazepines",
+    "source": "BARSAC 2025 Pre · A.13",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "they enhance the effect of GABA",
+        "isCorrect": true,
+        "explanation": "Benzodiazepines act as positive allosteric modulators of the γ-aminobutyric acid type A (GABAA) receptor. They bind to a site distinct from the GABA binding site, increasing the frequency of chloride channel opening in response to GABA binding. This enhances the inhibitory effect of GABA, leading to hyperpolarization of the neuron and central nervous system depression."
+      },
+      {
+        "text": "they decrease cerebral blood flow",
+        "isCorrect": true,
+        "explanation": "Benzodiazepines reduce cerebral metabolic rate for oxygen (CMRO2). Due to the preservation of flow-metabolism coupling, this reduction in metabolic demand is matched by a corresponding decrease in cerebral blood flow (CBF)."
+      },
+      {
+        "text": "they reduce cerebral oxygen consumption",
+        "isCorrect": true,
+        "explanation": "By enhancing GABAergic inhibition, benzodiazepines decrease neuronal activity throughout the central nervous system. This reduction in electrical activity leads to a decrease in the brain's metabolic requirements and thus a reduction in cerebral oxygen consumption (CMRO2)."
+      },
+      {
+        "text": "their sedative effect can be reversed by physostigmine",
+        "isCorrect": false,
+        "explanation": "The specific antagonist for benzodiazepine receptors is flumazenil. Flumazenil acts as a competitive antagonist at the benzodiazepine binding site on the GABAA receptor, reversing the sedative and other effects of benzodiazepines. Physostigmine is a cholinesterase inhibitor used to reverse the effects of anticholinergic drugs."
+      },
+      {
+        "text": "they do not undergo hepatic biotransformation",
+        "isCorrect": false,
+        "explanation": "All benzodiazepines undergo extensive hepatic biotransformation. Metabolism occurs via two main pathways: microsomal oxidation (by cytochrome P450 enzymes, primarily CYP3A4 and CYP2C19) and glucuronide conjugation. The oxidative pathways often produce active metabolites (e.g., diazepam), which can prolong the drug's effect, especially in patients with liver disease. Benzodiazepines like lorazepam, oxazepam, and temazepam ('LOT' drugs) are metabolized primarily by conjugation, have no active metabolites, and their half-lives are less affected by liver disease."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.15",
+    "type": "mtf",
+    "stem": "Anaphylaxis to neuromuscular blocking drugs",
+    "source": "BARSAC 2025 Pre · A.15",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "is prevented by antihistamine premedication",
+        "isCorrect": false,
+        "explanation": "While antihistamine premedication (H₁ and H₂ blockers) may blunt the cutaneous manifestations (e.g., urticaria) of histamine release, it does not reliably prevent the onset of true IgE-mediated anaphylaxis, which involves multiple mediators and can lead to life-threatening cardiovascular collapse."
+      },
+      {
+        "text": "is characterised by profound hypotension",
+        "isCorrect": true,
+        "explanation": "Profound hypotension, resulting from widespread vasodilation and increased capillary permeability, is a hallmark of severe anaphylaxis (Grade 2 and higher). This cardiovascular collapse is a major cause of morbidity and mortality in perioperative anaphylaxis."
+      },
+      {
+        "text": "only occurs with prior exposure to the specific agent",
+        "isCorrect": false,
+        "explanation": "A significant proportion of anaphylactic reactions to neuromuscular blocking drugs (NMBDs) occur upon the very first exposure in an anaesthetic setting. This is thought to be due to pre-existing IgE sensitization from environmental exposure to substances containing similar quaternary ammonium ion epitopes, which are found in various cosmetics, disinfectants, and industrial products."
+      },
+      {
+        "text": "is associated with elevated serum tryptase concentrations",
+        "isCorrect": true,
+        "explanation": "Tryptase is an enzyme stored in and released from mast cell granules during degranulation. A significant elevation of serum tryptase levels, typically measured within 1-4 hours of the event and compared to a baseline level, is a specific biomarker for mast cell activation and is highly suggestive of anaphylaxis."
+      },
+      {
+        "text": "is dose related",
+        "isCorrect": false,
+        "explanation": "True IgE-mediated anaphylaxis is a hypersensitivity reaction, not a toxicological one. It is not dose-related; even a minute quantity of the offending agent can trigger a maximal, life-threatening reaction in a sensitized individual. In contrast, direct, non-immunological histamine release (anaphylactoid reaction) can be dose- and rate-dependent."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.16",
+    "type": "mtf",
+    "stem": "Recognised factors in the elimination of mivacurium include",
+    "source": "BARSAC 2025 Pre · A.16",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "glomerular filtration",
+        "isCorrect": false,
+        "explanation": "Renal excretion of unchanged mivacurium is a minor elimination pathway. Its rapid clearance is dominated by enzymatic hydrolysis in the plasma."
+      },
+      {
+        "text": "protein binding",
+        "isCorrect": false,
+        "explanation": "While protein binding affects the distribution of many drugs, the primary determinant of mivacurium's elimination is its rapid enzymatic breakdown, which occurs much faster than processes related to protein binding and unbinding."
+      },
+      {
+        "text": "hepatic biotransformation",
+        "isCorrect": false,
+        "explanation": "Unlike some other NMBDs, mivacurium does not rely on hepatic metabolism for its elimination. Its clearance is largely independent of liver function, although in end-stage liver disease, reduced production of plasma cholinesterase can prolong its effect."
+      },
+      {
+        "text": "hydrolysis by plasma cholinesterase",
+        "isCorrect": true,
+        "explanation": "Mivacurium is unique among clinically used non-depolarizing NMBDs in that its primary route of elimination is rapid hydrolysis by plasma cholinesterase (pseudocholinesterase), the same enzyme that metabolizes succinylcholine. This enzymatic breakdown is responsible for its short duration of action."
+      },
+      {
+        "text": "blood pH",
+        "isCorrect": false,
+        "explanation": "While blood pH can affect enzyme activity in general, the activity of plasma cholinesterase is not clinically significantly altered by the physiological pH changes encountered during anaesthesia. The primary factor is the presence and activity level of the enzyme itself."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.17",
+    "type": "mtf",
+    "stem": "Uptake of an inhalation anaesthetic from alveoli to the blood is influenced by the",
+    "source": "BARSAC 2025 Pre · A.17",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "blood/gas partition coefficient of the agent",
+        "isCorrect": true,
+        "explanation": "The blood/gas partition coefficient is a measure of the anaesthetic's solubility in blood. A higher coefficient (higher solubility) means that a larger amount of the agent must dissolve in the blood to raise its partial pressure. This increases uptake from the alveoli, which slows the rate of rise of the alveolar partial pressure (PA) toward the inspired partial pressure (PI), resulting in a slower induction of anaesthesia."
+      },
+      {
+        "text": "alveolar ventilation",
+        "isCorrect": true,
+        "explanation": "Alveolar ventilation is responsible for delivering the anaesthetic agent to the alveoli. Increasing ventilation increases the rate at which PA rises, which in turn increases the partial pressure gradient for uptake into the blood. Therefore, increased ventilation enhances uptake, although this effect is more pronounced for soluble agents."
+      },
+      {
+        "text": "cardiac output",
+        "isCorrect": true,
+        "explanation": "Cardiac output determines the rate of blood flow through the pulmonary capillaries. A higher cardiac output means that more blood is available to carry the anaesthetic away from the lungs. This maintains a large partial pressure gradient between the alveoli and the blood, increasing the total rate of uptake and slowing the rise of PA (slower induction)."
+      },
+      {
+        "text": "ventilation/perfusion ratio in the lung",
+        "isCorrect": true,
+        "explanation": "Ventilation/perfusion (V/Q) mismatch affects the efficiency of gas transfer. In areas with low V/Q (shunting), blood is poorly arterialized, and in areas with high V/Q (dead space), ventilation is wasted. Both extremes of V/Q mismatch will impair the transfer of anaesthetic from the alveoli to the pulmonary capillary blood, slowing uptake and induction."
+      },
+      {
+        "text": "partial pressure gradient across the alveolar capillary membrane",
+        "isCorrect": true,
+        "explanation": "The fundamental driving force for the movement of an anaesthetic agent from the alveoli into the blood is the partial pressure gradient between the alveolar gas (PA) and the mixed venous blood returning to the lungs (Pv). A larger gradient results in a higher rate of uptake."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.18",
+    "type": "mtf",
+    "stem": "Local anaesthetic agents primarily biotransformed in the liver include",
+    "source": "BARSAC 2025 Pre · A.18",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "bupivacaine",
+        "isCorrect": true,
+        "explanation": "Bupivacaine is an amide-type local anaesthetic. Amides are primarily metabolized in the liver by microsomal enzymes (cytochrome P450 system)."
+      },
+      {
+        "text": "chloroprocaine",
+        "isCorrect": false,
+        "explanation": "Chloroprocaine is an ester-type local anaesthetic. Esters are rapidly hydrolyzed in the plasma by the enzyme pseudocholinesterase."
+      },
+      {
+        "text": "lidocaine",
+        "isCorrect": true,
+        "explanation": "Lidocaine (lignocaine) is the prototypical amide-type local anaesthetic and undergoes extensive hepatic metabolism."
+      },
+      {
+        "text": "procaine",
+        "isCorrect": false,
+        "explanation": "Procaine is an ester-type local anaesthetic and is metabolized by plasma pseudocholinesterase."
+      },
+      {
+        "text": "prilocaine",
+        "isCorrect": true,
+        "explanation": "Prilocaine is an amide-type local anaesthetic and is metabolized in the liver. Its metabolism is more rapid than that of other amides."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.19",
+    "type": "mtf",
+    "stem": "The rate of onset of intravenous anaesthesia is affected by the",
+    "source": "BARSAC 2025 Pre · A.19",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "solvent used",
+        "isCorrect": false,
+        "explanation": "The solvent (e.g., lipid emulsion for propofol, aqueous solution for thiopental) is critical for the formulation and stability of the drug but does not directly determine the rate of onset. The key factors are the drug's intrinsic properties and its delivery to the effect site."
+      },
+      {
+        "text": "dose used",
+        "isCorrect": true,
+        "explanation": "A larger dose of an intravenous anaesthetic will create a higher initial plasma concentration and a steeper concentration gradient between the blood and the brain. This results in more rapid transfer of the drug across the blood-brain barrier and a faster onset of effect."
+      },
+      {
+        "text": "room temperature",
+        "isCorrect": false,
+        "explanation": "Room temperature has no direct effect on the rate of onset of intravenous anaesthesia. Patient temperature (hypothermia), however, can affect drug metabolism and distribution, potentially prolonging effects, but does not primarily alter the initial onset time."
+      },
+      {
+        "text": "cardiac output",
+        "isCorrect": true,
+        "explanation": "Cardiac output (CO) is a major determinant of the rate of onset. In a state of high CO, a given dose of drug is diluted in a larger volume of blood and distributed more rapidly to all tissues, both active (brain) and inactive (muscle, fat). This leads to a lower peak arterial concentration and a slower onset. Conversely, in a low CO state (e.g., shock), a greater proportion of the CO is directed to the cerebral circulation, and the drug is less diluted, leading to a higher initial concentration at the effect site and a more rapid, profound onset. Therefore, doses must be reduced in low CO states."
+      },
+      {
+        "text": "pH of the solution",
+        "isCorrect": false,
+        "explanation": "The pH of the injected solution itself has a negligible effect on the onset of action. The drug's pKa and the physiological pH of the blood determine the degree of ionization, which influences its ability to cross the blood-brain barrier, but the pH of the formulation is not a primary determinant of onset speed."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.20",
+    "type": "mtf",
+    "stem": "Tramadol",
+    "source": "BARSAC 2025 Pre · A.20",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "acts as a non-selective mu, kappa, and delta-opioid agonist",
+        "isCorrect": false,
+        "explanation": "Tramadol is a weak agonist primarily at the mu-opioid receptor. It has negligible affinity for kappa and delta receptors."
+      },
+      {
+        "text": "is metabolised to O-desmethyltramadol which has no analgesic effect",
+        "isCorrect": false,
+        "explanation": "Tramadol is a prodrug that is metabolized in the liver by the CYP2D6 enzyme to O-desmethyltramadol (M1). The M1 metabolite is a significantly more potent mu-opioid agonist than the parent compound (up to 200-300 times higher affinity) and is responsible for a substantial portion of tramadol's analgesic effect."
+      },
+      {
+        "text": "causes minimal respiratory depression",
+        "isCorrect": true,
+        "explanation": "Compared to equianalgesic doses of conventional opioids like morphine, tramadol causes significantly less respiratory depression. This is attributed to its dual mechanism of action, where a large part of its analgesia comes from serotonin and norepinephrine reuptake inhibition rather than purely from opioid receptor agonism.However, respiratory depression can still occur, especially in overdose or in susceptible individuals (e.g., CYP2D6 ultra-rapid metabolizers)."
+      },
+      {
+        "text": "is presented as the S-enantiomer only",
+        "isCorrect": false,
+        "explanation": "Tramadol is administered as a racemic mixture of its (+) and (-) enantiomers. The two enantiomers have complementary actions: the (+)-enantiomer is a more potent mu-agonist and serotonin reuptake inhibitor, while the (-)-enantiomer is a more potent norepinephrine reuptake inhibitor. This synergistic action contributes to the overall analgesic profile."
+      },
+      {
+        "text": "reduces the potency of ondansetron",
+        "isCorrect": false,
+        "explanation": "There is no evidence to suggest that tramadol reduces the potency of ondansetron. However, co-administration of tramadol (a serotonin reuptake inhibitor) with other serotonergic drugs, including ondansetron (a 5-HT₃ antagonist), can increase the risk of developing serotonin syndrome."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.21",
+    "type": "mtf",
+    "stem": "Accurate methods of determining the amount of nitrous oxide in a cylinder include",
+    "source": "BARSAC 2025 Pre · A.21",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "percussing the cylinder",
+        "isCorrect": false,
+        "explanation": "Percussing (tapping) a cylinder provides no reliable or quantitative information about its contents."
+      },
+      {
+        "text": "measuring the gauge pressure",
+        "isCorrect": false,
+        "explanation": "Nitrous oxide has a critical temperature of 36.4°C, allowing it to be stored as a liquid under pressure at room temperature. The pressure gauge on a nitrous oxide cylinder measures the saturated vapour pressure of the liquid, which remains constant at approximately 745 psi (51 bar) as long as any liquid phase is present. The pressure only begins to fall after approximately 75% of the contents have been used, making the gauge an unreliable indicator of the amount remaining."
+      },
+      {
+        "text": "chromatographic analysis",
+        "isCorrect": false,
+        "explanation": "Gas chromatography is a laboratory technique used to separate and identify the components of a gas mixture. It can confirm the purity of the nitrous oxide but cannot determine the total quantity of gas within the cylinder."
+      },
+      {
+        "text": "weighing the cylinder",
+        "isCorrect": true,
+        "explanation": "Because nitrous oxide exists as a liquid, the only accurate way to determine the amount of remaining agent is by mass. By weighing the cylinder and subtracting the known empty (tare) weight, which is stamped on the cylinder, one can determine the mass of the N₂O. This mass can then be converted to a volume of gas using Avogadro's law and the molecular weight of N₂O."
+      },
+      {
+        "text": "measuring the cylinder temperature",
+        "isCorrect": false,
+        "explanation": "While temperature will affect the saturated vapour pressure within the cylinder, measuring the temperature alone does not provide a measure of the quantity of nitrous oxide remaining."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.22",
+    "type": "mtf",
+    "stem": "Atomic absorption spectrophotometry",
+    "source": "BARSAC 2025 Pre · A.22",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "involves the excitation of light to high energy levels",
+        "isCorrect": false,
+        "explanation": "Atomic absorption spectrophotometry (AAS) involves the absorption of light by atoms, which causes the atoms' electrons to be excited from a low energy (ground) state to a higher energy state. The technique measures the light that is absorbed, not the excitation of the light itself."
+      },
+      {
+        "text": "is a less sensitive technique than flame emission spectrophotometry",
+        "isCorrect": false,
+        "explanation": "AAS is generally a more sensitive technique than flame emission spectrophotometry (FES). In AAS, the vast majority of atoms in the flame are in the ground state and available to absorb light, whereas in FES, only a small fraction of atoms are thermally excited to a level where they will emit light. This larger population of absorbing atoms gives AAS greater sensitivity for most elements."
+      },
+      {
+        "text": "measures the light absorbed at the wavelength of the resonance line by the excited atoms of the element",
+        "isCorrect": false,
+        "explanation": "AAS measures the light absorbed by atoms in the ground (low energy) state, not the excited state. Atoms in the excited state are the source of the signal in atomic emission spectroscopy."
+      },
+      {
+        "text": "uses a monochromatic light source",
+        "isCorrect": true,
+        "explanation": "A key feature of AAS is the use of a monochromatic light source, typically a hollow-cathode lamp containing the specific element being analysed. This lamp emits light at the precise wavelength (resonance line) that the ground-state atoms of that same element will absorb, ensuring high specificity."
+      },
+      {
+        "text": "depends on atoms in a low energy state being capable of absorbing radiation from an appropriate monochromatic light source",
+        "isCorrect": true,
+        "explanation": "The fundamental principle of AAS is that atoms in a low energy or ground state are capable of absorbing radiation of a specific wavelength, which corresponds to the energy required to transition an electron to a higher energy level. The amount of light absorbed is proportional to the concentration of the ground-state atoms in the sample."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.23",
+    "type": "mtf",
+    "stem": "Concerning solubility",
+    "source": "BARSAC 2025 Pre · A.23",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "Henry's law states that the amount of a given gas dissolved in a given liquid is directly proportional to the partial pressure of the gas in equilibrium with the liquid",
+        "isCorrect": true,
+        "explanation": "This is the correct definition of Henry's Law, which describes the relationship between the partial pressure of a gas above a liquid and the concentration of the gas dissolved within that liquid at a constant temperature."
+      },
+      {
+        "text": "as a liquid is warmed less gas is dissolved in it",
+        "isCorrect": true,
+        "explanation": "The dissolution of most gases in liquids is an exothermic process. According to Le Châtelier's principle, increasing the temperature of the system will shift the equilibrium to favour the endothermic direction, which is the gas coming out of solution. Therefore, the solubility of gases in liquids generally decreases as temperature increases."
+      },
+      {
+        "text": "the solubility of a gas depends only upon the gas itself, the temperature, the liquid concerned and the partial pressure",
+        "isCorrect": true,
+        "explanation": "These are the four primary factors that determine the solubility of a gas in a liquid. The nature of the gas and the liquid determine the intermolecular forces, while temperature and partial pressure are the key physical conditions governing the equilibrium, as described by Henry's Law and the principles of thermodynamics."
+      },
+      {
+        "text": "the Bunsen solubility coefficient is the volume of gas corrected to STP which dissolves in one unit volume of the liquid concerned",
+        "isCorrect": true,
+        "explanation": "The Bunsen solubility coefficient (α) is defined as the volume of gas, corrected to standard temperature and pressure (STP: 0°C and 1 atm), that dissolves in a unit volume of a liquid at the specified temperature when the partial pressure of the gas above the liquid is 1 atmosphere."
+      },
+      {
+        "text": "the Ostwald solubility coefficient is the volume of gas which dissolves in one unit volume of the liquid at the temperature concerned",
+        "isCorrect": true,
+        "explanation": "The Ostwald solubility coefficient (λ) is defined as the ratio of the volume of gas that dissolves in a liquid to the volume of the liquid itself, with both volumes measured at the same temperature and pressure of the experiment. It is independent of pressure for ideal gases."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.24",
+    "type": "mtf",
+    "stem": "A circle system",
+    "source": "BARSAC 2025 Pre · A.24",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "has a lower resistance to breathing than the Mapelson A-F systems",
+        "isCorrect": false,
+        "explanation": "Circle systems inherently have higher resistance to breathing compared to Mapleson systems. This increased resistance is due to the presence of multiple components, including two unidirectional valves and, most significantly, the canister of carbon dioxide absorbent granules, through which the gas must flow."
+      },
+      {
+        "text": "usually has a vaporiser within the circle",
+        "isCorrect": false,
+        "explanation": "In modern anaesthesia machines, the vaporizer is placed outside the circle (VOC). This allows a known concentration of anaesthetic to be delivered because the vaporizer is exposed to a constant, known fresh gas flow. A vaporizer-in-circle (VIC) configuration is less common as the output is variable and depends on factors like the patient's minute ventilation and temperature."
+      },
+      {
+        "text": "adjustable pressure-limiting (APL) valve can be sited in the inspiratory or the expiratory limb of the system",
+        "isCorrect": false,
+        "explanation": "The adjustable pressure-limiting (APL) valve is consistently located in the expiratory limb of the circuit, usually near the reservoir bag. This position allows excess gas to be vented from the circuit to the scavenging system without losing fresh gas intended for the patient."
+      },
+      {
+        "text": "has a low apparatus dead space",
+        "isCorrect": true,
+        "explanation": "The apparatus dead space of a breathing circuit is the volume of the circuit containing previously exhaled gas that is rebreathed without passing through the CO₂ absorber. In a circle system, due to the unidirectional valves, this is limited to the volume distal to the point where the inspiratory and expiratory streams diverge, i.e., the Y-piece and patient connector. This volume is relatively small."
+      },
+      {
+        "text": "can function effectively at very low fresh gas flow rates",
+        "isCorrect": true,
+        "explanation": "The defining advantage of the circle system is its ability to function with very low fresh gas flow (FGF) rates. Because exhaled CO₂ is chemically removed by the absorbent, the bulk of the exhaled gas can be rebreathed. The FGF only needs to replace the oxygen consumed by the patient and the anaesthetic agent taken up by the patient and the circuit. This makes low-flow, minimal-flow, and closed-circuit anaesthesia possible, conserving gas, heat, and humidity."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.25",
+    "type": "mtf",
+    "stem": "Concerning the Gas Laws",
+    "source": "BARSAC 2025 Pre · A.25",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "Dalton's law states that in a mixture of gases, the pressure exerted by each gas is the same as that which it would exert if occupying the same volume alone",
+        "isCorrect": true,
+        "explanation": "This is a correct statement of Dalton's Law of Partial Pressures. It posits that for a mixture of non-reacting gases, the total pressure is the sum of the partial pressures of the individual gases, where each partial pressure is the pressure that gas would exert if it alone occupied the entire volume."
+      },
+      {
+        "text": "the partial pressure of a gas in a mixture is equivalent to the total pressure multiplied by the fractional concentration of the gas",
+        "isCorrect": true,
+        "explanation": "This follows directly from Dalton's Law. The partial pressure (Pgas) of a component gas in a mixture is equal to the total pressure (Ptotal) of the mixture multiplied by the mole fraction (or fractional concentration, Fgas) of that gas: Pgas=Ptotal×Fgas."
+      },
+      {
+        "text": "the normal alveolar water vapour pressure is 6.3 kPa (47.3 mmHg)",
+        "isCorrect": true,
+        "explanation": "In the airways, inspired gas becomes fully saturated with water vapour at body temperature (37°C). The saturated water vapour pressure at 37°C is 47 mmHg, which is equivalent to approximately 6.3 kPa."
+      },
+      {
+        "text": "for a given gas, the universal gas law states that the universal gas constant (R) multiplied by the number of moles of the gas (n) equals pressure (P) multiplied by volume (V) divided by temperature (T)",
+        "isCorrect": true,
+        "explanation": "The Ideal Gas Law is correctly stated as PV=nRT. Rearranging this equation gives nR=PV/T. This relationship connects the macroscopic properties of pressure (P), volume (V), number of moles (n), and absolute temperature (T) via the universal gas constant (R)."
+      },
+      {
+        "text": "in a gas cylinder, doubling the absolute temperature halves the gas pressure",
+        "isCorrect": false,
+        "explanation": "This statement describes an inverse relationship, which is incorrect. According to Gay-Lussac's Law, for a fixed volume of gas (as in a cylinder), the pressure is directly proportional to the absolute temperature (P∝T). Therefore, doubling the absolute temperature would double the gas pressure, not halve it."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.26",
+    "type": "mtf",
+    "stem": "Flowmeter readings are rendered inaccurate by",
+    "source": "BARSAC 2025 Pre · A.26",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "the presence of minute quantities of dirt on the inside of the Rotameter tube",
+        "isCorrect": true,
+        "explanation": "Dirt or debris on the inside of the tapered glass tube of a Rotameter (a variable orifice flowmeter) can interfere with the free movement of the bobbin, causing it to stick and give an inaccurate reading."
+      },
+      {
+        "text": "a gas being passed through a Rotameter that has been calibrated for another gas",
+        "isCorrect": true,
+        "explanation": "Rotameters are calibrated for a specific gas based on its density and viscosity. Gas flow through the annular space around the bobbin is laminar at low flows (dependent on viscosity) and turbulent at high flows (dependent on density). Using a gas for which the flowmeter was not calibrated will result in an inaccurate reading because these physical properties will differ."
+      },
+      {
+        "text": "a leak at the base of the Rotameter tube",
+        "isCorrect": false,
+        "explanation": "A leak at the base of the Rotameter tube (i.e., between the gas source and the flowmeter inlet) would mean that less gas enters the flowmeter than is supplied by the source. However, the flowmeter would still accurately measure the gas that is passing through it. The reading would be accurate, but the delivered flow to the circuit would be lower than the set flow. A leak at the top of the tube would cause the reading to be higher than the flow delivered to the patient."
+      },
+      {
+        "text": "the development of an electrostatic charge on the bobbin and Rotameter tube wall",
+        "isCorrect": true,
+        "explanation": "The development of static electricity, particularly with non-conductive plastic bobbins and glass tubes, can cause the bobbin to stick to the wall of the tube, leading to an inaccurate reading."
+      },
+      {
+        "text": "failure to have the Rotameter vertical",
+        "isCorrect": true,
+        "explanation": "Rotameters rely on the force of gravity balancing the upward force of the gas flow on the bobbin. They must be oriented vertically for gravity to act correctly. If the tube is tilted, the bobbin will be supported partly by the tube wall, leading to an inaccurate (falsely high) reading for a given flow."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.27",
+    "type": "mtf",
+    "stem": "The following can be used in indirect measurement of arterial blood pressure",
+    "source": "BARSAC 2025 Pre · A.27",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "electrostatic induction",
+        "isCorrect": false,
+        "explanation": "Electrostatic induction is a principle related to electric fields and charges and is not used for blood pressure measurement."
+      },
+      {
+        "text": "doppler principle",
+        "isCorrect": true,
+        "explanation": "The Doppler principle is used for indirect blood pressure measurement. An ultrasound probe is placed over a distal artery, and a cuff is inflated proximally. The systolic pressure is recorded as the pressure at which the Doppler sound of arterial flow returns during cuff deflation."
+      },
+      {
+        "text": "Von Recklinghausen oscillotonometer",
+        "isCorrect": true,
+        "explanation": "The Von Recklinghausen oscillotonometer was an early mechanical device for measuring blood pressure based on the oscillometric principle. Modern automated non-invasive blood pressure (NIBP) monitors are electronic descendants of this principle, detecting arterial wall oscillations during cuff deflation to determine mean, systolic, and diastolic pressures."
+      },
+      {
+        "text": "impedance plethysmography",
+        "isCorrect": false,
+        "explanation": "Impedance plethysmography measures changes in electrical impedance in a body segment, which can be used to assess changes in blood volume (e.g., for diagnosing deep vein thrombosis) or cardiac output, but it is not a primary method for measuring arterial blood pressure."
+      },
+      {
+        "text": "transillumination",
+        "isCorrect": false,
+        "explanation": "Transillumination, or photoplethysmography, is the principle behind pulse oximetry. It measures changes in light absorption to detect pulsatile blood flow and determine oxygen saturation and pulse rate, but not arterial pressure."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.28",
+    "type": "mtf",
+    "stem": "The PaCO₂ can be readily determined with",
+    "source": "BARSAC 2025 Pre · A.28",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "a Severinghaus electrode",
+        "isCorrect": true,
+        "explanation": "The Severinghaus electrode is the standard electrochemical sensor used in modern blood gas analysers to measure the partial pressure of carbon dioxide (PCO2). It is essentially a pH-sensitive glass electrode that measures the change in pH of a bicarbonate solution as CO₂ from the blood sample diffuses across a semipermeable membrane."
+      },
+      {
+        "text": "a Clark electrode",
+        "isCorrect": false,
+        "explanation": "The Clark electrode is an amperometric electrode used to measure the partial pressure of oxygen (PO2), not PCO2."
+      },
+      {
+        "text": "the Astrup technique",
+        "isCorrect": true,
+        "explanation": "The Astrup technique is a historical method for determining blood gas values. It involved measuring the pH of a blood sample, then equilibrating the sample with two gases of known PCO2 and re-measuring the pH. The original PCO2 was then determined by interpolation on a logarithmic plot of pH versus PCO2. While historically important and functional, it has been superseded by the direct-reading Severinghaus electrode."
+      },
+      {
+        "text": "Riley analysis",
+        "isCorrect": false,
+        "explanation": "Riley analysis refers to a method of analysing the components of the alveolar-arterial oxygen gradient by relating it to ventilation-perfusion mismatch and shunt, not a direct method for measuring PaCO2."
+      },
+      {
+        "text": "gas chromatography",
+        "isCorrect": true,
+        "explanation": "Gas chromatography is a highly accurate laboratory method that can separate and quantify gases, including CO₂, in a blood sample. However, it is a complex and time-consuming laboratory procedure and is not used for the \"ready\" or rapid determination of PaCO2 in a clinical setting like a blood gas analyser."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.29",
+    "type": "mtf",
+    "stem": "Measurement of cardiac output by thermodilution is accurate if the",
+    "source": "BARSAC 2025 Pre · A.29",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "measurement is made using saline at room temperature",
+        "isCorrect": true,
+        "explanation": "While iced saline provides a greater temperature difference and thus a better signal-to-noise ratio, thermodilution cardiac output (CO) measurement can be performed accurately using saline at room temperature. The monitor simply needs to be set to account for the smaller temperature differential of the injectate."
+      },
+      {
+        "text": "patient has an intraventricular septal defect",
+        "isCorrect": false,
+        "explanation": "An intraventricular septal defect (VSD) involves a left-to-right shunt. The cold injectate delivered to the right atrium passes through the right ventricle, but a portion of the warmed blood from the left ventricle shunts back into the right ventricle, mixing with the indicator before it reaches the pulmonary artery thermistor. This leads to premature warming of the injectate and an underestimation of the temperature change, resulting in a falsely highcardiac output reading."
+      },
+      {
+        "text": "patient has aortic incompetence",
+        "isCorrect": false,
+        "explanation": "Significant aortic incompetence (regurgitation) causes a portion of the ejected stroke volume to leak back into the left ventricle during diastole. This can affect the temperature and flow dynamics in the aorta, potentially leading to inaccuracies if using a transpulmonary thermodilution system (e.g., PiCCO). For pulmonary artery thermodilution, the effect is less direct but can still alter right-sided haemodynamics and potentially affect accuracy."
+      },
+      {
+        "text": "patient suffers from Fallot's tetralogy",
+        "isCorrect": false,
+        "explanation": "Fallot's tetralogy is a complex congenital heart defect that includes a VSD and an overriding aorta, resulting in a right-to-left shunt. A portion of the cold injectate from the right ventricle is shunted directly into the aorta, bypassing the pulmonary artery thermistor entirely. This loss of indicator leads to a falsely high estimation of cardiac output."
+      },
+      {
+        "text": "patient has mitral stenosis",
+        "isCorrect": true,
+        "explanation": "Mitral stenosis affects left atrial and ventricular filling but does not involve an intracardiac shunt or significant tricuspid/pulmonic regurgitation that would violate the core principles of the Stewart-Hamilton equation used in thermodilution. Therefore, thermodilution remains an accurate method for measuring cardiac output in patients with mitral stenosis."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-a.30",
+    "type": "mtf",
+    "stem": "The distribution of results about the mean is indicated by",
+    "source": "BARSAC 2025 Pre · A.30",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "standard deviation",
+        "isCorrect": true,
+        "explanation": "The standard deviation (SD) is the most common statistical measure used to quantify the amount of variation or dispersion of a set of data values around their mean. A low SD indicates that the data points tend to be close to the mean, while a high SD indicates that the data points are spread out over a wider range."
+      },
+      {
+        "text": "variance",
+        "isCorrect": true,
+        "explanation": "Variance is also a measure of the distribution or spread of data. It is defined as the average of the squared differences from the mean, and it is the square of the standard deviation (σ2). While it directly measures dispersion, its units are squared (e.g., mmHg2), making the SD (which has the same units as the original data) more intuitive for direct interpretation."
+      },
+      {
+        "text": "value of Student's t",
+        "isCorrect": false,
+        "explanation": "The Student's t-value is a test statistic calculated during hypothesis testing (e.g., a t-test). It is used to determine the probability that the difference between two sample means occurred by chance and is not a descriptive statistic for the distribution of a single dataset."
+      },
+      {
+        "text": "standard error of the mean",
+        "isCorrect": true,
+        "explanation": "The standard error of the mean (SEM) describes the distribution of sample means if one were to repeatedly sample from the same population. It is calculated as the standard deviation divided by the square root of the sample size (SD/n). It indicates the precision of the sample mean as an estimate of the true population mean. While it describes a distribution (of means), it is distinct from the SD, which describes the distribution of the individual data points within the sample."
+      },
+      {
+        "text": "mode",
+        "isCorrect": false,
+        "explanation": "The mode is the value that appears most frequently in a data set. It is a measure of central tendency, similar to the mean and median, and does not describe the spread or distribution of the data around the mean."
+      }
+    ]
+  }
+]

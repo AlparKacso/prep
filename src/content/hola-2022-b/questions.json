@@ -1,0 +1,104 @@
+[
+  {
+    "id": "hola-2022-b-54",
+    "type": "mtf",
+    "stem": "Regarding empirical antimicrobial therapy",
+    "source": "HOLA 2022 · Paper B · Q54",
+    "explanation": "Empirical therapy is started before the causative organism is identified, using broad-spectrum cover, which is then de-escalated once cultures return.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      { "text": "it is used when the cause of infection is exactly known", "isCorrect": false, "explanation": "Empirical therapy is by definition started before the organism is known; targeted therapy is used once it is identified." },
+      { "text": "macrolides should be avoided", "isCorrect": false, "explanation": "There is no blanket rule against macrolides; choice depends on the likely pathogen and local guidance." },
+      { "text": "broad spectrum agents should be used initially", "isCorrect": true, "explanation": "Initial empirical cover is deliberately broad to cover likely pathogens until cultures guide narrowing." },
+      { "text": "it should always use a single agent", "isCorrect": false, "explanation": "Combination therapy is often used empirically (e.g. severe sepsis) depending on the suspected source." },
+      { "text": "prolonged administration of broad-spectrum coverage should be avoided", "isCorrect": true, "explanation": "Therapy should be de-escalated promptly to limit resistance and toxicity once culture results are available." }
+    ]
+  },
+  {
+    "id": "hola-2022-b-55",
+    "type": "mtf",
+    "stem": "Reasons for no response to train-of-four (TOF) stimulation, 90 min after the last dose of muscle relaxant include",
+    "source": "HOLA 2022 · Paper B · Q55",
+    "explanation": "Persistent absent TOF reflects ongoing neuromuscular block — from drug sensitivity or impaired metabolism — not from anaesthetic depth or opioids, which do not act at the neuromuscular junction.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      { "text": "myasthenia gravis", "isCorrect": true, "explanation": "Myasthenic patients are markedly sensitive to non-depolarising blockers, producing prolonged block." },
+      { "text": "excessive depth of anaesthesia", "isCorrect": false, "explanation": "Anaesthetic depth does not abolish the TOF response; the neuromuscular junction is unaffected." },
+      { "text": "a genetic cholinesterase abnormality", "isCorrect": true, "explanation": "Atypical plasma cholinesterase markedly prolongs suxamethonium/mivacurium block." },
+      { "text": "phenytoin therapy for epilepsy", "isCorrect": false, "explanation": "Chronic phenytoin induces resistance to non-depolarising blockers (faster recovery), not prolonged block." },
+      { "text": "high dose remifentanil infusion", "isCorrect": false, "explanation": "Opioids have no action at the neuromuscular junction and do not abolish TOF." }
+    ]
+  },
+  {
+    "id": "hola-2022-b-56",
+    "type": "mtf",
+    "stem": "Use of ketamine in paediatric anaesthesia",
+    "source": "HOLA 2022 · Paper B · Q56",
+    "explanation": "Ketamine preserves spontaneous ventilation and a relatively patent airway and is useful for IM induction with poor venous access, but it does not protect against aspiration or reliably prevent laryngospasm.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      { "text": "is recommended as the sole anaesthetic for children with a full stomach", "isCorrect": false, "explanation": "Ketamine does not protect the airway against aspiration; a full stomach still mandates airway protection." },
+      { "text": "by the intramuscular route (up to 10 mg/kg) permits line insertion in children with poor venous access", "isCorrect": true, "explanation": "IM ketamine is a recognised technique to achieve dissociation and allow cannulation." },
+      { "text": "is the induction agent of choice for children with an active upper respiratory tract infection", "isCorrect": false, "explanation": "Elective anaesthesia is generally deferred with an active URTI; ketamine is not an indication to proceed." },
+      { "text": "avoids laryngospasm", "isCorrect": false, "explanation": "Laryngospasm can still occur; ketamine also increases secretions, which may aggravate it." },
+      { "text": "is associated with maintenance of spontaneous respiration and a patent airway during induction", "isCorrect": true, "explanation": "Relative preservation of ventilation and airway tone is a characteristic feature of ketamine." }
+    ]
+  },
+  {
+    "id": "hola-2022-b-57",
+    "type": "mtf",
+    "stem": "In eclampsia",
+    "source": "HOLA 2022 · Paper B · Q57",
+    "explanation": "Eclamptic seizures can occur ante-, intra- or postpartum and even with normal blood pressure; magnesium sulfate is first-line and intracranial haemorrhage is a recognised complication of severe hypertension.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      { "text": "seizures can occur after delivery", "isCorrect": true, "explanation": "Postpartum eclampsia is well recognised, sometimes days after delivery." },
+      { "text": "seizures can occur in parturients with normal blood pressure", "isCorrect": true, "explanation": "Atypical/normotensive eclampsia is described; normal BP does not exclude it." },
+      { "text": "an intravenous infusion of magnesium is the agent of choice to treat seizures", "isCorrect": true, "explanation": "Magnesium sulfate is the first-line drug for treating and preventing eclamptic seizures." },
+      { "text": "intracranial hemorrhage is a complication of severe hypertension", "isCorrect": true, "explanation": "Intracerebral haemorrhage is a major cause of death in severe pre-eclampsia/eclampsia." },
+      { "text": "a long period of pre-eclampsia precedes symptoms", "isCorrect": false, "explanation": "Eclampsia can occur abruptly without a prolonged preceding pre-eclamptic phase." }
+    ]
+  },
+  {
+    "id": "hola-2022-b-58",
+    "type": "mtf",
+    "stem": "Comatose patients after a motor vehicle accident",
+    "source": "HOLA 2022 · Paper B · Q58",
+    "explanation": "Airway protection with cervical-spine precautions is the priority; routine high-dose barbiturates are not indicated and a MAP target of 60 mmHg is too low when traumatic brain injury is likely.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      { "text": "must be protected against aspiration", "isCorrect": true, "explanation": "A reduced conscious level mandates airway protection against aspiration." },
+      { "text": "should be intubated using high-dose rocuronium for rapid onset of neuromuscular blockade", "isCorrect": false, "explanation": "Rapid-sequence induction is appropriate, but routine 'high-dose rocuronium' is not the standard prescription as stated." },
+      { "text": "should be treated with high-dose barbiturates", "isCorrect": false, "explanation": "Barbiturate coma is a last-line measure for refractory raised ICP, not routine management." },
+      { "text": "require rapid fluid resuscitation to a target mean arterial pressure of 60 mmHg", "isCorrect": false, "explanation": "With likely traumatic brain injury a higher MAP is needed to maintain cerebral perfusion; 60 mmHg is too low." },
+      { "text": "should be intubated after a rigid cervical spine collar has been placed", "isCorrect": true, "explanation": "Cervical-spine protection is required; manual in-line stabilisation is used during laryngoscopy." }
+    ]
+  },
+  {
+    "id": "hola-2022-b-59",
+    "type": "mtf",
+    "stem": "An oliguric patient after kidney transplantation has a serum potassium level of 7.1 mmol/L",
+    "source": "HOLA 2022 · Paper B · Q59",
+    "explanation": "Severe hyperkalaemia is managed with calcium for myocardial membrane stabilisation plus insulin/dextrose to shift potassium intracellularly; haemodialysis (not CVVH) is the fastest route of removal, and bicarbonate is not first-line.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      { "text": "soluble insulin can be given to move K⁺ into cells", "isCorrect": true, "explanation": "Insulin (with dextrose) is a standard measure to shift potassium intracellularly." },
+      { "text": "in the absence of cardiac arrhythmia, intravenous administration of furosemide is appropriate", "isCorrect": true, "explanation": "If any renal function remains, a loop diuretic promotes kaliuresis as an adjunct." },
+      { "text": "continuous venovenous haemofiltration is the method of choice to remove K⁺ rapidly from the body", "isCorrect": false, "explanation": "Intermittent haemodialysis removes potassium far faster than CVVH for life-threatening hyperkalaemia." },
+      { "text": "intravenous infusion of sodium bicarbonate is the first choice therapy", "isCorrect": false, "explanation": "Bicarbonate is adjunctive; calcium (cardioprotection) and insulin/dextrose are higher priority." },
+      { "text": "intravenous Ca²⁺ should be administered", "isCorrect": true, "explanation": "At K⁺ 7.1 mmol/L IV calcium is given to stabilise the myocardium against arrhythmia." }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+.env.local
+.env
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Source exam material — large + copyrighted, parsed into src/content/ instead.
+# Never push this to a hosting provider.
+SOURCE DOCS/
+prep./
+
+# Stray large/binary reference files
+*.mov
+*.pdf
