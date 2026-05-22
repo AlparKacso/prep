@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "barsac-2025-post-b1",
+    "type": "mtf",
+    "stem": "Recognised treatment of intraoperative hypotension includes",
+    "source": "BARSAC 2025 Post · B1",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "noradrenaline",
+        "isCorrect": true,
+        "explanation": "Noradrenaline is a potent vasopressor with strong alpha-1 and mild beta-1 adrenergic agonist effects. It is a cornerstone in the management of intraoperative hypotension, particularly in the context of vasodilation induced by general or regional anaesthesia. It is commonly administered as a continuous intravenous infusion to maintain a target mean arterial pressure and is increasingly considered a first-line agent for preventing and treating hypotension during major surgery."
+      },
+      {
+        "text": "fresh frozen plasma",
+        "isCorrect": false,
+        "explanation": "Fresh frozen plasma (FFP) is a blood product containing all coagulation factors. Its indication is the correction of coagulopathy, especially in the context of active bleeding or prior to an invasive procedure in a patient with abnormal coagulation tests. FFP is not indicated as a primary treatment for intraoperative hypotension, which is typically caused by vasodilation or hypovolemia, not a deficiency of clotting factors."
+      },
+      {
+        "text": "phentolamine",
+        "isCorrect": false,
+        "explanation": "Phentolamine is a non-selective alpha-adrenergic antagonist. By blocking alpha receptors, it causes vasodilation and a subsequent decrease in blood pressure. It is used in the management of hypertensive emergencies, such as those associated with pheochromocytoma, and to counteract extravasation of sympathomimetic agents; it would exacerbate, not treat, hypotension."
+      },
+      {
+        "text": "ephedrine",
+        "isCorrect": true,
+        "explanation": "Ephedrine is a mixed-acting sympathomimetic agent that acts both directly on adrenergic receptors and indirectly by stimulating the release of endogenous norepinephrine. It is widely used as an intravenous bolus to treat transient episodes of hypotension, especially when accompanied by bradycardia, due to its positive chronotropic and inotropic effects."
+      },
+      {
+        "text": "clonidine",
+        "isCorrect": false,
+        "explanation": "Clonidine is a centrally acting alpha-2 adrenergic agonist used as an antihypertensive medication. It acts by decreasing sympathetic outflow from the central nervous system, which leads to a reduction in heart rate, relaxation of blood vessels, and a decrease in blood pressure. Its administration would worsen intraoperative hypotension."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b2",
+    "type": "mtf",
+    "stem": "In a patient taking non-selective monoamine oxidase inhibitors",
+    "source": "BARSAC 2025 Post · B2",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "ephedrine can be safely used",
+        "isCorrect": false,
+        "explanation": "This is a classic and dangerous drug interaction. Non-selective monoamine oxidase inhibitors (MAOIs) prevent the breakdown of catecholamines like norepinephrine. Ephedrine is an indirect-acting sympathomimetic that causes the release of stored norepinephrine. The combination can lead to a massive surge of norepinephrine at the synapse, precipitating a potentially fatal hypertensive crisis."
+      },
+      {
+        "text": "pethidine should not be used",
+        "isCorrect": true,
+        "explanation": "The co-administration of pethidine (meperidine) and MAOIs is absolutely contraindicated. Pethidine has serotonergic properties, and in the presence of an MAOI, it can lead to a severe, life-threatening excitatory reaction known as serotonin syndrome, characterized by hyperpyrexia, muscle rigidity, and cardiovascular collapse."
+      },
+      {
+        "text": "local anaesthesia is contraindicated",
+        "isCorrect": false,
+        "explanation": "Local anaesthetics themselves do not interact with MAOIs. Caution is warranted when using local anaesthetic solutions that contain vasoconstrictors like adrenaline (epinephrine), as their pressor effects may be potentiated. However, this is a relative caution requiring dose adjustment and careful monitoring, not an absolute contraindication to the use of local anaesthesia."
+      },
+      {
+        "text": "halothane should be avoided",
+        "isCorrect": false,
+        "explanation": "While halothane is now rarely used in modern practice, there is no specific contraindication with MAOIs. Inhalational anaesthetic agents are generally considered safe for use in patients taking MAOIs, provided that hypotension is managed with appropriate, direct-acting vasopressors."
+      },
+      {
+        "text": "elective surgery should be postponed for at least one month after stopping the drug",
+        "isCorrect": false,
+        "explanation": "The traditional recommendation for irreversible, non-selective MAOIs is to discontinue the drug for at least two weeks prior to elective surgery to allow for regeneration of the monoamine oxidase enzyme. A one-month period is excessive. Furthermore, this traditional practice is increasingly challenged, as the risk of psychiatric relapse from stopping the drug can be significant. Many guidelines now support continuing MAOIs perioperatively with careful selection of anaesthetic agents."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b3",
+    "type": "mtf",
+    "stem": "A hypertensive man receiving atenolol, together with a diuretic and presenting for anaesthesia for major gastric surgery should",
+    "source": "BARSAC 2025 Post · B3",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "have his atenolol replaced by methyldopa preoperatively",
+        "isCorrect": false,
+        "explanation": "There is no clinical indication to switch from a beta-blocker to methyldopa. Abruptly stopping atenolol would be hazardous, risking rebound tachycardia and hypertension due to the upregulation of beta-receptors. Perioperative management focuses on continuing, not switching, essential cardiovascular medications."
+      },
+      {
+        "text": "have a preoperative ECG",
+        "isCorrect": true,
+        "explanation": "Major guidelines recommend a preoperative electrocardiogram (ECG) for patients with at least one clinical risk factor (in this case, hypertension) who are scheduled for an intermediate- or high-risk surgical procedure (major gastric surgery). The ECG serves to identify underlying conditions such as left ventricular hypertrophy, arrhythmias, or evidence of silent ischemia that could impact perioperative management."
+      },
+      {
+        "text": "continue to receive antihypertensive therapy up to the time of operation",
+        "isCorrect": true,
+        "explanation": "It is a fundamental principle of modern perioperative medicine that beta-blockers must be continued throughout the perioperative period, including the morning of surgery. This practice maintains hemodynamic stability and prevents the adverse effects of acute withdrawal. Most other antihypertensives are also continued, with the notable exception of ACE inhibitors and ARBs, which are often withheld on the day of surgery."
+      },
+      {
+        "text": "not receive thoracic epidural anaesthesia",
+        "isCorrect": false,
+        "explanation": "Thoracic epidural anaesthesia is not contraindicated in hypertensive patients and is often a highly beneficial technique for major upper abdominal surgery. It provides excellent analgesia, blunts the surgical stress response, and may facilitate faster recovery of gut function. While the sympathectomy produced by the epidural can cause hypotension, this is a predictable and manageable side effect."
+      },
+      {
+        "text": "only receive 3ml/kg/hour crystalloid replacement to avoid fluid overload",
+        "isCorrect": false,
+        "explanation": "Prescribing a fixed, arbitrary fluid rate such as 3 ml/kg/hour is an outdated and overly simplistic approach to fluid management for major surgery. Modern practice emphasizes goal-directed fluid therapy, where fluid administration is guided by dynamic parameters of fluid responsiveness to maintain euvolemia and optimize cardiac output, thereby avoiding both hypovolemia and the complications of fluid overload."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b4",
+    "type": "mtf",
+    "stem": "Indications for elective postoperative mechanical ventilation include",
+    "source": "BARSAC 2025 Post · B4",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "dead space to tidal volume ratio (VD/VT) of 0.8",
+        "isCorrect": true,
+        "explanation": "The dead space to tidal volume ratio (VD/VT) quantifies the proportion of each breath that does not participate in gas exchange. A normal value in a ventilated patient is around 0.3-0.5. A value greater than 0.6 is a strong predictor of weaning failure, as it indicates severe ventilation-perfusion mismatch and inefficient carbon dioxide elimination. A ratio of 0.8 represents profound inefficiency and would necessitate continued mechanical ventilation."
+      },
+      {
+        "text": "A-aDO2 of 150 mmHg (20 kPa) at FiO2 1.0",
+        "isCorrect": false,
+        "explanation": "The alveolar-arterial oxygen gradient (A−aDO2) reflects the degree of intrapulmonary shunting. While a value of 150 mmHg on 100% oxygen (FiO2 1.0) is elevated, it is not an absolute contraindication to extubation. Many postoperative patients have a degree of atelectasis and V/Q mismatch. Such a gradient can often be managed with supplemental oxygen via a face mask or nasal cannula after extubation, provided other weaning parameters are met."
+      },
+      {
+        "text": "maximum inspiratory force of -5 cmH2O",
+        "isCorrect": true,
+        "explanation": "Maximum inspiratory force (MIF), also known as negative inspiratory force (NIF), is a measure of respiratory muscle strength. A value of -5 cmH2O indicates profound muscle weakness. A value more negative than -20 to -25 cmH2O is generally required to ensure the patient can take a deep breath and generate an effective cough to clear secretions. A MIF of -5 cmH2O is a clear indication for continued ventilatory support."
+      },
+      {
+        "text": "vital capacity of 20 mL/kg",
+        "isCorrect": false,
+        "explanation": "Vital capacity (VC) is the maximum amount of air a person can exhale after a maximal inhalation. A VC greater than 10-15 mL/kg of ideal body weight is a standard criterion indicating adequate respiratory muscle function for successful weaning and extubation. Therefore, a VC of 20 mL/kg is well above the minimum threshold and would support, rather than preclude, extubation."
+      },
+      {
+        "text": "FEV1/FVC ratio (Tiffeneau) of 70%",
+        "isCorrect": false,
+        "explanation": "The ratio of forced expiratory volume in one second (FEV1) to forced vital capacity (FVC) is a parameter obtained from preoperative spirometry used to diagnose and quantify obstructive lung disease. While a low FEV1/FVC ratio is a risk factor for postoperative pulmonary complications, it is not an acute weaning parameter used at the bedside to determine the need for immediate postoperative mechanical ventilation."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b5",
+    "type": "mtf",
+    "stem": "End-tidal CO2 concentration is decreased by",
+    "source": "BARSAC 2025 Post · B5",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "sodium bicarbonate infusion",
+        "isCorrect": false,
+        "explanation": "Intravenous administration of sodium bicarbonate (NaHCO3) leads to its buffering by acids in the blood, producing carbonic acid (H2CO3), which then dissociates into water and carbon dioxide (CO2). This newly formed CO2 is transported to the lungs and excreted, causing a transient increase in the end-tidal CO2 (ETCO2) concentration."
+      },
+      {
+        "text": "pulmonary embolism",
+        "isCorrect": true,
+        "explanation": "A pulmonary embolism obstructs blood flow to a region of the lung, creating alveolar dead space—an area that is ventilated but not perfused. Gas from these non-perfused alveoli contains no CO2 and mixes with gas from perfused areas during exhalation. This dilution effect results in a lower overall concentration of CO2 at the end of expiration, causing a sudden and often significant drop in ETCO2."
+      },
+      {
+        "text": "a reduction in cardiac output",
+        "isCorrect": true,
+        "explanation": "The delivery of CO2 from the tissues to the lungs is directly dependent on cardiac output (pulmonary blood flow). A significant reduction in cardiac output leads to decreased transport of CO2 to the alveoli for excretion. With ventilation remaining constant, this results in a lower partial pressure of CO2 in the exhaled gas and thus a decreased ETCO2."
+      },
+      {
+        "text": "atelectasis",
+        "isCorrect": false,
+        "explanation": "Atelectasis represents an area of the lung that is perfused but not ventilated, which is the definition of an intrapulmonary shunt. Shunt physiology does not primarily cause a decrease in ETCO2. In fact, by impairing overall gas exchange, it can lead to a rise in arterial CO2 (PaCO2) and an increase in the gradient between arterial and end-tidal CO2, but the ETCO2 value itself does not typically fall."
+      },
+      {
+        "text": "hypothermia",
+        "isCorrect": true,
+        "explanation": "Hypothermia reduces the body's metabolic rate, which in turn decreases the production of carbon dioxide as a byproduct of cellular metabolism. With ventilation held constant, this reduction in CO2 production leads to a lower concentration of CO2 in the blood being delivered to the lungs, and consequently, a lower end-tidal CO2concentration."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b6",
+    "type": "mtf",
+    "stem": "Appropriate preventative measures in a patient thought to have suffered an anaphylactic reaction during a previous anaesthetic include",
+    "source": "BARSAC 2025 Post · B6",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "antihistamine premedication",
+        "isCorrect": true,
+        "explanation": "While the evidence for its efficacy in preventing severe anaphylaxis is debated, premedication with H1 and H2 receptor antagonists is a commonly employed strategy, particularly in emergency situations where the specific allergen is unknown. The rationale is to block histamine receptors, potentially attenuating the clinical manifestations of a reaction should one occur."
+      },
+      {
+        "text": "preoperative di-sodium chromoglycate therapy",
+        "isCorrect": false,
+        "explanation": "Sodium cromoglycate is a mast cell stabilizer used primarily for the prophylactic treatment of asthma and allergic rhinitis. It has a slow onset of action and is not indicated for the acute prevention of intraoperative anaphylaxis. Its role is in the chronic management of allergic conditions, not as a preoperative preventative measure for drug-induced anaphylaxis."
+      },
+      {
+        "text": "the avoidance of exposure to latex",
+        "isCorrect": true,
+        "explanation": "If a patient has a history of a potential anaphylactic reaction during a previous anaesthetic and has not been fully investigated, latex must be considered a possible culprit. Latex allergy is a known cause of perioperative anaphylaxis, and therefore, creating a latex-free environment is a critical and standard preventative measure until the specific allergen is identified."
+      },
+      {
+        "text": "the avoidance of suxamethonium",
+        "isCorrect": true,
+        "explanation": "Neuromuscular blocking agents are the most common cause of anaphylaxis during anaesthesia, with suxamethonium being one of the most frequently implicated drugs. Therefore, in a patient with a suspected previous reaction, it is prudent to avoid suxamethonium and other neuromuscular blockers unless allergy testing has excluded them as the cause."
+      },
+      {
+        "text": "complement stabilisation with indomethacin",
+        "isCorrect": false,
+        "explanation": "This is not a recognized or effective strategy for preventing anaphylaxis. Anaphylaxis is primarily an IgE-mediated mast cell degranulation event. While the complement system can be involved in some hypersensitivity reactions (anaphylactoid reactions), indomethacin, a non-steroidal anti-inflammatory drug, does not \"stabilize\" the complement system in a way that would prevent such a reaction."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b7",
+    "type": "mtf",
+    "stem": "Likely findings in an elderly patient with prolonged intestinal obstruction who is hypotensive and confused include",
+    "source": "BARSAC 2025 Post · B7",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "tachypnoea",
+        "isCorrect": true,
+        "explanation": "Hypotension and confusion suggest significant dehydration and possibly sepsis from bacterial translocation or bowel ischemia. The resulting metabolic acidosis would stimulate a compensatory respiratory alkalosis, leading to an increased respiratory rate (tachypnoea) as the body attempts to excrete CO2."
+      },
+      {
+        "text": "arterial hypoxaemia",
+        "isCorrect": true,
+        "explanation": "Abdominal distension from the obstruction can splint the diaphragm, leading to atelectasis and ventilation-perfusion mismatch, which causes hypoxaemia. Furthermore, if the patient is septic or has aspirated vomitus, acute respiratory distress syndrome (ARDS) could develop, causing severe hypoxaemia."
+      },
+      {
+        "text": "metabolic acidosis",
+        "isCorrect": true,
+        "explanation": "While vomiting from a high obstruction can cause a hypochloremic metabolic alkalosis, a prolonged obstruction, particularly a distal one or one complicated by bowel ischemia, leads to a metabolic acidosis. This is caused by lactic acid production from hypoperfusion and ischemic bowel tissue."
+      },
+      {
+        "text": "elevated blood urea",
+        "isCorrect": true,
+        "explanation": "Prolonged intestinal obstruction leads to significant fluid loss through vomiting, third-spacing into the bowel lumen and wall, and decreased oral intake. This results in profound dehydration and pre-renal acute kidney injury, which is characterized by an elevated blood urea and creatinine."
+      },
+      {
+        "text": "hypo-osmolarity of plasma",
+        "isCorrect": false,
+        "explanation": "The profound dehydration associated with prolonged intestinal obstruction involves the loss of both water and electrolytes. However, the fluid lost is often hypotonic relative to plasma, and the body's response to hypovolemia includes ADH release, leading to water retention. The net effect is typically iso- or, more commonly, hyper-osmolarity of the plasma due to haemoconcentration and free water loss."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b8",
+    "type": "mtf",
+    "stem": "Immediate management of inadvertant total spinal anaesthesia includes",
+    "source": "BARSAC 2025 Post · B8",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "rapid administration of Ringer's lactate (Hartmann's) solution",
+        "isCorrect": true,
+        "explanation": "A total spinal block causes profound, widespread sympathectomy, leading to massive vasodilation and a catastrophic drop in venous return and cardiac output. Immediate and aggressive fluid resuscitation with a balanced salt solution like Ringer's lactate is a critical first step to expand the intravascular volume."
+      },
+      {
+        "text": "head-up position",
+        "isCorrect": false,
+        "explanation": "Placing a patient with severe hypotension in a head-up (reverse Trendelenburg) position would further decrease venous return to the heart, worsen cardiac output, and critically impair cerebral perfusion. While this position might be considered to limit the spread of a developing high block in a stable patient, it is absolutely contraindicated in the setting of established cardiovascular collapse."
+      },
+      {
+        "text": "ephedrine",
+        "isCorrect": true,
+        "explanation": "In addition to fluid resuscitation, immediate pharmacological support is required to counteract the sympathectomy. Ephedrine is an appropriate choice as it increases systemic vascular resistance (alpha effect) and also increases heart rate and contractility (beta effect), addressing both the vasodilation and the bradycardia that often accompany a total spinal."
+      },
+      {
+        "text": "controlled ventilation",
+        "isCorrect": true,
+        "explanation": "A total spinal block involves the ascent of local anaesthetic to the cervical spinal cord levels. This will block the phrenic nerves (C3, C4, C5), leading to diaphragmatic paralysis and apnoea. Securing the airway via endotracheal intubation and instituting controlled positive pressure ventilation is an immediate, life-saving intervention."
+      },
+      {
+        "text": "atropine",
+        "isCorrect": true,
+        "explanation": "The sympathectomy caused by a total spinal block includes the cardiac accelerator fibres (T1-T4). This leaves unopposed vagal tone, resulting in profound bradycardia or even asystole. Atropine is an essential drug in this scenario to block the vagal effect on the heart and increase the heart rate."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b9",
+    "type": "mtf",
+    "stem": "Side effects of opioid epidural analgesia include",
+    "source": "BARSAC 2025 Post · B9",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "itching",
+        "isCorrect": true,
+        "explanation": "Pruritus (itching), particularly of the face, neck, and upper torso, is a very common and characteristic side effect of neuraxial opioids. It is not mediated by histamine release but is thought to involve opioid receptors in the trigeminal nucleus of the spinal cord."
+      },
+      {
+        "text": "hypotension",
+        "isCorrect": true,
+        "explanation": "While less pronounced than with local anaesthetics, epidural opioids can cause hypotension. This can occur due to a mild systemic effect causing vasodilation or, more significantly, by reducing sympathetic tone through their analgesic action, particularly in patients who are hypovolemic or have high baseline sympathetic drive due to pain."
+      },
+      {
+        "text": "hypoventilation",
+        "isCorrect": true,
+        "explanation": "Respiratory depression (hypoventilation) is the most serious potential side effect of epidural opioids. It can occur early due to systemic absorption or, more insidiously, be delayed for hours (6-12 hours with morphine) due to the slow rostral spread of the opioid in the cerebrospinal fluid to the respiratory centres in the brainstem."
+      },
+      {
+        "text": "sedation",
+        "isCorrect": true,
+        "explanation": "Sedation is a common side effect of all opioids, regardless of the route of administration. With epidural administration, sedation can result from systemic absorption or from the cephalad spread of the drug in the cerebrospinal fluid to opioid receptors in the brain. Excessive sedation can be a harbinger of impending respiratory depression."
+      },
+      {
+        "text": "urinary retention",
+        "isCorrect": true,
+        "explanation": "Neuraxial opioids can interfere with the neural control of bladder function by acting on opioid receptors in the sacral spinal cord. This inhibits the parasympathetic outflow to the detrusor muscle and can cause urinary retention by reducing the sensation of bladder fullness and impairing the micturition reflex."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b10",
+    "type": "mtf",
+    "stem": "Damage to the median nerve at the elbow produces",
+    "source": "BARSAC 2025 Post · B10",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "weakness of pronation of the hand",
+        "isCorrect": true,
+        "explanation": "The median nerve supplies the pronator teres and pronator quadratus muscles, which are the primary pronators of the forearm. A lesion at the elbow would denervate both of these muscles, leading to significant weakness of pronation."
+      },
+      {
+        "text": "weakness of the interosseus muscles",
+        "isCorrect": false,
+        "explanation": "The palmar and dorsal interosseus muscles of the hand are responsible for adduction and abduction of the fingers, respectively. These muscles are innervated by the deep branch of the ulnar nerve, not the median nerve."
+      },
+      {
+        "text": "atrophy of the thenar eminence",
+        "isCorrect": true,
+        "explanation": "The recurrent motor branch of the median nerve provides motor innervation to the muscles of the thenar eminence (opponens pollicis, abductor pollicis brevis, and the superficial head of flexor pollicis brevis). A long-standing lesion of the median nerve at or proximal to the wrist would lead to denervation and subsequent atrophy of these muscles, causing a characteristic flattened appearance of the thenar eminence."
+      },
+      {
+        "text": "weakness of grip",
+        "isCorrect": true,
+        "explanation": "The median nerve innervates several key muscles involved in grip strength, including the flexor digitorum superficialis, the lateral half of the flexor digitorum profundus (to the index and middle fingers), and the thenar muscles. Damage at the elbow would weaken these muscles, resulting in a significantly reduced grip strength."
+      },
+      {
+        "text": "complete loss of sensation over the dorsal aspect of the first two fingers",
+        "isCorrect": false,
+        "explanation": "Sensation to the dorsal aspect of the fingers is supplied by the radial nerve, except for the nail beds and distal phalanges. The median nerve supplies sensation to the palmar aspect of the thumb, index, middle, and lateral half of the ring finger, as well as the dorsal aspects of the distal phalanges of these same digits. A median nerve lesion would not cause complete loss of sensation over the entire dorsal aspect of the first two fingers."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b11",
+    "type": "mtf",
+    "stem": "A lumbar epidural labour analgesia is performed in a 27-year-old parturient at 36 weeks of a twin gestation. Immediately after a top up dose of 15mL 0.25% L-bupivacaine, she lies supine and her BP drops to 70/40 mm Hg. Possible causes for hypotension in this patient are",
+    "source": "BARSAC 2025 Post · B11",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "ante-partum haemorrhage",
+        "isCorrect": true,
+        "explanation": "While the timing strongly suggests a block-related cause, an acute ante-partum haemorrhage (e.g., placental abruption) is a critical differential diagnosis for any sudden cardiovascular collapse in a pregnant patient. It must always be considered and rapidly excluded."
+      },
+      {
+        "text": "intrathecal injection of local anaesthetic",
+        "isCorrect": true,
+        "explanation": "This is a highly probable cause. If the epidural catheter had inadvertently migrated into the intrathecal space (dural puncture), the administration of a large epidural volume (15 mL) would result in a high or total spinal block, causing profound sympathectomy and severe hypotension."
+      },
+      {
+        "text": "maintained foetal bradycardia",
+        "isCorrect": false,
+        "explanation": "Fetal bradycardia is a consequence of maternal hypotension, which leads to reduced uteroplacental perfusion. It is an effect of the maternal collapse, not a cause of it."
+      },
+      {
+        "text": "aorto-caval compression",
+        "isCorrect": true,
+        "explanation": "A 36-week twin gestation results in a very large gravid uterus. When the patient lies supine, this uterus can compress the inferior vena cava and aorta, severely impeding venous return to the heart. The sympathetic block from the epidural prevents the normal compensatory vasoconstriction in the lower body, unmasking the effect of the compression and leading to a sudden, profound drop in blood pressure."
+      },
+      {
+        "text": "anaphylaxis",
+        "isCorrect": true,
+        "explanation": "Although rare, anaphylaxis to local anaesthetics or other administered substances is a possible cause of sudden and severe hypotension. It should be considered in the differential diagnosis of any cardiovascular collapse temporally related to drug administration."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b12",
+    "type": "mtf",
+    "stem": "Concerning induction of anaesthesia in a patient with acute epiglottitis",
+    "source": "BARSAC 2025 Post · B12",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "gas induction is recommended",
+        "isCorrect": true,
+        "explanation": "In a patient with a critically narrowed airway due to epiglottitis, maintaining spontaneous ventilation is paramount. An inhalational (gas) induction allows the patient to continue breathing spontaneously while the depth of anaesthesia is gradually increased. This avoids the risks of apnoea and complete airway obstruction that could occur with an intravenous induction and muscle paralysis."
+      },
+      {
+        "text": "isoflurane is the agent of choice",
+        "isCorrect": false,
+        "explanation": "While isoflurane can be used, sevoflurane is generally considered the agent of choice for inhalational induction in this scenario. Sevoflurane is less pungent and less irritating to the airway than isoflurane, making it better tolerated by the patient and less likely to provoke coughing, laryngospasm, or increased secretions, which could precipitate complete airway obstruction."
+      },
+      {
+        "text": "speed of inhalational induction is increased in case of increased cardiac output",
+        "isCorrect": false,
+        "explanation": "The speed of inhalational induction is inversely proportional to cardiac output. A higher cardiac output leads to more rapid uptake of the volatile agent from the alveoli into the blood, which slows the rate of rise of the alveolar concentration (FA) towards the inspired concentration (FI). Since the brain equilibrates with the alveolar partial pressure, a slower rise in FA results in a slower induction of anaesthesia."
+      },
+      {
+        "text": "tracheal intubation should be performed in a paralysed patient",
+        "isCorrect": false,
+        "explanation": "In the context of a critical airway like acute epiglottitis, administering a muscle relaxant before securing the airway is extremely dangerous. Paralysis would cause loss of airway muscle tone, potentially leading to complete and irreversible airway obstruction (\"can't intubate, can't ventilate\" scenario). Intubation should be attempted while maintaining spontaneous ventilation, typically after a deep inhalational anaesthetic."
+      },
+      {
+        "text": "patient hyperventilation increases the speed of induction",
+        "isCorrect": true,
+        "explanation": "The speed of inhalational induction is directly proportional to alveolar ventilation. Hyperventilation increases the delivery of the volatile agent to the alveoli, which more rapidly increases the alveolar partial pressure of the agent. This, in turn, increases the partial pressure in the arterial blood and brain, accelerating the onset of anaesthesia."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b13",
+    "type": "mtf",
+    "stem": "Regarding liver's transplantation",
+    "source": "BARSAC 2025 Post · B13",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "viral-hepatitis related cirrhosis is the most common reason for transplant",
+        "isCorrect": true,
+        "explanation": "Cirrhosis secondary to chronic viral hepatitis (primarily Hepatitis C) and alcohol-related liver disease are the leading indications for liver transplantation worldwide. In many regions, Hepatitis C-related end-stage liver disease is the single most common reason for transplantation."
+      },
+      {
+        "text": "hepatopulmonary syndrome is not reversed by liver transplantation",
+        "isCorrect": false,
+        "explanation": "Hepatopulmonary syndrome, a condition characterized by abnormal intrapulmonary vascular dilatation leading to hypoxaemia in patients with liver disease, is a recognized indication for liver transplantation. The syndrome is often partially or completely reversed following a successful transplant, as the new liver corrects the underlying pathophysiology."
+      },
+      {
+        "text": "haemodynamic changes in the anhepatic phase are mainly due to a preload decrase",
+        "isCorrect": true,
+        "explanation": "The anhepatic phase of liver transplantation begins with the clamping of the portal vein and hepatic artery and ends with the reperfusion of the donor liver. The clamping of the inferior vena cava and portal vein dramatically reduces venous return to the heart, causing a significant decrease in cardiac preload. This is the primary cause of the hemodynamic instability (hypotension, decreased cardiac output) seen during this phase."
+      },
+      {
+        "text": "central venous acess is preferable to be inserted below the diaphragm",
+        "isCorrect": false,
+        "explanation": "During liver transplantation, the inferior vena cava is clamped below the liver (suprahepatic and infrahepatic clamping). A central venous catheter placed via the femoral vein (below the diaphragm) would be isolated from the central circulation during this period, rendering its pressure measurements useless and drug administration ineffective. Therefore, central venous access must be secured above the diaphragm, typically via the internal jugular or subclavian vein."
+      },
+      {
+        "text": "a post-operative rise in temperature is an early sign of failed graft function",
+        "isCorrect": false,
+        "explanation": "A post-operative rise in temperature (fever) is a non-specific sign and is more commonly associated with infection or the systemic inflammatory response to major surgery. While primary graft non-function can be associated with systemic instability, its classic early signs are profound coagulopathy, hypoglycemia, severe metabolic acidosis, and failure to produce bile, rather than fever."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b14",
+    "type": "mtf",
+    "stem": "The management of an increased intraoperative intracranial pressure during craniotomy for an expansive mass includes",
+    "source": "BARSAC 2025 Post · B14",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "the administration of a bolus of metylprednisone",
+        "isCorrect": false,
+        "explanation": "While corticosteroids like dexamethasone are used preoperatively to reduce vasogenic oedema around brain tumours, their onset of action is slow (hours to days). They have no role in the immediate intraoperative management of acute intracranial hypertension."
+      },
+      {
+        "text": "the administration of a bolus of propofol",
+        "isCorrect": true,
+        "explanation": "Intravenous anaesthetic agents like propofol are potent cerebral vasoconstrictors that decrease cerebral metabolic rate for oxygen (CMRO2). This reduction in metabolic demand and cerebral blood flow leads to a rapid decrease in cerebral blood volume and, consequently, a reduction in intracranial pressure (ICP). A bolus of propofol is an effective measure to acutely lower ICP."
+      },
+      {
+        "text": "the drainage of cerebrospinal fluid",
+        "isCorrect": true,
+        "explanation": "If a ventricular drain (external ventricular drain, EVD) or a lumbar drain is in place, the drainage of cerebrospinal fluid (CSF) is a rapid and effective method to reduce intracranial volume and lower ICP. This is a primary neurosurgical intervention for managing intraoperative brain swelling."
+      },
+      {
+        "text": "an decrease of the minute ventilation",
+        "isCorrect": false,
+        "explanation": "A decrease in minute ventilation would lead to an increase in the arterial partial pressure of carbon dioxide (PaCO2), a condition known as hypercapnia. Carbon dioxide is a potent cerebral vasodilator. Therefore, decreasing minute ventilation would increase cerebral blood flow and worsen intracranial hypertension. The correct manoeuvre is to increase minute ventilation (hyperventilate) to induce hypocapnia and cerebral vasoconstriction."
+      },
+      {
+        "text": "the administration of sodium nitroprussiate",
+        "isCorrect": false,
+        "explanation": "Sodium nitroprusside is a potent arterial and venous vasodilator used to induce controlled hypotension. As a cerebral vasodilator, its administration would increase cerebral blood volume and dramatically increase intracranial pressure. It is strongly contraindicated in patients with raised ICP."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b15",
+    "type": "mtf",
+    "stem": "A 23 year-old patient is schedules for the drainage of a voluminous dental abscess. Concerning the anaesthetic management of the case",
+    "source": "BARSAC 2025 Post · B15",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "awake nasotracheal fiberoptic intubation is indicated",
+        "isCorrect": true,
+        "explanation": "A voluminous dental abscess, especially if associated with floor-of-mouth or neck swelling, presents a significant risk of a difficult airway. An awake fiberoptic intubation allows for the airway to be secured while the patient maintains spontaneous ventilation and airway reflexes, making it the safest approach in many such cases."
+      },
+      {
+        "text": "general anaesthesia with laryngeal mask is recommended",
+        "isCorrect": false,
+        "explanation": "A laryngeal mask airway (LMA) is a supraglottic airway device and does not protect the trachea from aspiration of pus or blood. In the context of an abscess drainage, where there is a high risk of rupture and contamination of the airway, an LMA is relatively contraindicated. A definitive, cuffed endotracheal tube is required."
+      },
+      {
+        "text": "In case of dyspnoea, preoperative tracheostomy is indicated",
+        "isCorrect": true,
+        "explanation": "If the abscess has caused such significant swelling that the patient is dyspnoeic (short of breath), it implies critical airway compromise. In such a scenario, attempting oral or nasal intubation may be impossible or may precipitate complete airway obstruction. An awake tracheostomy performed under local anaesthesia may be the safest and only way to secure the airway."
+      },
+      {
+        "text": "cervical swelling is a factor of severity",
+        "isCorrect": true,
+        "explanation": "The presence of cervical (neck) swelling, particularly if it is firm or extends to the submandibular or sublingual spaces (Ludwig's angina), is a major red flag. It indicates a deep neck space infection with a high likelihood of difficult laryngoscopy, difficult intubation, and potential for rapid airway obstruction."
+      },
+      {
+        "text": "a trismus is a contra-indication for general anaesthesia",
+        "isCorrect": false,
+        "explanation": "Trismus (inability to open the mouth fully) is a contraindication for direct laryngoscopy, but not for general anaesthesia itself. It is a strong indicator of a difficult airway and necessitates an alternative plan for airway management, such as an awake fiberoptic intubation or, in severe cases, a surgical airway. General anaesthesia can be safely administered once the airway is secured."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b16",
+    "type": "mtf",
+    "stem": "Recognised causes of impaired coagulation following cardiopulmonary bypass include",
+    "source": "BARSAC 2025 Post · B16",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "unreversed heparin",
+        "isCorrect": true,
+        "explanation": "Large doses of heparin are administered to prevent clotting in the cardiopulmonary bypass (CPB) circuit. While this is typically reversed with protamine at the end of bypass, incomplete or inadequate reversal will leave residual heparin effect, leading to impaired coagulation and bleeding."
+      },
+      {
+        "text": "overdose of protamine",
+        "isCorrect": true,
+        "explanation": "Protamine is used to reverse heparin, but it has its own anticoagulant properties when given in excess. An overdose of protamine can inhibit platelet function and interfere with the coagulation cascade, paradoxically causing or worsening postoperative bleeding."
+      },
+      {
+        "text": "decrease in platelets",
+        "isCorrect": true,
+        "explanation": "Cardiopulmonary bypass is associated with both a quantitative (thrombocytopenia) and qualitative (thrombocytopathy) defect in platelets. Platelets are consumed in the circuit, activated by contact with foreign surfaces, and damaged by shear stress, leading to a significant decrease in both their number and function, which contributes to coagulopathy."
+      },
+      {
+        "text": "decrease in fibrinogen",
+        "isCorrect": true,
+        "explanation": "Fibrinogen and other coagulation factors can be consumed during CPB (a consumptive coagulopathy) and diluted by the large volume of crystalloid prime used in the bypass circuit (hemodilution). Low fibrinogen levels (hypofibrinogenemia) are a common cause of impaired clot formation and bleeding after bypass."
+      },
+      {
+        "text": "preoperative acetylsalicylic acid therapy",
+        "isCorrect": true,
+        "explanation": "Acetylsalicylic acid (aspirin) causes irreversible inhibition of platelet cyclooxygenase, impairing platelet aggregation for the life of the platelet (7-10 days). Patients on aspirin therapy who undergo CPB have pre-existing platelet dysfunction, which is exacerbated by the effects of the bypass circuit itself, contributing significantly to postoperative bleeding."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b17",
+    "type": "mtf",
+    "stem": "Recognised advantages of controlled ventilation in the treatment of flail chest include",
+    "source": "BARSAC 2025 Post · B17",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "reduction of paradoxical ventilation",
+        "isCorrect": true,
+        "explanation": "Flail chest involves a segment of the chest wall that is detached from the surrounding ribs, leading to paradoxical movement (the flail segment moves inward on inspiration and outward on expiration). Positive pressure ventilation acts as an \"internal pneumatic splint,\" pushing the flail segment outward along with the rest of the chest wall during inspiration, thereby eliminating the paradoxical motion."
+      },
+      {
+        "text": "the ability to use positive end-expiratory pressure (PEEP)",
+        "isCorrect": true,
+        "explanation": "Flail chest is almost always associated with an underlying pulmonary contusion, which leads to alveolar collapse (atelectasis) and hypoxaemia. The use of positive end-expiratory pressure (PEEP) during controlled ventilation is a key therapy to recruit collapsed alveoli, improve oxygenation, and treat the contusion."
+      },
+      {
+        "text": "decreased pain",
+        "isCorrect": true,
+        "explanation": "The movement of fractured ribs is a major source of pain in flail chest. By immobilizing the chest wall with positive pressure ventilation and often with the use of sedation and analgesia, controlled ventilation can significantly reduce pain and the associated splinting, which improves respiratory mechanics."
+      },
+      {
+        "text": "prevention of pneumothorax",
+        "isCorrect": false,
+        "explanation": "Controlled positive pressure ventilation can cause or worsen a pneumothorax, it does not prevent it. The underlying rib fractures can easily puncture the pleura, and applying positive pressure can force air into the pleural space, potentially creating a tension pneumothorax. A chest drain is often required before initiating positive pressure ventilation in these patients."
+      },
+      {
+        "text": "accelerated healing of rib fractures",
+        "isCorrect": false,
+        "explanation": "While controlled ventilation provides stabilization, there is no evidence that it accelerates the biological process of bone healing. The primary benefits are physiological (improved gas exchange, reduced work of breathing) and symptomatic (pain relief), not anatomical acceleration of fracture repair."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b18",
+    "type": "mtf",
+    "stem": "Recognised treatment of a postoperative thyrotoxic crisis includes",
+    "source": "BARSAC 2025 Post · B18",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "sedation",
+        "isCorrect": true,
+        "explanation": "Thyrotoxic crisis (thyroid storm) is a state of extreme hypermetabolism with marked central nervous system agitation, restlessness, and delirium. Sedation, often with benzodiazepines, is an important supportive measure to control agitation, reduce oxygen consumption, and decrease sympathetic hyperactivity."
+      },
+      {
+        "text": "thionamides",
+        "isCorrect": true,
+        "explanation": "Thionamides, such as propylthiouracil (PTU) or methimazole, are essential treatments. They block the synthesis of new thyroid hormone in the thyroid gland. PTU has the additional benefit of inhibiting the peripheral conversion of thyroxine (T4) to the more active triiodothyronine (T3)."
+      },
+      {
+        "text": "corticosteroids",
+        "isCorrect": true,
+        "explanation": "High-dose corticosteroids (e.g., hydrocortisone or dexamethasone) are a standard component of treatment. They reduce the peripheral conversion of T4 to T3, have direct effects on the underlying autoimmune process (if Graves' disease is the cause), and provide support for the relative adrenal insufficiency that can occur in this high-stress state."
+      },
+      {
+        "text": "propranolol",
+        "isCorrect": true,
+        "explanation": "Many of the most dangerous manifestations of thyroid storm (tachycardia, hypertension, arrhythmias, tremor) are mediated by profound sympathetic activation. A beta-blocker, typically propranolol, is used to control these adrenergic symptoms. Propranolol also has the benefit of partially inhibiting the peripheral conversion of T4to T3."
+      },
+      {
+        "text": "calcitonin",
+        "isCorrect": false,
+        "explanation": "Calcitonin is a hormone produced by the parafollicular C-cells of the thyroid gland, and its primary function is to regulate calcium and phosphate levels, primarily by inhibiting osteoclast activity. It has no role in the synthesis, release, or action of thyroid hormones (T3 and T4) and is not used in the treatment of thyrotoxic crisis."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b19",
+    "type": "mtf",
+    "stem": "A haemoglobin concentration of 8g/dl (80g/L) and a raised reticulocyte count are compatible with",
+    "source": "BARSAC 2025 Post · B19",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "aplastic anaemia",
+        "isCorrect": false,
+        "explanation": "Aplastic anaemia is characterized by bone marrow failure, leading to pancytopenia. The bone marrow is unable to produce new red blood cells, so the reticulocyte count would be very low (a hypoproliferative anaemia), not raised."
+      },
+      {
+        "text": "untreated pernicious anaemia",
+        "isCorrect": false,
+        "explanation": "Pernicious anaemia is a megaloblastic anaemia caused by vitamin B12 deficiency. It is a hypoproliferative anaemia resulting from ineffective erythropoiesis. The reticulocyte count would be low. A raised reticulocyte count is seen after treatment with vitamin B12 is initiated."
+      },
+      {
+        "text": "anaemia of chronic renal disease",
+        "isCorrect": false,
+        "explanation": "Chronic renal disease leads to anaemia primarily through deficient production of erythropoietin by the kidneys. This results in a hypoproliferative anaemia with a low reticulocyte count."
+      },
+      {
+        "text": "post-haemorrhagic anaemia",
+        "isCorrect": true,
+        "explanation": "Following an acute haemorrhage, the body loses red blood cells, resulting in anaemia. In response to the anaemia and tissue hypoxia, a healthy bone marrow will increase its production of red blood cells. This is reflected by a release of immature red cells (reticulocytes) into the circulation, leading to a raised reticulocyte count (reticulocytosis) a few days after the bleed."
+      },
+      {
+        "text": "acute leukaemia",
+        "isCorrect": true,
+        "explanation": "In acute leukaemia, the bone marrow is infiltrated and replaced by malignant blast cells. This disrupts normal haematopoiesis, often leading to anaemia. However, the picture can be complex; sometimes, a haemolytic component or bleeding can trigger a reticulocyte response, or the leukaemic process itself can be associated with disordered cell release. While a low count is more typical, a raised count is compatible with the diagnosis, particularly if there is concurrent haemolysis or haemorrhage."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b20",
+    "type": "mtf",
+    "stem": "A high urinary osmolality is associated with",
+    "source": "BARSAC 2025 Post · B20",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "diabetes insipidus",
+        "isCorrect": false,
+        "explanation": "Diabetes insipidus is characterized by a deficiency of or resistance to antidiuretic hormone (ADH). This leads to an inability to concentrate urine, resulting in the excretion of large volumes of very dilute urine with a low urinary osmolality."
+      },
+      {
+        "text": "increased concentration of urinary phosphate",
+        "isCorrect": true,
+        "explanation": "Osmolality is a measure of the number of solute particles per kilogram of solvent. Phosphates are osmotically active solutes. An increased concentration of phosphate in the urine will directly contribute to and increase the total urinary osmolality."
+      },
+      {
+        "text": "mannitol administration",
+        "isCorrect": false,
+        "explanation": "Mannitol is an osmotic diuretic. When filtered by the glomerulus, it is not reabsorbed and remains in the renal tubule, where it exerts an osmotic force that draws water into the tubule and prevents its reabsorption. This results in the excretion of a large volume of urine with a relatively low osmolality, as the final urine contains the osmotically active mannitol but is not maximally concentrated."
+      },
+      {
+        "text": "diabetic ketoacidosis",
+        "isCorrect": true,
+        "explanation": "Diabetic ketoacidosis (DKA) is characterized by severe hyperglycaemia. The high concentration of glucose in the blood exceeds the reabsorptive capacity of the renal tubules, causing glucose to be excreted in the urine (glycosuria). Glucose is an osmotically active particle, and its presence in the urine, along with ketones, significantly increases the urinary osmolality."
+      },
+      {
+        "text": "dehydration",
+        "isCorrect": true,
+        "explanation": "In a state of dehydration, the body releases antidiuretic hormone (ADH). ADH acts on the collecting ducts of the kidneys to increase their permeability to water, allowing for maximal water reabsorption from the tubular fluid into the hypertonic medullary interstitium. This process results in the excretion of a small volume of highly concentrated urine with a high urinary osmolality."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b21",
+    "type": "mtf",
+    "stem": "Regarding cardioversion of acute-onset atrial fibrillation",
+    "source": "BARSAC 2025 Post · B21",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "all patients in the intensive care unit setting should be cardioverted regardless of their haemodynamic status",
+        "isCorrect": false,
+        "explanation": "The decision to cardiovert is based on the patient's clinical condition. Urgent electrical cardioversion is indicated for patients with acute-onset atrial fibrillation (AF) who are haemodynamically unstable (e.g., hypotensive, showing signs of shock, acute heart failure, or myocardial ischemia). Haemodynamically stable patients can often be managed initially with rate control and anticoagulation, with a decision about rhythm control (cardioversion) made later."
+      },
+      {
+        "text": "amiodarone, flecainide, propafenone, sotalol, dofetilide and ibutilide are agents used for pharmacological cardioversion of atrial fibrillation",
+        "isCorrect": true,
+        "explanation": "This list includes key antiarrhythmic drugs used for the pharmacological cardioversion of atrial fibrillation. Flecainide and propafenone are Class Ic agents; sotalol, dofetilide, and ibutilide are Class III agents; and amiodarone has properties of all four Vaughan-Williams classes. All are recognized options for converting AF to sinus rhythm."
+      },
+      {
+        "text": "flecainide and amiodarone have comparable efficacy in terms of their onset of action when given intravenously",
+        "isCorrect": false,
+        "explanation": "Flecainide, when given intravenously, has a relatively rapid onset of action and can convert AF to sinus rhythm within a few hours. Intravenous amiodarone has a much slower onset of action for rhythm conversion, often taking many hours to days to be effective, and is more commonly used for rate control in the acute setting or for long-term rhythm control."
+      },
+      {
+        "text": "it is safe to prescribe class Ic drugs (flecainide and propafenone) in young patients with ventricular dysfunction or coronary artery disease",
+        "isCorrect": false,
+        "explanation": "Class Ic antiarrhythmics like flecainide and propafenone are contraindicated in patients with structural heart disease, such as left ventricular dysfunction or coronary artery disease. They have been shown to be pro-arrhythmic and increase mortality in this patient population (the \"pill-in-the-pocket\" approach is reserved for patients with no structural heart disease)."
+      },
+      {
+        "text": "is effective in less than 80% patients aged 18 to 39",
+        "isCorrect": false,
+        "explanation": "Cardioversion, particularly electrical cardioversion, is highly effective in restoring sinus rhythm. Success rates for electrical cardioversion are generally reported to be over 90%, especially in younger patients with recent-onset atrial fibrillation and without significant underlying structural heart disease."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b22",
+    "type": "mtf",
+    "stem": "Immediate treatment of an asthmatic child, unsuccessfully treated with epinephrine (adrenaline), who has become hypoxic, drowsy, hypercarbic and acidotic includes",
+    "source": "BARSAC 2025 Post · B22",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "administration of sodium bicarbonate",
+        "isCorrect": false,
+        "explanation": "The acidosis in severe asthma is primarily respiratory, caused by profound hypoventilation due to airway obstruction and muscle fatigue. While a metabolic component may develop from lactate production, the primary treatment is to correct the underlying ventilation problem. Administering sodium bicarbonate is not a primary treatment and can be detrimental by increasing the CO2 load."
+      },
+      {
+        "text": "intravenous diazepam",
+        "isCorrect": false,
+        "explanation": "Administering a sedative like diazepam to a drowsy, hypoxic, and hypercarbic child with severe asthma would be extremely dangerous. It would further depress their respiratory drive and protective airway reflexes, potentially leading to respiratory arrest."
+      },
+      {
+        "text": "aminophylline infusion",
+        "isCorrect": true,
+        "explanation": "While no longer a first-line therapy, aminophylline (or theophylline) is a recognized second- or third-line treatment for status asthmaticus that is refractory to inhaled beta-agonists and systemic corticosteroids. It acts as a bronchodilator and may have anti-inflammatory and respiratory stimulant effects."
+      },
+      {
+        "text": "intubation and ventilation",
+        "isCorrect": true,
+        "explanation": "The clinical picture described—hypoxia, drowsiness, hypercarbia, and acidosis despite initial treatment—are signs of impending respiratory failure. Drowsiness and hypercarbia indicate that the child is exhausted and can no longer maintain adequate ventilation. Immediate endotracheal intubation and mechanical ventilation are life-saving interventions required to support gas exchange and allow the child to recover."
+      },
+      {
+        "text": "nebulised salbutamol",
+        "isCorrect": true,
+        "explanation": "Even in a child who is deteriorating, continuous or frequent high-dose nebulised short-acting beta-agonists like salbutamol (albuterol) remain a cornerstone of therapy. This should be continued, often alongside other interventions like intubation, to provide maximal bronchodilation."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b23",
+    "type": "mtf",
+    "stem": "Drugs associated with the development of jaundice include",
+    "source": "BARSAC 2025 Post · B23",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "methyldopa",
+        "isCorrect": true,
+        "explanation": "Methyldopa, an antihypertensive agent, is known to cause idiosyncratic, dose-independent liver injury, which can range from mild transaminitis to acute hepatitis with jaundice, and in rare cases, fulminant hepatic failure."
+      },
+      {
+        "text": "tetracycline",
+        "isCorrect": true,
+        "explanation": "Tetracyclines, particularly when given in high doses intravenously, can cause dose-dependent microvesicular steatosis (fatty liver), which can impair liver function and lead to jaundice and hepatic failure. This is especially a risk in pregnant women."
+      },
+      {
+        "text": "quinine",
+        "isCorrect": true,
+        "explanation": "Quinine, used to treat malaria and leg cramps, can cause a range of hypersensitivity reactions, including immune-mediated hepatitis. This can present with fever, rash, and jaundice due to hepatocellular injury."
+      },
+      {
+        "text": "diazepam",
+        "isCorrect": true,
+        "explanation": "While rare, benzodiazepines including diazepam have been associated with idiosyncratic cholestatic or hepatocellular liver injury, which can manifest as jaundice. The risk is very low but recognized."
+      },
+      {
+        "text": "penicilin",
+        "isCorrect": true,
+        "explanation": "Many penicillins and their derivatives (e.g., amoxicillin-clavulanate, flucloxacillin) are well-known causes of drug-induced liver injury. The pattern is typically cholestatic or mixed cholestatic-hepatocellular, presenting with jaundice, often with a delayed onset of weeks after starting the drug."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b24",
+    "type": "mtf",
+    "stem": "Appropriate acute therapy for an atrial tachyarrhythmia includes",
+    "source": "BARSAC 2025 Post · B24",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "procainamide",
+        "isCorrect": true,
+        "explanation": "Procainamide is a Class Ia antiarrhythmic agent that can be used for the acute treatment of various atrial tachyarrhythmias, including atrial fibrillation and atrial flutter, particularly in patients with Wolff-Parkinson-White syndrome. It can be used for both rhythm and rate control."
+      },
+      {
+        "text": "amiodarone",
+        "isCorrect": true,
+        "explanation": "Amiodarone is a broad-spectrum antiarrhythmic agent (primarily Class III) that is widely used in the acute management of both stable and unstable atrial tachyarrhythmias. It is effective for both rate control and pharmacological cardioversion."
+      },
+      {
+        "text": "lidocaine",
+        "isCorrect": false,
+        "explanation": "Lidocaine is a Class Ib antiarrhythmic agent whose primary mechanism is blocking sodium channels in ischemic ventricular tissue. It is effective for the treatment of ventricular tachyarrhythmias but has very little effect on atrial tissue and is not used for the management of atrial tachyarrhythmias."
+      },
+      {
+        "text": "nimodipine",
+        "isCorrect": false,
+        "explanation": "Nimodipine is a dihydropyridine calcium channel blocker that acts primarily on cerebral blood vessels. It is used to prevent vasospasm after subarachnoid haemorrhage. While other calcium channel blockers (verapamil, diltiazem) are used for rate control in atrial tachyarrhythmias, nimodipine is not."
+      },
+      {
+        "text": "esmolol",
+        "isCorrect": true,
+        "explanation": "Esmolol is an ultra-short-acting, cardioselective beta-blocker. It is administered as an intravenous infusion and is an excellent agent for the acute control of the ventricular rate in patients with rapid atrial tachyarrhythmias like atrial fibrillation or atrial flutter, especially in the perioperative setting."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b25",
+    "type": "mtf",
+    "stem": "A decrease in mixed venous oxygen saturation is commonly due to",
+    "source": "BARSAC 2025 Post · B25",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "decreased cardiac output",
+        "isCorrect": true,
+        "explanation": "Mixed venous oxygen saturation (SvO2) reflects the balance between oxygen delivery (DO2) and oxygen consumption (VO2). According to the Fick equation, SvO2=SaO2−(VO2/(1.34∗Hb∗CO)). A decrease in cardiac output (CO) reduces overall oxygen delivery. To maintain its oxygen consumption, the body must extract a greater percentage of the delivered oxygen, resulting in a lower oxygen saturation in the venous blood returning to the heart, thus decreasing SvO2."
+      },
+      {
+        "text": "decreased metabolic rate",
+        "isCorrect": false,
+        "explanation": "A decreased metabolic rate (e.g., in hypothermia or deep sedation) means that the tissues are consuming less oxygen (VO2). If oxygen delivery remains constant, the tissues will extract less oxygen from the blood, leading to a higher oxygen saturation in the returning venous blood, and thus an increase in SvO2."
+      },
+      {
+        "text": "increased pulmonary artery pressure",
+        "isCorrect": false,
+        "explanation": "Increased pulmonary artery pressure itself does not directly cause a decrease in SvO2. While the underlying cause of the pulmonary hypertension (e.g., severe left heart failure leading to low cardiac output) might decrease SvO2, the elevated pressure itself is not the direct mechanism."
+      },
+      {
+        "text": "a left to right shunt",
+        "isCorrect": false,
+        "explanation": "A left-to-right shunt (e.g., a ventricular septal defect) involves oxygenated blood from the left side of the heart mixing with deoxygenated blood on the right side. This would artificially increase the oxygen saturation of the blood measured in the pulmonary artery (mixed venous blood)."
+      },
+      {
+        "text": "decreased arterial oxygen content",
+        "isCorrect": true,
+        "explanation": "Arterial oxygen content is a key component of oxygen delivery. A decrease in arterial oxygen content, caused by either a drop in arterial oxygen saturation (SaO2) from hypoxaemia or a drop in haemoglobin (Hb) concentration from anaemia, will reduce overall oxygen delivery. To meet metabolic demands, tissues will extract more oxygen, leading to a lower SvO2."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b26",
+    "type": "mtf",
+    "stem": "Features of untreated diabetic ketoacidosis include",
+    "source": "BARSAC 2025 Post · B26",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "increased serum potassium concentration",
+        "isCorrect": true,
+        "explanation": "Despite a significant total body deficit of potassium due to osmotic diuresis, the initial serum potassium concentration in DKA is often normal or elevated. This is due to an extracellular shift of potassium from the intracellular space, driven by the severe metabolic acidosis (H+/K+ exchange) and insulin deficiency."
+      },
+      {
+        "text": "a raised anion gap",
+        "isCorrect": true,
+        "explanation": "The hallmark of DKA is the overproduction of ketoacids (beta-hydroxybutyrate and acetoacetate). These are unmeasured anions that accumulate in the blood, consuming bicarbonate and creating a high anion gap metabolic acidosis."
+      },
+      {
+        "text": "urinary ketones",
+        "isCorrect": true,
+        "explanation": "The profound ketonemia (high levels of ketones in the blood) leads to the filtration of these ketones by the kidneys and their excretion in the urine, a finding known as ketonuria. This is a key diagnostic feature of DKA."
+      },
+      {
+        "text": "hyperventilation",
+        "isCorrect": true,
+        "explanation": "The body's primary compensatory mechanism for a severe metabolic acidosis is respiratory. Patients with DKA exhibit deep, rapid breathing (Kussmaul respirations) as the respiratory centre attempts to excrete carbon dioxide to raise the blood pH back towards normal."
+      },
+      {
+        "text": "haemoconcentration",
+        "isCorrect": true,
+        "explanation": "The extreme hyperglycaemia in DKA acts as an osmotic diuretic, causing massive loss of water and electrolytes through the urine. This leads to severe dehydration, a reduction in plasma volume, and a relative increase in the concentration of formed elements like red blood cells, resulting in haemoconcentration (e.g., a high haematocrit)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b27",
+    "type": "mtf",
+    "stem": "Clinical targets during major trauma without head injury include",
+    "source": "BARSAC 2025 Post · B27",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "systolic blood pressure of 110 mmHg",
+        "isCorrect": true,
+        "explanation": "In major trauma with haemorrhagic shock (but without traumatic brain injury), the concept of \"permissive hypotension\" or \"hypotensive resuscitation\" is often employed until major bleeding is controlled. However, the goal is not profound hypotension. A target systolic blood pressure (SBP) of 80-90 mmHg is often cited, but aiming for a target SBP around 110 mmHg is also a recognized and reasonable strategy, especially as resuscitation progresses, to ensure adequate organ perfusion without exacerbating bleeding by dislodging early clots."
+      },
+      {
+        "text": "mean arterial pressure of 65 mmHg",
+        "isCorrect": true,
+        "explanation": "A mean arterial pressure (MAP) of 65 mmHg is widely accepted as the minimum target required to ensure adequate perfusion of vital organs like the kidneys and brain. Maintaining a MAP ≥ 65 mmHg is a standard goal in the resuscitation of most forms of shock, including haemorrhagic shock."
+      },
+      {
+        "text": "haemoglobin of 100 g/L",
+        "isCorrect": false,
+        "explanation": "While a haemoglobin (Hb) of 100 g/L (10 g/dL) is a normal value, it is not a resuscitation target in major trauma. Transfusion triggers are typically much lower. A restrictive transfusion strategy, aiming for an Hb target of 70-90 g/L (7-9 g/dL), is recommended for most critically ill patients, including trauma patients, to avoid the risks associated with blood transfusion."
+      },
+      {
+        "text": "ionised calcium level above 0.9 mmol/L",
+        "isCorrect": true,
+        "explanation": "Ionised calcium is a critical cofactor in the coagulation cascade. Trauma patients are at high risk of hypocalcaemia due to dilution from fluid resuscitation and chelation by the citrate anticoagulant in transfused blood products. Maintaining a normal ionised calcium level (typically > 1.1 mmol/L, but certainly above 0.9 mmol/L) is a key target in damage control resuscitation to support haemostasis."
+      },
+      {
+        "text": "a platelet count above 150×10⁹",
+        "isCorrect": false,
+        "explanation": "A platelet count of 150x109/L is the lower limit of the normal range. In massive haemorrhage, the transfusion target for platelets is much lower. A target platelet count of >50x109/L is generally recommended, with a higher target of >100x109/L sometimes considered for patients with severe bleeding or traumatic brain injury. Aiming for >150x109/L is unnecessary and wasteful of resources."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b28",
+    "type": "mtf",
+    "stem": "If a patient remains comatose after cardiopulmonary resuscitation, appropriate investigations include:",
+    "source": "BARSAC 2025 Post · B28",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "CT brain scan",
+        "isCorrect": true,
+        "explanation": "A non-contrast computed tomography (CT) scan of the brain is a crucial early investigation. It can identify structural causes for the coma or consequences of the cardiac arrest, such as hypoxic-ischaemic brain injury (cerebral oedema), intracranial haemorrhage (which may have caused the arrest), or stroke."
+      },
+      {
+        "text": "electroencephalography",
+        "isCorrect": true,
+        "explanation": "An electroencephalogram (EEG) is a key tool for prognostication and diagnosis in post-cardiac arrest coma. It can detect seizure activity (including non-convulsive status epilepticus), assess the degree of background suppression, and identify patterns (e.g., burst-suppression, malignant patterns) that are associated with poor neurological outcome."
+      },
+      {
+        "text": "brain-stem evoked potentials",
+        "isCorrect": true,
+        "explanation": "Somatosensory evoked potentials (SSEPs) are a valuable prognostic tool. The bilateral absence of the N20 cortical response to median nerve stimulation is a highly specific predictor of poor neurological outcome (death or vegetative state) in comatose post-cardiac arrest patients."
+      },
+      {
+        "text": "blood glucose concentration",
+        "isCorrect": true,
+        "explanation": "Both hypoglycaemia and severe hyperglycaemia can cause or contribute to a comatose state and are detrimental to the injured brain. Monitoring and tightly controlling blood glucose is a fundamental part of post-resuscitation care and an essential investigation in any comatose patient."
+      },
+      {
+        "text": "lumbar puncture",
+        "isCorrect": true,
+        "explanation": "If central nervous system infection (meningitis or encephalitis) is suspected as the cause of the cardiac arrest or coma, a lumbar puncture to analyse the cerebrospinal fluid (CSF) is an appropriate and necessary investigation, provided there is no evidence of severely raised intracranial pressure on the CT scan."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b29",
+    "type": "mtf",
+    "stem": "Electrocardiographic changes during hypothermia to 28°C include",
+    "source": "BARSAC 2025 Post · B29",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "ventricular extrasystole",
+        "isCorrect": true,
+        "explanation": "Hypothermia increases myocardial irritability and can predispose to various arrhythmias. Ventricular ectopy (extrasystoles) is common and can progress to more malignant arrhythmias like ventricular fibrillation, which is the most common cause of death in severe accidental hypothermia."
+      },
+      {
+        "text": "peaked T waves",
+        "isCorrect": false,
+        "explanation": "Peaked T waves are a classic ECG finding of hyperkalaemia. Hypothermia does not typically cause this change. The characteristic T-wave change in hypothermia is inversion."
+      },
+      {
+        "text": "broad and notched P waves",
+        "isCorrect": true,
+        "explanation": "Hypothermia slows down all aspects of cardiac conduction. This leads to prolongation of all ECG intervals, including the PR interval, QRS duration, and QT interval. The P wave can become broad and may be notched."
+      },
+      {
+        "text": "left bundle branch block",
+        "isCorrect": false,
+        "explanation": "While hypothermia causes a general slowing of conduction and widening of the QRS complex, it does not specifically cause a left bundle branch block (LBBB) pattern. The classic ECG finding is the Osborn wave (or J wave), a positive deflection at the junction of the QRS complex and the ST segment."
+      },
+      {
+        "text": "bigeminy",
+        "isCorrect": true,
+        "explanation": "Bigeminy is a rhythm in which every normal beat is followed by a premature beat. As hypothermia increases myocardial irritability, ventricular bigeminy is a recognized arrhythmia that can occur."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-b30",
+    "type": "mtf",
+    "stem": "In the casualty department, a 45 year old man falls to the ground. You can feel no pulse. You should immediately",
+    "source": "BARSAC 2025 Post · B30",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "give mouth to mouth respiration",
+        "isCorrect": false,
+        "explanation": "According to current basic life support (BLS) and advanced life support (ALS) guidelines, the immediate priority after confirming unresponsiveness and absence of pulse is to start chest compressions. In the initial moments of a cardiac arrest (especially a presumed cardiac cause), the blood is still oxygenated, and circulation is the most critical intervention."
+      },
+      {
+        "text": "give external cardiac massage",
+        "isCorrect": true,
+        "explanation": "The immediate, highest-priority action upon diagnosing cardiac arrest (no pulse) is to start high-quality external cardiac massage (chest compressions). This is the most critical intervention to provide some blood flow to the brain and heart until a defibrillator is available and the underlying rhythm is treated."
+      },
+      {
+        "text": "defibrillate the patient",
+        "isCorrect": false,
+        "explanation": "While defibrillation is a key treatment for shockable rhythms (ventricular fibrillation or pulseless ventricular tachycardia), it should not be done before confirming the rhythm with an ECG monitor or an automated external defibrillator (AED). The immediate action is chest compressions while a defibrillator is being brought to the patient and attached."
+      },
+      {
+        "text": "inject intracardiac adrenaline",
+        "isCorrect": false,
+        "explanation": "The intracardiac route for drug administration is a high-risk, last-resort procedure that is no longer recommended in standard resuscitation algorithms. The preferred route for adrenaline (epinephrine) is intravenous (IV) or intraosseous (IO). Furthermore, drug administration comes after the initiation of chest compressions and rhythm analysis/defibrillation."
+      },
+      {
+        "text": "await recovery from a vaso-vagal attack",
+        "isCorrect": false,
+        "explanation": "A vasovagal attack (syncope) can cause a transient loss of consciousness and a weak or slow pulse, but a complete absence of a palpable pulse signifies cardiac arrest. Awaiting recovery is not appropriate and would be fatal. The diagnosis of cardiac arrest mandates immediate action."
+      }
+    ]
+  }
+]
