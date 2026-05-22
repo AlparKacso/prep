@@ -221,9 +221,14 @@
     background: var(--bg-subtle);
     transition: all 0.15s ease;
   }
-  .statement-row:hover:not(.correct):not(.incorrect) {
-    border-color: var(--border-light);
-    background: var(--bg-hover);
+  /* Hover only on real pointers. On touch devices :hover sticks after a
+     tap and (being higher-specificity) would mask the green/red selection
+     highlight until the user tapped elsewhere. */
+  @media (hover: hover) {
+    .statement-row:hover:not(.correct):not(.incorrect):not(.selected-true):not(.selected-false) {
+      border-color: var(--border-light);
+      background: var(--bg-hover);
+    }
   }
   .statement-row.selected-true {
     border-color: rgba(122, 255, 161, 0.3);
@@ -260,9 +265,11 @@
     transition: all 0.12s ease;
     font-family: var(--font-sans);
   }
-  .tf-btn:hover:not(:disabled) {
-    border-color: var(--border-light);
-    color: var(--text);
+  @media (hover: hover) {
+    .tf-btn:hover:not(:disabled) {
+      border-color: var(--border-light);
+      color: var(--text);
+    }
   }
   .tf-btn.active-true {
     background: rgba(122, 255, 161, 0.12);
