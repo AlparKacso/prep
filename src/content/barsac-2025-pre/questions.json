@@ -1034,5 +1034,1100 @@
         "explanation": "The mode is the value that appears most frequently in a data set. It is a measure of central tendency, similar to the mean and median, and does not describe the spread or distribution of the data around the mean."
       }
     ]
+  },
+  {
+    "id": "barsac-2025-pre-b.1",
+    "type": "mtf",
+    "stem": "Factors associated with the development of postoperative atelectasis include",
+    "source": "BARSAC 2025 Pre · B.1",
+    "explanation": "Postoperative atelectasis is the most common pulmonary complication following surgery, and its development is multifactorial. Endobronchial intubation is a direct iatrogenic cause, where the endotracheal tube is advanced beyond the carina into a mainstem bronchus (usually the right), preventing ventilation of the contralateral lung and leading to its complete collapse (obstructive atelectasis). Patient-related factors are critical. While adults with chronic obstructive pulmonary disease (COPD) may have well-developed collateral airways that can mitigate atelectasis from a single mucus plug, the overall disease process—including chronic inflammation, mucus hypersecretion, and expiratory airflow limitation—makes them highly susceptible to postoperative atelectasis. Similarly, ankylosing spondylitis causes severe restrictive lung disease by limiting chest wall expansion, which significantly reduces FRC and predisposes the patient to alveolar collapse under anaesthesia. Anaesthetic agents and techniques also play a pivotal role. Nitrous oxide is a highly diffusible gas with low blood solubility. Upon discontinuation, it rapidly leaves the blood and enters the alveoli, displacing nitrogen and oxygen. As it is then quickly exhaled, it can lead to a transient reduction in total alveolar volume, promoting alveolar collapse in a phenomenon related to diffusion hypoxia and absorption atelectasis. Regional anaesthesia is not exempt; a high spinal or epidural block (e.g., above T4) can lead to motor blockade of the intercostal and abdominal muscles, which are essential for effective coughing and deep inspiration. This muscular weakness impairs secretion clearance and promotes shallow breathing, leading to hypoventilation and atelectasis in dependent lung zones.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "endobronchial intubation",
+        "isCorrect": true,
+        "explanation": "Endobronchial intubation directly obstructs ventilation to one lung, causing obstructive atelectasis."
+      },
+      {
+        "text": "COPD (chronic obstructive pulmonary disease)",
+        "isCorrect": true,
+        "explanation": "COPD is a significant risk factor due to mucus hypersecretion, impaired clearance, and poor respiratory mechanics."
+      },
+      {
+        "text": "ankylosing spondylitis",
+        "isCorrect": true,
+        "explanation": "Ankylosing spondylitis causes severe restrictive lung disease, reducing functional residual capacity (FRC) and predisposing to collapse."
+      },
+      {
+        "text": "nitrous oxide",
+        "isCorrect": true,
+        "explanation": "Nitrous oxide rapidly diffuses out of alveoli at the end of anaesthesia, causing a reduction in alveolar volume (absorption atelectasis)."
+      },
+      {
+        "text": "spinal anaesthesia",
+        "isCorrect": true,
+        "explanation": "High spinal anaesthesia causes paralysis of intercostal and abdominal muscles, impairing coughing and deep breathing."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.2",
+    "type": "mtf",
+    "stem": "During general anaesthesia in the prone position",
+    "source": "BARSAC 2025 Pre · B.2",
+    "explanation": "The prone position introduces significant physiological challenges. The effect on pulmonary compliance is complex; while prone positioning can improve FRC and create more homogenous ventilation compared to the supine position, it also increases pressure on the chest wall, thereby decreasing chest wall compliance. The net effect on total respiratory system compliance is variable and depends heavily on patient factors and the use of appropriate supports to free the abdomen. It does not consistently increase. Perioperative visual loss, most commonly from ischemic optic neuropathy (ION), is a recognized and catastrophic complication, but it is rare, with an estimated incidence far below what would be considered \"common\". It is associated with prolonged surgery, significant blood loss, hypotension, and increased intraocular pressure from direct pressure on the globe, but its low incidence makes this statement false. A primary hemodynamic concern in the prone position is the potential for decreased venous return. If chest and pelvic bolsters are not used correctly to allow the abdomen to hang freely, intra-abdominal pressure rises, compressing the inferior vena cava and obstructing venous return to the heart. This reduces cardiac preload and can lead to significant hypotension. Airway management requires meticulous planning. While the use of a laryngeal mask airway (LMA) in the prone position has been described for select short procedures or as a rescue device, it is not a generally recommended technique. The gold standard is a secured, reinforced endotracheal tube placed while the patient is supine, as access to the airway is extremely limited once the patient is turned prone. Nerve injury is a major risk. The brachial plexus is vulnerable to stretch injury. Rotation and lateral flexion of the neck stretch the nerve roots on the contralateral side. To prevent this, the head and neck must be maintained in a neutral, midline position, with care taken to avoid any stretching, particularly if the arms are abducted.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "pulmonary compliance is increased",
+        "isCorrect": false,
+        "explanation": "While functional residual capacity and V/Q matching may improve, chest wall compliance decreases, and the effect on total respiratory compliance is variable, not consistently increased."
+      },
+      {
+        "text": "optic nerve ischemia due to eye compression is a common complication",
+        "isCorrect": false,
+        "explanation": "Ischemic optic neuropathy is a rare, not common, but devastating complication of prone positioning."
+      },
+      {
+        "text": "venous return is decreased",
+        "isCorrect": true,
+        "explanation": "If the abdomen is not kept free of pressure, increased intra-abdominal pressure compresses the inferior vena cava, impeding venous return."
+      },
+      {
+        "text": "the use of laryngeal mask for airway management is recommended",
+        "isCorrect": false,
+        "explanation": "A secured endotracheal tube is the standard of care; a laryngeal mask airway provides a less secure airway with limited access once the patient is prone and is not generally recommended."
+      },
+      {
+        "text": "rotation and lateral flexion of neck in the same direction protects the patient from brachial plexus lesions",
+        "isCorrect": false,
+        "explanation": "This position causes stretching of the contralateral brachial plexus; a neutral head position is essential for protection."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.3",
+    "type": "mtf",
+    "stem": "Management of the airway in Obstructive Sleep Apnoea (OSA) needs special attention because",
+    "source": "BARSAC 2025 Pre · B.3",
+    "explanation": "Note: The full text for options b, c, d, and the start of e are missing from the source document. The analysis is based on the available text and established knowledge of OSA. The management of patients with obstructive sleep apnoea (OSA) is a cornerstone of anaesthetic practice due to their inherent airway vulnerability. Anatomical factors are central to the pathophysiology of OSA. A relatively large tongue (macroglossia), redundant pharyngeal soft tissue, and specific craniofacial characteristics contribute to a narrow or collapsible upper airway. These features make mask ventilation and laryngoscopy predictably more difficult. Furthermore, many patients with OSA are obese. The excess adipose tissue on the chest and abdomen restricts lung expansion, leading to a significant reduction in functional residual capacity (FRC) and expiratory reserve volume. This reduced FRC means the patient has a smaller oxygen reserve, leading to more rapid arterial desaturation during periods of apnea, such as during induction of anaesthesia or if airway obstruction occurs postoperatively. The combination of a difficult airway anatomy and a reduced tolerance for apnea makes these patients exceptionally high-risk throughout the perioperative period.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "OSA patients have a relatively larger tongue for given craniofacial...",
+        "isCorrect": true,
+        "explanation": "Macroglossia, relative to the size of the oropharynx, is a key anatomical feature contributing to airway collapse in OSA patients."
+      },
+      {
+        "text": "have a decreased functional residual capacity and a decreased expiratory reserve volume",
+        "isCorrect": true,
+        "explanation": "Patients with OSA are frequently obese, which leads to a restrictive pulmonary physiology characterized by decreased FRC and expiratory reserve volume."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.4",
+    "type": "mtf",
+    "stem": "Drugs which should be avoided in a patient with angina pectoris include",
+    "source": "BARSAC 2025 Pre · B.4",
+    "explanation": "The anaesthetic management of a patient with angina pectoris is governed by the principle of maintaining the delicate balance between myocardial oxygen supply and demand. Any drug that adversely affects this balance should be used with caution or avoided. Opioids like fentanyl are mainstays of cardiac anaesthesia because they produce profound analgesia with exceptional hemodynamic stability, often causing a slight decrease in heart rate and blood pressure, thereby reducing myocardial oxygen demand. Beta-blockers such as atenolol are a cornerstone of medical therapy for angina; their negative chronotropic and inotropic effects are protective by reducing cardiac work. Lidocaine is hemodynamically neutral in clinically relevant doses. Conversely, drugs that can induce tachycardia are particularly hazardous. Hyoscine (scopolamine), a potent anticholinergic, can cause a significant increase in heart rate. This tachycardia increases myocardial oxygen consumption while simultaneously reducing the duration of diastole, the period during which the coronary arteries are perfused, thus decreasing oxygen supply. This combination can readily precipitate myocardial ischemia. Succinylcholine, a depolarizing muscle relaxant, can stimulate autonomic ganglia, leading to unpredictable and often unfavorable hemodynamic responses, including tachycardia and hypertension, which increase myocardial oxygen demand. While not absolutely contraindicated, its potential to induce an ischemic episode makes other muscle relaxants with a more stable hemodynamic profile a safer choice.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "fentanyl",
+        "isCorrect": false,
+        "explanation": "Fentanyl provides excellent hemodynamic stability and reduces myocardial oxygen demand, making it a safe and preferred agent."
+      },
+      {
+        "text": "atenolol",
+        "isCorrect": false,
+        "explanation": "Atenolol is a beta-blocker, a first-line therapy for angina that reduces myocardial oxygen demand and is beneficial."
+      },
+      {
+        "text": "lidocaine",
+        "isCorrect": false,
+        "explanation": "Lidocaine has minimal hemodynamic effects at standard doses and is safe for use."
+      },
+      {
+        "text": "hyoscine (scopolamine)",
+        "isCorrect": true,
+        "explanation": "Hyoscine is an anticholinergic that can cause significant tachycardia, which dangerously increases myocardial oxygen demand."
+      },
+      {
+        "text": "succinylcholine",
+        "isCorrect": true,
+        "explanation": "Succinylcholine can cause tachycardia and hypertension via autonomic ganglion stimulation, increasing myocardial oxygen demand."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.5",
+    "type": "mtf",
+    "stem": "Recognised complications of right subclavian vein catheterisation via the infraclavicular route include",
+    "source": "BARSAC 2025 Pre · B.5",
+    "explanation": "The complications of central venous catheterization are dictated by the anatomy of the chosen insertion site. For the right subclavian vein via the infraclavicular route, the needle passes inferior to the clavicle, aiming for the vein as it crosses over the first rib. The subclavian artery lies posterior and superior to the vein, and the pleural cupola is situated inferiorly and posteriorly. Inadvertent puncture of the subclavian artery is a primary risk, and if this occurs, blood can dissect into the surrounding tissues, forming a mediastinal or extrapleural hematoma. If the needle simultaneously traverses both the artery and the vein, an arterio-venous fistula can form over time. Other listed complications are associated with different approaches. The phrenic nerve and the cervical sympathetic chain (stellate ganglion) are located more medially and are at risk during supraclavicular or internal jugular approaches, making phrenic nerve palsy and Horner's syndrome recognized complications of those techniques, but not of the standard infraclavicular subclavian approach. The thoracic duct is a critical anatomical consideration for left-sided central access, as it arches over the left subclavian artery to drain into the left brachiocephalic vein. Laceration of this structure during a right-sided attempt is anatomically implausible.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "extrapleural hematoma",
+        "isCorrect": true,
+        "explanation": "Puncture of the subclavian artery can lead to bleeding into the extrapleural space."
+      },
+      {
+        "text": "phrenic nerve palsy",
+        "isCorrect": false,
+        "explanation": "Phrenic nerve palsy is a known complication of the internal jugular or supraclavicular approach, not the infraclavicular subclavian approach."
+      },
+      {
+        "text": "Horner's syndrome",
+        "isCorrect": false,
+        "explanation": "Horner's syndrome results from injury to the sympathetic chain, which is not in the immediate vicinity of the infraclavicular approach."
+      },
+      {
+        "text": "laceration of the thoracic duct",
+        "isCorrect": false,
+        "explanation": "The thoracic duct drains into the junction of the left subclavian and internal jugular veins; injury is a risk of left-sided, not right-sided, access."
+      },
+      {
+        "text": "arterio-venous fistula",
+        "isCorrect": true,
+        "explanation": "A fistula can be created if the needle passes through both the subclavian artery and vein."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.6",
+    "type": "mtf",
+    "stem": "Prolonged unconsciousness following general anaesthesia can be due to",
+    "source": "BARSAC 2025 Pre · B.6",
+    "explanation": "Delayed emergence from general anaesthesia is defined as a failure to regain consciousness within 30-60 minutes after the cessation of anaesthetic agents. While the most common cause is residual drug effect, a systematic approach must be taken to rule out more sinister metabolic and neurological causes. Severe physiological derangements are critical to identify. Intraoperative hypoxia, if prolonged or profound, can lead to irreversible anoxic brain injury, manifesting as a persistent comatose state. Significant carbon dioxide retention (hypercapnia) has a direct narcotic effect on the central nervous system and will prevent a patient from awakening until it is corrected. Metabolic causes are also crucial; the brain relies almost exclusively on glucose for energy, and severe hypoglycaemia can lead to neuronal damage and coma. A perioperative neurological catastrophe must always be considered. An intracranial haemorrhage or ischemic stroke can present as a failure to awaken after anaesthesia and requires urgent diagnosis and intervention. In contrast, while severe hypokalaemia can cause muscle weakness, confusion, and cardiac arrhythmias, it is not typically cited as a direct cause of prolonged coma. Other electrolyte abnormalities, such as severe hyponatremia, are more commonly associated with profound neurological depression.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "intraoperative hypoxia",
+        "isCorrect": true,
+        "explanation": "Severe intraoperative hypoxia can cause anoxic brain injury, leading to prolonged coma."
+      },
+      {
+        "text": "carbon dioxide retention",
+        "isCorrect": true,
+        "explanation": "Hypercapnia has a narcotic effect and can significantly delay emergence from anaesthesia."
+      },
+      {
+        "text": "hypoglycaemia",
+        "isCorrect": true,
+        "explanation": "The brain is an obligate glucose consumer; severe hypoglycaemia can cause neuronal injury and prolonged unconsciousness."
+      },
+      {
+        "text": "intracranial haemorrhage",
+        "isCorrect": true,
+        "explanation": "A perioperative cerebrovascular event, such as an intracranial haemorrhage, is a rare but catastrophic cause of failure to awaken."
+      },
+      {
+        "text": "hypokalaemia",
+        "isCorrect": false,
+        "explanation": "While severe electrolyte disturbances can cause confusion or weakness, hypokalaemia is not a recognized primary cause of prolonged unconsciousness."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.7",
+    "type": "mtf",
+    "stem": "Appropriate measures in the management of a patient with residual non-depolarizing neuromuscular blockade include",
+    "source": "BARSAC 2025 Pre · B.7",
+    "explanation": "The management of residual non-depolarizing neuromuscular blockade (NMB) is a critical patient safety issue, as it can lead to significant postoperative respiratory complications. The first and most crucial step in management is diagnosis. Clinical signs are unreliable, and the standard of care is the use of a peripheral nerve stimulator to objectively assess neuromuscular function. Quantitative monitoring, which provides a train-of-four (TOF) ratio, is the most reliable method to confirm adequate recovery (a TOF ratio ≥ 0.9). Once residual NMB is identified, pharmacological reversal is indicated. Neostigmine, an acetylcholinesterase inhibitor, increases the amount of acetylcholine at the neuromuscular junction, allowing it to compete more effectively with the non-depolarizing blocking agent and restore muscle function. It is a primary therapeutic intervention. Other suggested measures are inappropriate. Naloxone reverses the effects of opioids, not muscle relaxants. Fresh frozen plasma is used to correct coagulopathy. Attempting to stimulate respiration with carbon dioxide in a patient who is weak or paralyzed from residual NMB is illogical and dangerous; the primary problem is the inability of the respiratory muscles to respond to central drive, not a lack of drive itself. The correct management is to support ventilation while reversing the paralysis.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "neostigmine",
+        "isCorrect": true,
+        "explanation": "Neostigmine is an acetylcholinesterase inhibitor used to pharmacologically reverse non-depolarizing neuromuscular blockade."
+      },
+      {
+        "text": "naloxone",
+        "isCorrect": false,
+        "explanation": "Naloxone is an opioid antagonist and has no effect on neuromuscular blockade."
+      },
+      {
+        "text": "testing the adequacy of neuromuscular transmission with a peripheral nerve stimulator",
+        "isCorrect": true,
+        "explanation": "Objective monitoring with a peripheral nerve stimulator is the gold standard for diagnosing and quantifying residual blockade."
+      },
+      {
+        "text": "fresh frozen plasma",
+        "isCorrect": false,
+        "explanation": "Fresh frozen plasma contains clotting factors and has no role in managing neuromuscular blockade."
+      },
+      {
+        "text": "respiratory stimulation with carbon dioxide",
+        "isCorrect": false,
+        "explanation": "Respiratory stimulation is inappropriate and potentially dangerous in a patient who is paralyzed and unable to breathe effectively."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.8",
+    "type": "mtf",
+    "stem": "Common complications of the supraclavicular brachial plexus block include",
+    "source": "BARSAC 2025 Pre · B.8",
+    "explanation": "The supraclavicular approach to the brachial plexus block targets the nerves at the level of the trunks/divisions, where they are most compactly bundled. This anatomical location, however, places several other important structures at risk of inadvertent blockade or injury. The apex of the lung and the pleural cupola lie just inferior and medial to the target area, making pneumothorax a well-recognized and relatively common complication, particularly before the widespread use of ultrasound guidance. The phrenic nerve (C3, C4, C5) runs along the anterior surface of the anterior scalene muscle and is very frequently blocked by the spread of local anaesthetic, leading to ipsilateral diaphragmatic paralysis. While well-tolerated in healthy patients, this can cause significant dyspnea and hypoxia in those with limited pulmonary reserve. Medial spread of the anaesthetic can also affect the sympathetic chain (stellate ganglion), producing a transient Horner's Syndrome (ptosis, miosis, anhidrosis), and the recurrent laryngeal nerve, causing hoarseness. In contrast, total spinal anaesthesia is a rare but reported complication of the interscalene block, where the needle is placed more cephalad and has the potential to enter a dural sleeve or an intervertebral foramen. It is not considered a typical complication of the supraclavicular approach.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "pneumothorax",
+        "isCorrect": true,
+        "explanation": "The pleural cupola is in close proximity to the brachial plexus in the supraclavicular fossa, making pneumothorax a classic and common complication."
+      },
+      {
+        "text": "hypoxia due to phrenic nerve blockade",
+        "isCorrect": true,
+        "explanation": "The phrenic nerve is frequently blocked by the spread of local anaesthetic, causing ipsilateral diaphragmatic paralysis and potentially hypoxia."
+      },
+      {
+        "text": "Horner's Syndrome",
+        "isCorrect": true,
+        "explanation": "Spread of local anaesthetic to the stellate ganglion, which lies nearby, is a common cause of a transient Horner's Syndrome."
+      },
+      {
+        "text": "total spinal block",
+        "isCorrect": false,
+        "explanation": "Total spinal block is a rare complication associated with the interscalene approach, not the supraclavicular block."
+      },
+      {
+        "text": "hoarseness of voice due to recurrent laryngeal nerve block",
+        "isCorrect": true,
+        "explanation": "The recurrent laryngeal nerve can be blocked by medial spread of the local anaesthetic, resulting in ipsilateral vocal cord paralysis and hoarseness."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.9",
+    "type": "mtf",
+    "stem": "Post dural puncture headache",
+    "source": "BARSAC 2025 Pre · B.9",
+    "explanation": "Post-dural puncture headache (PDPH) is caused by the leakage of cerebrospinal fluid (CSF) through a dural defect, leading to intracranial hypotension. This results in traction on pain-sensitive intracranial structures. The cardinal feature of PDPH is its postural nature: the headache is severe in the upright position and is dramatically relieved by lying flat (supine). The pain is typically described as throbbing or dull and is usually located bilaterally in the frontal or occipital areas, often with associated neck stiffness. The natural history of PDPH is variable, but it often persists for several days, and sometimes up to a week or more, if left untreated; it does not \"seldom last for longer than 24 hours\". Risk factors are well-defined: incidence is highest in young, female, and pregnant patients and decreases significantly with advancing age. The type and size of the needle used are also critical factors. There is no evidence that prophylactic aspirin prevents PDPH; treatment is focused on conservative measures (hydration, caffeine, analgesics) and, for severe or persistent cases, an epidural blood patch.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "is frequently localised to the parietal region",
+        "isCorrect": false,
+        "explanation": "The headache is typically bilateral, located in the frontal and/or occipital regions."
+      },
+      {
+        "text": "seldom lasts for longer than 24 hours",
+        "isCorrect": false,
+        "explanation": "While some mild headaches resolve quickly, a classic PDPH often lasts for several days if untreated."
+      },
+      {
+        "text": "is prevented by aspirin therapy",
+        "isCorrect": false,
+        "explanation": "Aspirin may be used for symptomatic relief but has no role in preventing the development of PDPH."
+      },
+      {
+        "text": "is more common in elderly patients",
+        "isCorrect": false,
+        "explanation": "The incidence of PDPH is highest in younger patients (especially young, pregnant women) and decreases with age."
+      },
+      {
+        "text": "is alleviated by supine position",
+        "isCorrect": true,
+        "explanation": "The postural nature of the headache, with significant alleviation upon lying supine, is the hallmark clinical feature of PDPH."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.10",
+    "type": "mtf",
+    "stem": "Division of the sciatic nerve at the level of the ischial tuberosity is followed by",
+    "source": "BARSAC 2025 Pre · B.10",
+    "explanation": "The sciatic nerve (L4-S3) is the largest nerve in the body and provides the majority of the motor and sensory innervation to the lower limb below the knee. It innervates the posterior thigh muscles (hamstrings) and then divides into the tibial and common peroneal (fibular) nerves, which together supply all the muscles of the leg and foot. Division of the sciatic nerve at the ischial tuberosity would result in paralysis of the hamstrings and all muscles below the knee. This would cause an inability to dorsiflex the ankle (foot drop), which is a function of the muscles in the anterior compartment of the leg innervated by the common peroneal nerve. It would also cause loss of plantar flexion, mediated by the tibial nerve. The ankle jerk reflex (S1, S2) is dependent on the integrity of the tibial nerve and would be lost. However, sensory loss below the knee would not be complete. The skin over the medial aspect of the lower leg and foot is supplied by the saphenous nerve, which is the terminal sensory branch of the femoral nerve and would be unaffected by a sciatic nerve injury. Motor function of the anterior thigh, including knee extension via the rectus femoris (femoral nerve), and hip adduction (obturator nerve), would also be preserved as these muscles are not innervated by the sciatic nerve.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "complete anaesthesia of the leg below the knee",
+        "isCorrect": false,
+        "explanation": "The medial aspect of the leg is supplied by the saphenous nerve, a branch of the femoral nerve, which would be spared."
+      },
+      {
+        "text": "loss of the ankle jerk",
+        "isCorrect": true,
+        "explanation": "The ankle jerk (Achilles reflex) is mediated by the tibial nerve (S1, S2), a major branch of the sciatic nerve."
+      },
+      {
+        "text": "foot drop",
+        "isCorrect": true,
+        "explanation": "Foot drop is caused by paralysis of the ankle dorsiflexors, which are innervated by the common peroneal nerve, a major branch of the sciatic nerve."
+      },
+      {
+        "text": "paralysis of the hip adductors",
+        "isCorrect": false,
+        "explanation": "The hip adductors are primarily innervated by the obturator nerve."
+      },
+      {
+        "text": "paralysis of the rectus femoris",
+        "isCorrect": false,
+        "explanation": "The rectus femoris, a primary knee extensor, is innervated by the femoral nerve."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.11",
+    "type": "mtf",
+    "stem": "Compared with a normal pregnant patient at the same stage of gestation, a woman with preeclampsia has a lower",
+    "source": "BARSAC 2025 Pre · B.11",
+    "explanation": "Normal pregnancy is a state of profound physiological vasodilation and plasma volume expansion, which is mediated by a highly activated renin-angiotensin-aldosterone system (RAAS). Preeclampsia represents a state of maladaptation to pregnancy, characterized by endothelial dysfunction, intense vasoconstriction, and hypertension. Paradoxically, this hypertensive state occurs despite a relative suppression of the circulating RAAS. Compared to a normotensive pregnant woman at the same gestation, a patient with preeclampsia will have significantly lower plasma concentrations of renin, angiotensin II, and aldosterone. The hypertension is driven by an extreme vascular hypersensitivity to angiotensin II and the presence of other circulating vasoconstrictive and anti-angiogenic factors. While patients with preeclampsia are intravascularly volume-depleted, they suffer from widespread capillary leak, leading to generalized oedema. This means that their total extracellular fluid volume is often normal or even increased, making this statement false. The status of antidiuretic hormone (ADH) in preeclampsia is not clearly defined as being lower; some evidence suggests levels may be normal or elevated, potentially contributing to vasoconstriction and water retention.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "plasma renin concentration",
+        "isCorrect": true,
+        "explanation": "The renin-angiotensin-aldosterone system is paradoxically suppressed in preeclampsia compared to the high levels in normal pregnancy."
+      },
+      {
+        "text": "aldosterone concentration",
+        "isCorrect": true,
+        "explanation": "Aldosterone levels are lower in preeclampsia than in a normal pregnancy, although they are often inappropriately high for the degree of renin suppression."
+      },
+      {
+        "text": "angiotensin II concentration",
+        "isCorrect": true,
+        "explanation": "Angiotensin II levels are significantly lower in preeclampsia compared to the elevated levels seen in normotensive pregnancy."
+      },
+      {
+        "text": "extracellular fluid volume",
+        "isCorrect": false,
+        "explanation": "While intravascular volume is contracted, total extracellular fluid volume is typically increased due to generalized oedema from capillary leak."
+      },
+      {
+        "text": "antidiuretic-hormone concentration",
+        "isCorrect": false,
+        "explanation": "ADH levels are not consistently lower and may even be elevated in preeclampsia."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.12",
+    "type": "mtf",
+    "stem": "In anaesthesia for an elective tonsillectomy on a child",
+    "source": "BARSAC 2025 Pre · B.12",
+    "explanation": "Anaesthesia for paediatric tonsillectomy requires careful management of a shared airway. While endotracheal intubation (typically with a preformed oral RAE tube) has long been considered the gold standard for securing the airway, the use of supraglottic airways (SGAs) is now a well-established alternative for many practitioners. The patient is typically positioned with the head extended and a slight head-down tilt to facilitate surgical exposure and to allow blood to pool in the nasopharynx, away from the airway. Tonsillectomy is highly associated with postoperative nausea and vomiting (PONV) due to surgical stimulation of the pharynx and swallowed blood. Prophylactic antiemetics, such as dexamethasone and ondansetron, are standard of care.Post-tonsillectomy bleeding is the most feared complication, but its incidence is low. Rates of primary (within 24 hours) and secondary (after 24 hours) bleeding are generally reported to be in the range of 0.1% to 3%, making a figure of 30% grossly inaccurate. With careful patient selection criteria (e.g., age >3 years, no severe OSA, good social support), tonsillectomy is routinely performed as a day-case surgery in many centres.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "it is essential to perform endotracheal intubation",
+        "isCorrect": false,
+        "explanation": "While endotracheal intubation is the traditional gold standard, the use of supraglottic airways like a reinforced LMA is an accepted and increasingly common alternative in experienced hands."
+      },
+      {
+        "text": "head down position is preferred option",
+        "isCorrect": true,
+        "explanation": "The \"Rose\" position (head extension) combined with a slight head-down tilt (Trendelenburg) is used to improve surgical access and prevent blood and debris from tracking down into the larynx."
+      },
+      {
+        "text": "post-operative nausea and vomiting is rare",
+        "isCorrect": false,
+        "explanation": "Tonsillectomy is a procedure with a very high incidence of postoperative nausea and vomiting (PONV)."
+      },
+      {
+        "text": "can be performed as a day case",
+        "isCorrect": true,
+        "explanation": "In appropriately selected children (e.g., older than 3 years, without severe OSA or other significant comorbidities), tonsillectomy is commonly and safely performed as a day-case procedure."
+      },
+      {
+        "text": "post-tonsillectomy bleeding occurs in about 30% cases",
+        "isCorrect": false,
+        "explanation": "The rate of post-tonsillectomy bleeding requiring intervention is much lower, typically reported in the range of 0.1% to 3%."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.13",
+    "type": "mtf",
+    "stem": "Concerning liver transplantation",
+    "source": "BARSAC 2025 Pre · B.13",
+    "explanation": "Anaesthesia for liver transplantation is one of the most challenging subspecialties, managing profound physiological derangements in critically ill patients. Patients with end-stage liver disease (ESLD) exhibit complex pharmacokinetic changes. Due to ascites and generalized oedema, the volume of distribution for hydrophilic drugs is typically increased, not smaller. The other elements of the statement—decreased serum protein (leading to higher free drug fractions), decreased hepatic extraction, and often-impaired renal excretion (hepatorenal syndrome)—are correct. Intensive hemodynamic monitoring is mandatory. It is common practice to place two arterial lines. A peripheral radial artery catheter can significantly underestimate central aortic pressure during the profound vasodilation of reperfusion or with high-dose vasopressor use. A second catheter in a larger, more central artery like the femoral or brachial artery provides a more accurate reflection of systemic pressure and a reliable port for frequent blood sampling. Post-Reperfusion Syndrome (PRS) is a well-defined clinical entity occurring upon unclamping of the portal vein. The sudden influx of cold, hyperkalemic, and acidotic preservation fluid from the graft into the systemic circulation causes abrupt hypotension, bradycardia, arrhythmias (including peaked T-waves from hyperkalemia), and decreased cardiac contractility. The definition provided is accurate. Given the potential for massive blood loss, cell salvage is a crucial tool. The theoretical risk of reinfusing malignant cells in patients with hepatocellular carcinoma is a concern, but the clinical significance is unproven, and the immediate benefit of reducing exposure to allogeneic blood products is generally deemed to outweigh this risk. Finally, the presence of pre-existing portal and, especially, pulmonary hypertension is a major risk factor for right ventricular failure during the procedure. This condition is a strong indication for placement of a pulmonary artery catheter to allow for continuous monitoring of pulmonary artery pressures and right ventricular function, guiding vasodilator and inotropic therapy.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "Patients with end-stage liver disease have smaller volumes of distribution, decreased serum protein, low decreased hepatic extraction and decreased renal excretion",
+        "isCorrect": false,
+        "explanation": "Patients with end-stage liver disease typically have an increased volume of distribution for water-soluble drugs due to ascites and fluid retention."
+      },
+      {
+        "text": "The use of different arterial lines placed at 2 sites (two radial or a radial and femoral) is advised due to the need for frequent blood draws and constant hemodynamic monitoring",
+        "isCorrect": true,
+        "explanation": "A second, more central arterial line (e.g., femoral) is often used because peripheral radial lines can underestimate true aortic pressure during major hemodynamic shifts."
+      },
+      {
+        "text": "A sustained decrease in mean arterial blood pressure for more than 1 minute during the first 5 minutes after reperfusion, and high T-waves on ECG define Post-Reperfusion Syndrome (PRS) and should be treated immediately",
+        "isCorrect": true,
+        "explanation": "This is the classic definition of post-reperfusion syndrome, a critical event caused by the release of cold, hyperkalemic, acidotic fluid from the donor liver."
+      },
+      {
+        "text": "Cell salvage use is strongly advisable due to the large volume of blood lost and management of transfusion-related hyperkalaemia, even in cases of hepatocellular carcinoma",
+        "isCorrect": true,
+        "explanation": "The benefits of cell salvage in mitigating the need for allogeneic transfusion in this high-bleeding-risk surgery are generally considered to outweigh the theoretical risk of cancer cell reinfusion."
+      },
+      {
+        "text": "Pulmonary artery pressure monitoring is not necessary in patients with portal and pulmonary hypertension",
+        "isCorrect": false,
+        "explanation": "The presence of pulmonary hypertension is a primary indication for pulmonary artery pressure monitoring to guide management of right ventricular function."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.14",
+    "type": "mtf",
+    "stem": "The following are associated with increased intracranial pressure following head trauma",
+    "source": "BARSAC 2025 Pre · B.14",
+    "explanation": "Increased intracranial pressure (ICP) following head trauma is a medical emergency that can lead to secondary brain injury and herniation. Papilloedema, or swelling of the optic disc due to transmission of pressure along the optic nerve sheath, is a classic sign, although it may take hours to days to develop and may be absent in acute settings. A sudden, massive surge in ICP, as seen in severe head trauma, can trigger a catecholamine storm leading to neurogenic pulmonary oedema. Cushing's triad is a constellation of signs indicating brainstem compression and is a pre-terminal event. It consists of hypertension (a reflex attempt to maintain cerebral perfusion pressure), bradycardia (a baroreceptor-mediated response to the hypertension), and an irregular respiratory pattern. Therefore, both hypertension and bradycardia are associated with severely raised ICP. In contrast, the Glasgow Coma Score (GCS) is used to assess the level of consciousness. A high GCS (>12) indicates mild injury, whereas a low GCS (≤8) is indicative of severe injury and is often an indication for ICP monitoring. A deteriorating GCS is a key sign of rising ICP.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "papilloedema",
+        "isCorrect": true,
+        "explanation": "Papilloedema (swelling of the optic disc) is a classic physical sign of chronically raised intracranial pressure."
+      },
+      {
+        "text": "pulmonary oedema",
+        "isCorrect": true,
+        "explanation": "Neurogenic pulmonary oedema can be a consequence of a sudden, severe rise in intracranial pressure."
+      },
+      {
+        "text": "hypertension",
+        "isCorrect": true,
+        "explanation": "Hypertension is a component of Cushing's triad, a late and ominous sign of brainstem compression from raised ICP."
+      },
+      {
+        "text": "a Glasgow coma score greater than 12",
+        "isCorrect": false,
+        "explanation": "A GCS greater than 12 indicates mild head injury; raised ICP is associated with a deteriorating level of consciousness and a low GCS (typically ≤ 8)."
+      },
+      {
+        "text": "bradycardia",
+        "isCorrect": true,
+        "explanation": "Bradycardia is a component of Cushing's triad, reflecting a reflex response to systemic hypertension caused by brainstem compression."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.15",
+    "type": "mtf",
+    "stem": "Indications for general anaesthesia for dental surgery include",
+    "source": "BARSAC 2025 Pre · B.15",
+    "explanation": "The primary indications for general anaesthesia (GA) for dental surgery relate to the patient's inability to tolerate the procedure while awake. This includes patients with severe anxiety or phobia, young children who lack the maturity to cooperate, and patients with cognitive or movement disorders (such as severe mental retardation or cerebral palsy) that prevent them from remaining still for treatment. Extensive or traumatic surgical procedures may also necessitate GA. Certain medical conditions are not indications for GA but rather factors that complicate its administration. Acute intermittent porphyria is a metabolic disorder in which many common anaesthetic drugs (e.g., barbiturates, etomidate) are absolutely contraindicated as they can precipitate a life-threatening crisis. While a patient with porphyria may require GA for other reasons, the condition itself is a major anaesthetic consideration, not an indication. Similarly, pregnancy is a state in which elective procedures under GA are generally avoided to minimize any potential risk to the fetus, particularly during the first trimester. Ischemic heart disease significantly increases the perioperative risk and requires meticulous anaesthetic management to avoid myocardial ischemia, but it is not an indication for GA for a dental procedure; in fact, it might be a reason to prefer a less physiologically stressful technique if possible.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "mental retardation",
+        "isCorrect": true,
+        "explanation": "Patients with significant cognitive impairment may be unable to cooperate with complex or lengthy dental procedures under local anaesthesia alone."
+      },
+      {
+        "text": "uncooperative children",
+        "isCorrect": true,
+        "explanation": "Young or extremely anxious children who cannot cooperate are a primary indication for general anaesthesia to allow for safe and effective treatment."
+      },
+      {
+        "text": "porphyria",
+        "isCorrect": false,
+        "explanation": "Porphyria is a contraindication to many anaesthetic drugs, not an indication for general anaesthesia itself. If surgery is required, a carefully planned anaesthetic with \"safe\" drugs is necessary."
+      },
+      {
+        "text": "pregnancy",
+        "isCorrect": false,
+        "explanation": "Pregnancy is a relative contraindication to elective surgery and general anaesthesia, especially in the first trimester. It is not an indication."
+      },
+      {
+        "text": "ischaemic heart disease",
+        "isCorrect": false,
+        "explanation": "Ischemic heart disease increases the risk of general anaesthesia and is a reason for careful perioperative management, not an indication for GA for dental work."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.16",
+    "type": "mtf",
+    "stem": "Atropine administration during anaesthesia to a patient with severe mitral stenosis can cause increased",
+    "source": "BARSAC 2025 Pre · B.16",
+    "explanation": "The pathophysiology of severe mitral stenosis (MS) is characterized by a fixed obstruction to left ventricular (LV) filling. Cardiac output becomes highly dependent on an adequate diastolic filling period and is sensitive to changes in heart rate. The administration of atropine, an anticholinergic, causes tachycardia. This is profoundly detrimental in MS for two reasons. First, the shortened diastolic filling time per minute reduces the time available for blood to flow across the stenotic valve, leading to LV underfilling and a drop in stroke volume and cardiac output. Second, the blood that is unable to enter the LV backs up into the left atrium, causing a sharp rise in left atrial pressure. This increased left atrial pressure is transmitted back to the pulmonary circulation, increasing the pulmonary capillary wedge pressure and risking acute pulmonary oedema. The tachycardia also increases myocardial oxygen consumption (MVO2). Simultaneously, the shortened diastolic period reduces the time available for coronary artery perfusion, potentially leading to a supply-demand mismatch and myocardial ischemia. Therefore, in severe MS, the ideal hemodynamic state is \"slow and full,\" and drugs that cause tachycardia, like atropine, are relatively contraindicated.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "myocardial oxygen consumption",
+        "isCorrect": true,
+        "explanation": "Atropine causes tachycardia, which is a major determinant of myocardial oxygen consumption."
+      },
+      {
+        "text": "left atrial pressure",
+        "isCorrect": true,
+        "explanation": "Tachycardia reduces diastolic filling time, causing blood to back up behind the stenotic mitral valve, thus increasing left atrial pressure."
+      },
+      {
+        "text": "left ventricular filling pressure",
+        "isCorrect": false,
+        "explanation": "With reduced filling time across a stenotic valve, the left ventricle becomes underfilled, leading to a decrease in left ventricular filling pressure (preload)."
+      },
+      {
+        "text": "pulmonary capillary wedge pressure",
+        "isCorrect": true,
+        "explanation": "Pulmonary capillary wedge pressure is a surrogate for left atrial pressure, which increases for the reasons described in (B)."
+      },
+      {
+        "text": "coronary artery flow",
+        "isCorrect": false,
+        "explanation": "Tachycardia shortens diastole, the primary period for coronary blood flow, thereby decreasing, not increasing, coronary artery flow time and potentially compromising perfusion."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.17",
+    "type": "mtf",
+    "stem": "Appropriate treatment of a patient with a right-sided flail chest who suddenly becomes hypotensive, tachycardic, with absent breath sounds on the injured side includes",
+    "source": "BARSAC 2025 Pre · B.17",
+    "explanation": "Note: Option (b) is truncated in the source document. Based on the clinical context, it likely refers to stabilizing or splinting the chest. The clinical scenario describes a patient with a flail chest who develops acute cardiorespiratory collapse, characterized by hypotension, tachycardia, and absent breath sounds on the affected side. This is the classic presentation of a tension pneumothorax, a life-threatening complication where air enters the pleural space and cannot escape, leading to lung collapse, mediastinal shift, and compression of the great veins, which obstructs venous return and causes obstructive shock. The immediate, life-saving intervention is to relieve the tension by performing a needle thoracocentesis (aspiration) in the second intercostal space, midclavicular line, or the fifth intercostal space, anterior axillary line. While increasing oxygen flow is a supportive measure, it is futile without addressing the mechanical obstruction. Following needle decompression, definitive treatment requires the insertion of an underwater chest drain (tube thoracostomy) to evacuate the pleural air and re-expand the lung. Patients with flail chest and respiratory compromise, particularly after developing a tension pneumothorax, will almost certainly require endotracheal intubation and positive pressure ventilation. This not only provides respiratory support but also acts as an \"internal splint\" to stabilize the paradoxical movement of the flail segment.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "needle aspiration of the hemithorax",
+        "isCorrect": true,
+        "explanation": "The clinical picture is highly suggestive of a tension pneumothorax, which requires immediate needle decompression."
+      },
+      {
+        "text": "the chest",
+        "isCorrect": null,
+        "explanation": "Stabilizing the flail segment is part of overall management but is not the immediate life-saving intervention for tension pneumothorax."
+      },
+      {
+        "text": "increasing O2 flow",
+        "isCorrect": false,
+        "explanation": "While supplemental oxygen is necessary, simply increasing the flow does not address the underlying mechanical cause of circulatory collapse."
+      },
+      {
+        "text": "endotracheal intubation",
+        "isCorrect": true,
+        "explanation": "After needle decompression, the patient will likely require intubation and positive pressure ventilation for respiratory support and to internally splint the flail segment."
+      },
+      {
+        "text": "preparation for insertion of underwater chest drain",
+        "isCorrect": true,
+        "explanation": "Following needle decompression, a definitive underwater chest drain is required to re-expand the lung and drain any air or blood."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.18",
+    "type": "mtf",
+    "stem": "Patients with untreated hypothyroidism commonly show",
+    "source": "BARSAC 2025 Pre · B.18",
+    "explanation": "Untreated hypothyroidism is a state of systemic hypometabolism that affects multiple organ systems. The central nervous system is depressed, and the metabolism of drugs is slowed, leading to an increased sensitivity and prolonged duration of action for sedatives, hypnotics, and opioids. The cardiovascular system is characterized by depressed performance, with bradycardia, reduced stroke volume, and decreased cardiac output. The classic electrocardiogram (ECG) findings include sinus bradycardia, low QRS voltage, and T-wave flattening or inversion, not high voltage waves. While the clearance of non-depolarizing neuromuscular blocking drugs may be reduced, leading to a prolonged recovery, evidence for a true increase in pharmacodynamic sensitivity is lacking. Severe, long-standing hypothyroidism can lead to myxedema coma, a state associated with impaired free water clearance and the development of hyponatremia.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "resistance to hypnotics",
+        "isCorrect": false,
+        "explanation": "Hypothyroid patients show increased sensitivity, not resistance, to hypnotics and other CNS depressants due to slowed drug metabolism."
+      },
+      {
+        "text": "depression of cardiac performance",
+        "isCorrect": true,
+        "explanation": "Thyroid hormone has positive inotropic and chronotropic effects; its deficiency leads to bradycardia, decreased cardiac output, and depressed myocardial contractility."
+      },
+      {
+        "text": "high voltage QRS waves on the ECG",
+        "isCorrect": false,
+        "explanation": "The classic ECG finding in hypothyroidism is low voltage QRS complexes, often accompanied by sinus bradycardia and flattened T waves."
+      },
+      {
+        "text": "increased sensitivity to non-depolarising neuromuscular blocking drugs",
+        "isCorrect": false,
+        "explanation": "While recovery from NMBs may be prolonged due to slow metabolism and reduced cardiac output, there is no clear evidence of increased sensitivity (i.e., a smaller dose required for effect)."
+      },
+      {
+        "text": "hyponatraemia",
+        "isCorrect": true,
+        "explanation": "Hyponatremia can occur in severe hypothyroidism (myxedema) due to an impairment in free water excretion, similar to SIADH."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.19",
+    "type": "mtf",
+    "stem": "Concerning low platelet counts",
+    "source": "BARSAC 2025 Pre · B.19",
+    "explanation": "Thrombocytopenia is a common hematological issue with significant perioperative implications. For major surgery, adequate primary hemostasis is essential. While there is no universal consensus, a platelet count of at least 50,000/μL is a widely accepted threshold to minimize the risk of excessive surgical bleeding. In non-surgical patients, the risk of spontaneous bleeding does not significantly increase until the count is much lower, typically below 10,000 to 20,000/μL. When it is necessary to correct a low platelet count acutely, the direct administration of platelet concentrates is the appropriate and preferred therapy. Each unit of apheresis platelets is expected to increase the count by approximately 30,000-50,000/μL in an average adult. Fresh frozen plasma (FFP) is an entirely different blood product containing coagulation factors and is used to reverse coagulopathy (e.g., from warfarin or liver disease); it has no effect on the platelet count. It is important to distinguish between platelet quantity (thrombocytopenia) and platelet quality (thrombocytopathy). A patient can have a low number of platelets that function perfectly well, or a normal number of platelets that function poorly. The two conditions are distinct and not invariably associated.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "before major surgery they should be increased to at least 50,000/ml",
+        "isCorrect": true,
+        "explanation": "A platelet count of 50,000/μL (or 50 x 10⁹/L) is a widely accepted minimum threshold for proceeding with major non-neuraxial surgery to ensure adequate hemostasis."
+      },
+      {
+        "text": "in the non-surgical patient, counts of 40000/ml are associated with increased haemorhage",
+        "isCorrect": false,
+        "explanation": "Spontaneous hemorrhage is rare until the platelet count falls below 10,000-20,000/μL. A count of 40,000/μL is not typically associated with increased spontaneous bleeding in a stable patient."
+      },
+      {
+        "text": "platelet concentrate administration is the preferred method of treatment",
+        "isCorrect": true,
+        "explanation": "When a rapid increase in platelet count is required, such as before urgent surgery, the administration of platelet concentrates is the definitive treatment."
+      },
+      {
+        "text": "fresh frozen plasma should be administered to thrombocytopenic patients prior to surgery",
+        "isCorrect": false,
+        "explanation": "Fresh frozen plasma (FFP) contains clotting factors, not platelets. It is used to treat coagulopathy, not thrombocytopenia."
+      },
+      {
+        "text": "they are invariably associated with altered platelet function",
+        "isCorrect": false,
+        "explanation": "Thrombocytopenia (a low number of platelets) can exist with normal platelet function. Conditions like uremia or aspirin use cause altered function (thrombocytopathy) which can exist with a normal platelet count. The two are not invariably linked."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.20",
+    "type": "mtf",
+    "stem": "In pre-renal oliguria",
+    "source": "BARSAC 2025 Pre · B.20",
+    "explanation": "Pre-renal oliguria (or pre-renal acute kidney injury) is a state of reduced renal perfusion where the kidney itself is structurally intact and functioning appropriately to conserve volume. The diagnostic hallmark is evidence of this intact tubular function: the kidneys avidly reabsorb sodium and water. This results in the production of a small volume of highly concentrated urine. The laboratory findings reflect this physiological response. Urinary sodium concentration is low (typically <20 mmol/L), and the urine is concentrated, with a specific gravity >1.015 and a urine-to-plasma osmolality ratio >1.5. Because urea is passively reabsorbed with water, it also becomes concentrated in the blood relative to the urine, leading to a high urine/plasma urea ratio (often cited as >8 or >10). Creatinine, which is filtered but not significantly reabsorbed, becomes highly concentrated in the small volume of urine produced, resulting in a high urine/plasma creatinine ratio (>40 is a classic cutoff). These indices contrast sharply with those seen in intrinsic renal failure (e.g., acute tubular necrosis), where the damaged tubules lose their ability to conserve sodium and concentrate urine.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "urinary sodium concentration greater than 20 mmol/l",
+        "isCorrect": false,
+        "explanation": "In pre-renal states, the healthy kidney avidly reabsorbs sodium to conserve volume, leading to a urinary sodium concentration of less than 20 mmol/L."
+      },
+      {
+        "text": "urinary specific gravity is greater than 1015",
+        "isCorrect": true,
+        "explanation": "The kidney's concentrating ability is intact, leading to concentrated urine with a high specific gravity."
+      },
+      {
+        "text": "urine/plasma osmolality ratio is greater than 1.5",
+        "isCorrect": true,
+        "explanation": "Reflecting intact concentrating ability, the urine osmolality is significantly higher than plasma osmolality."
+      },
+      {
+        "text": "urine/plasma urea ratio is greater than 10",
+        "isCorrect": true,
+        "explanation": "Urea is avidly reabsorbed along with sodium and water, leading to a high urine-to-plasma urea ratio."
+      },
+      {
+        "text": "urine/plasma creatinine ratio is greater than 30",
+        "isCorrect": true,
+        "explanation": "Creatinine is filtered but not reabsorbed, so as water is reabsorbed, the creatinine becomes highly concentrated in the urine, leading to a high urine-to-plasma ratio."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.21",
+    "type": "mtf",
+    "stem": "The following statement about post-operative atrial fibrillation (AF) is correct",
+    "source": "BARSAC 2025 Pre · B.21",
+    "explanation": "Postoperative atrial fibrillation (POAF) is one of the most common complications after major surgery, particularly cardiothoracic and major non-cardiac procedures. It is not uncommon and is independently associated with an increased risk of stroke, heart failure, and mortality. The pathophysiology is multifactorial, involving surgical stress, inflammation, autonomic nervous system imbalance, and electrolyte disturbances. While avoiding triggers like hypoxia and hypovolemia is important, it is not sufficient to prevent all cases of POAF. Beta-blockers are highly effective and are considered first-line agents for both the prevention of POAF in high-risk patients and for ventricular rate control once POAF has developed. The management strategy for new-onset POAF depends on the patient's hemodynamic status. Urgent synchronized electrical cardioversion is indicated only for patients who are hemodynamically unstable (e.g., hypotensive, signs of shock, acute heart failure). In a stable patient, the initial approach is to control the ventricular rate (e.g., with beta-blockers or calcium channel blockers) and identify and correct any reversible precipitants. A key feature of POAF, especially after non-cardiac surgery, is that it is often a transient phenomenon related to the acute perioperative stress. In many patients, the arrhythmia is self-limited and resolves within hours to days as the patient recovers from surgery.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "occurrence of AF post-operatively is uncommon and has no significant impact on cardiovascular morbidity and mortality",
+        "isCorrect": false,
+        "explanation": "Postoperative atrial fibrillation (POAF) is a common complication, especially after major surgery, and is associated with increased morbidity, mortality, and length of hospital stay."
+      },
+      {
+        "text": "avoiding hypoxia prevents post-operative AF",
+        "isCorrect": false,
+        "explanation": "While hypoxia is a potential trigger and should be avoided, it is only one of many contributing factors (e.g., inflammation, autonomic imbalance, electrolyte disturbance); its avoidance does not guarantee prevention of POAF."
+      },
+      {
+        "text": "Standard beta-blockers are not effective in preventing post-operative AF",
+        "isCorrect": false,
+        "explanation": "Beta-blockers are a cornerstone of both prevention (prophylaxis) and treatment (rate control) for POAF."
+      },
+      {
+        "text": "urgent electrical cardioversion is recommended for a well tolerated AF of new-onset following non-cardiac surgery",
+        "isCorrect": false,
+        "explanation": "Urgent cardioversion is reserved for patients with hemodynamic instability. In a stable, well-tolerated patient, the initial strategy is rate control and correction of underlying precipitants."
+      },
+      {
+        "text": "the majority of new-onset postoperative AF in non-cardiothoracic surgical patients is self-limited",
+        "isCorrect": true,
+        "explanation": "In patients undergoing non-cardiac surgery, new-onset POAF is often transient and resolves with treatment of the underlying surgical stress and physiological disturbances."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.22",
+    "type": "mtf",
+    "stem": "Neonates with respiratory distress syndrome have",
+    "source": "BARSAC 2025 Pre · B.22",
+    "explanation": "Neonatal respiratory distress syndrome (RDS), historically known as hyaline membrane disease, is a condition primarily affecting premature infants and is caused by a quantitative or qualitative deficiency of pulmonary surfactant.Surfactant is essential for reducing alveolar surface tension, preventing alveolar collapse at the end of expiration. Its absence leads to diffuse microatelectasis, which severely decreases lung compliance, making the lungs stiff and difficult to inflate. This results in a massive increase in the work of breathing, manifesting as tachypnea, nasal flaring, and grunting. The widespread atelectasis creates a large intrapulmonary shunt, where blood perfuses non-ventilated alveoli. This leads to profound hypoxemia. The hypoxemia, in turn, triggers hypoxic pulmonary vasoconstriction, which increases pulmonary artery pressure. This elevated right-sided pressure can cause a reversion to a fetal-type circulation, with shunting of deoxygenated blood from the right to the left side of the heart through a patent ductus arteriosus and/or foramen ovale (a right-to-left shunt), further worsening systemic hypoxemia. The combination of severe hypoxemia and increased metabolic demand from the high work of breathing leads to increased oxygen extraction by the tissues, resulting in a low mixed venous oxygen saturation (SvO2).",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "decreased pulmonary perfusion",
+        "isCorrect": false,
+        "explanation": "Pulmonary perfusion may be altered due to hypoxic pulmonary vasoconstriction, but the primary pathology is ventilation, not perfusion. Perfusion continues to atelectatic areas, causing shunt."
+      },
+      {
+        "text": "left-to-right cardiac shunts",
+        "isCorrect": false,
+        "explanation": "Hypoxia causes pulmonary vasoconstriction, which increases pulmonary vascular resistance. This can lead to the reopening of fetal circulatory pathways (ductus arteriosus, foramen ovale), resulting in a right-to-leftshunt, not left-to-right."
+      },
+      {
+        "text": "increased work of breathing",
+        "isCorrect": true,
+        "explanation": "The lack of surfactant leads to low lung compliance (stiff lungs) and widespread atelectasis, dramatically increasing the work required to inflate the lungs with each breath."
+      },
+      {
+        "text": "normal SvO2",
+        "isCorrect": false,
+        "explanation": "The significant intrapulmonary shunting and ventilation-perfusion mismatch lead to severe hypoxemia and increased oxygen extraction by the tissues, resulting in a low mixed venous oxygen saturation (SvO2)."
+      },
+      {
+        "text": "normal surfactant activity",
+        "isCorrect": false,
+        "explanation": "The defining pathophysiological feature of neonatal respiratory distress syndrome (RDS) is a deficiency or dysfunction of pulmonary surfactant."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.23",
+    "type": "mtf",
+    "stem": "Drugs whose dosages requires modification in patients with hepatic failure include",
+    "source": "BARSAC 2025 Pre · B.23",
+    "explanation": "Hepatic failure significantly alters the pharmacokinetics of many drugs, necessitating careful dose adjustment.Drugs that are extensively metabolized by the liver will have reduced clearance, leading to accumulation and toxicity. Lignocaine (lidocaine), morphine, and midazolam are all classic examples of drugs whose clearance is highly dependent on hepatic function (via cytochrome P450 pathways for lignocaine and midazolam, and glucuronidation for morphine). In patients with liver disease, the doses of these drugs must be significantly reduced. Suxamethonium (succinylcholine) presents a different mechanism. It is hydrolyzed in the plasma by pseudocholinesterase (butyrylcholinesterase), an enzyme produced by the liver. In patients with severe synthetic liver dysfunction, production of this enzyme may be markedly reduced, leading to a prolonged duration of action of suxamethonium. In contrast, digoxin is eliminated primarily by the kidneys, so its dosage is adjusted based on renal function, with little to no modification needed for isolated hepatic failure.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "digoxin",
+        "isCorrect": false,
+        "explanation": "Digoxin is primarily eliminated unchanged by the kidneys; dosage modification is required in renal, not hepatic, failure."
+      },
+      {
+        "text": "suxamethonium (succinylcholine)",
+        "isCorrect": true,
+        "explanation": "Suxamethonium is metabolized by plasma cholinesterase, which is synthesized in the liver. In severe hepatic failure, enzyme levels can be low, leading to prolonged paralysis."
+      },
+      {
+        "text": "lignocaine (lidocaine)",
+        "isCorrect": true,
+        "explanation": "Lignocaine is a high-extraction-ratio drug that is almost entirely metabolized by the liver. Its clearance is highly dependent on hepatic blood flow and enzyme function."
+      },
+      {
+        "text": "morphine",
+        "isCorrect": true,
+        "explanation": "Morphine undergoes extensive first-pass metabolism in the liver (glucuronidation). In hepatic failure, its bioavailability is increased and its clearance is reduced, leading to profound and prolonged effects."
+      },
+      {
+        "text": "midazolam",
+        "isCorrect": true,
+        "explanation": "Midazolam is metabolized by the cytochrome P450 system in the liver. Its clearance is significantly reduced in hepatic failure, leading to prolonged sedation."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.24",
+    "type": "mtf",
+    "stem": "Digoxin toxicity is a recognised cause of",
+    "source": "BARSAC 2025 Pre · B.24",
+    "explanation": "Digoxin has a narrow therapeutic index, and toxicity can manifest with a wide array of cardiac arrhythmias. The underlying mechanisms are twofold: increased automaticity (due to inhibition of the Na⁺/K⁺-ATPase pump, leading to increased intracellular calcium) and increased vagal tone (leading to slowing of sinoatrial and atrioventricular nodal conduction). The combination of these effects explains the characteristic arrhythmias. Increased automaticity frequently leads to premature ventricular complexes (PVCs), which are the most common manifestation, often appearing as ventricular bigeminy. It can also precipitate more dangerous ventricular tachyarrhythmias, including monomorphic ventricular tachycardia (VT), the classic but rare bidirectional VT, and ventricular fibrillation. Simultaneously, the increased vagal tone can cause profound sinus bradycardia or suppress the AV node, leading to high-grade or complete AV block. When complete AV block occurs, a subsidiary pacemaker takes over, often resulting in an AV junctional escape rhythm. Digoxin is used to control the ventricular rate in atrial fibrillation (AF); it does not cause AF. A characteristic finding in toxicity is \"regularized AF,\" where the underlying AF persists but complete heart block has developed, leading to a regular junctional escape rhythm.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "ventricular bigeminy",
+        "isCorrect": true,
+        "explanation": "Premature ventricular complexes (PVCs), often in a bigeminal pattern, are the most common arrhythmia associated with digoxin toxicity."
+      },
+      {
+        "text": "atrial fibrillation",
+        "isCorrect": false,
+        "explanation": "Digoxin is used to treat atrial fibrillation by slowing the ventricular response. Toxicity causes arrhythmias, but does not typically cause the onset of AF."
+      },
+      {
+        "text": "ventricular fibrillation",
+        "isCorrect": true,
+        "explanation": "Ventricular tachycardia caused by digoxin toxicity can degenerate into ventricular fibrillation."
+      },
+      {
+        "text": "atrioventricular junctional escape rhythm",
+        "isCorrect": true,
+        "explanation": "Digoxin increases vagal tone, which can suppress the sinoatrial node and block the atrioventricular node, leading to a complete heart block with a junctional escape rhythm."
+      },
+      {
+        "text": "ventricular tachycardia",
+        "isCorrect": true,
+        "explanation": "Increased automaticity caused by digoxin toxicity can lead to various forms of ventricular tachycardia, including the pathognomonic bidirectional VT."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.25",
+    "type": "mtf",
+    "stem": "Factors correlating with increasing P(A−a)O2 after surgery in the morbidly obese include",
+    "source": "BARSAC 2025 Pre · B.25",
+    "explanation": "Morbid obesity profoundly affects respiratory physiology, primarily through a restrictive defect caused by the weight of the chest wall and abdomen. This leads to a reduced FRC, expiratory reserve volume, and closing capacity, promoting small airway closure and atelectasis, especially in dependent lung regions. This creates a significant ventilation-perfusion (V/Q) mismatch, which is the primary cause of an increased alveolar-arterial oxygen gradient ( P(A−a)O2). Several perioperative factors exacerbate this underlying pathophysiology. A higher body mass index (BMI) correlates with a greater degree of restrictive physiology and a larger postoperative increase in the A-a gradient. The pattern of fat distribution is also important; central or abdominal obesity impairs diaphragmatic excursion more than peripheral obesity, leading to worse pulmonary function. The surgical insult itself is a major factor. Upper abdominal and thoracic incisions cause more postoperative pain and diaphragmatic splinting, leading to more severe atelectasis than lower abdominal or peripheral surgery. Longer surgical times are associated with more profound and persistent atelectasis. Finally, while artificial ventilation is supportive, it can also contribute to the problem through ventilator-induced lung injury and absorption atelectasis, particularly with high fractions of inspired oxygen ( FiO2).",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "type of incision",
+        "isCorrect": true,
+        "explanation": "Upper abdominal or thoracic incisions are associated with more pain, splinting, and diaphragmatic dysfunction, leading to greater atelectasis and a wider A-a gradient compared to peripheral incisions."
+      },
+      {
+        "text": "prolonged surgery",
+        "isCorrect": true,
+        "explanation": "Longer surgical duration is associated with more prolonged effects of anaesthesia, greater fluid shifts, and more extensive atelectasis, all of which worsen gas exchange."
+      },
+      {
+        "text": "body mass index (BMI)",
+        "isCorrect": true,
+        "explanation": "A higher BMI is directly correlated with more severe restrictive lung physiology, greater reduction in FRC under anaesthesia, and more significant postoperative atelectasis and V/Q mismatch."
+      },
+      {
+        "text": "location of excess body fat",
+        "isCorrect": true,
+        "explanation": "Central (android) obesity, with its greater intra-abdominal fat, has a more profound restrictive effect on diaphragmatic movement and lung volumes than peripheral (gynoid) obesity."
+      },
+      {
+        "text": "artificial ventilation",
+        "isCorrect": true,
+        "explanation": "While necessary, prolonged artificial ventilation, especially with high inspired oxygen concentrations, contributes to absorption atelectasis and can be a marker of more severe underlying illness, both of which increase the A-a gradient."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.26",
+    "type": "mtf",
+    "stem": "Diabetic ketoacidosis is associated with",
+    "source": "BARSAC 2025 Pre · B.26",
+    "explanation": "Diabetic ketoacidosis (DKA) is an acute, life-threatening complication of absolute or relative insulin deficiency, making it a characteristic feature of Type 1 diabetes mellitus. The pathophysiology is driven by two main processes: hyperglycemia and ketogenesis. The lack of insulin prevents glucose uptake by peripheral tissues and allows unopposed action of counter-regulatory hormones like glucagon, which stimulates rampant hepatic gluconeogenesis and glycogenolysis, leading to severe hyperglycemia. When the serum glucose level exceeds the renal threshold for reabsorption, it acts as an osmotic agent in the renal tubules, causing a massive osmotic diuresis with significant loss of water and electrolytes. This leads to profound total body water depletion. The extracellular hyperosmolarity also pulls water out of the intracellular compartment, causing intracellular dehydration. The osmotic diuresis also leads to large urinary losses of potassium, resulting in a significant total body potassium deficit. However, the initial serum potassium level can be normal or even high due to an acidosis-induced shift of potassium out of cells. This masks the true depletion, and potassium levels will fall rapidly once insulin therapy is initiated.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "osmotic diuresis",
+        "isCorrect": true,
+        "explanation": "Severe hyperglycemia overwhelms the kidney's ability to reabsorb glucose, leading to glycosuria and a powerful osmotic diuresis."
+      },
+      {
+        "text": "intracellular dehydration",
+        "isCorrect": true,
+        "explanation": "The hyperosmolar state created by hyperglycemia draws water out of the intracellular space into the extracellular space, causing cellular dehydration."
+      },
+      {
+        "text": "non-insulin dependant Type diabetes",
+        "isCorrect": false,
+        "explanation": "DKA is the hallmark metabolic decompensation of Type 1 (insulin-dependent) diabetes, caused by absolute insulin deficiency. It is rare in Type 2 diabetes."
+      },
+      {
+        "text": "depleted body potassium stores",
+        "isCorrect": true,
+        "explanation": "Despite potentially normal or high serum potassium on presentation, osmotic diuresis and vomiting lead to a large total body deficit of potassium."
+      },
+      {
+        "text": "increased gluconeogenesis",
+        "isCorrect": true,
+        "explanation": "In the absence of insulin's inhibitory effect, counter-regulatory hormones (especially glucagon) drive unrestrained hepatic gluconeogenesis, worsening the hyperglycemia."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.27",
+    "type": "mtf",
+    "stem": "Probable causes of profound hypotension on commencement of artificial ventilation in a patient suffering multiple trauma include",
+    "source": "BARSAC 2025 Pre · B.27",
+    "explanation": "The transition from spontaneous negative-pressure breathing to positive-pressure ventilation (PPV) causes a fundamental change in thoracic physiology. PPV increases intrathoracic pressure, which impedes venous return to the right heart, thereby reducing cardiac preload. In a euvolemic patient, this is usually well tolerated. However, in a trauma patient with compromised hemodynamics, this reduction in preload can precipitate cardiovascular collapse. The most common cause of shock in trauma is hypovolemia from hemorrhage. A patient who is compensating for blood loss with intense vasoconstriction and tachycardia will become profoundly hypotensive when PPV reduces their already tenuous preload. Obstructive shock states are also exquisitely sensitive to the initiation of PPV. A simple pneumothorax can be converted into a tension pneumothorax by positive pressure, and the decreased venous return from PPV will be catastrophic in a patient with cardiac tamponade, as the heart is already unable to fill adequately. Fat embolism syndrome is a delayed complication of long bone fractures and is not a cause of immediate post-intubation collapse. A flail chest itself impairs the mechanics of breathing but is not a primary cause of hypotension; however, it is frequently associated with injuries that are, such as pneumothorax or hemothorax.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "tension pneumothorax",
+        "isCorrect": true,
+        "explanation": "Positive pressure ventilation can convert a simple pneumothorax into a tension pneumothorax, causing acute obstructive shock."
+      },
+      {
+        "text": "hypovolaemia",
+        "isCorrect": true,
+        "explanation": "Hypovolemia is the most common cause of shock in trauma. Positive pressure ventilation reduces preload, which will unmask and severely worsen hypotension in a hypovolemic patient."
+      },
+      {
+        "text": "cardiac tamponade",
+        "isCorrect": true,
+        "explanation": "Like tension pneumothorax, cardiac tamponade causes obstructive shock. The reduction in preload from positive pressure ventilation will precipitate cardiovascular collapse."
+      },
+      {
+        "text": "fat embolism",
+        "isCorrect": false,
+        "explanation": "Fat embolism syndrome typically presents 24-72 hours after long bone fractures with a triad of respiratory distress, neurological changes, and a petechial rash. It is not a cause of immediate hypotension upon induction."
+      },
+      {
+        "text": "flail chest",
+        "isCorrect": false,
+        "explanation": "A flail chest causes respiratory insufficiency but does not directly cause profound hypotension upon initiation of ventilation, unless an associated injury like tension pneumothorax is also present."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.28",
+    "type": "mtf",
+    "stem": "According to the European Resuscitation Council 2021 Guidelines for Paediatric Basic Life Support",
+    "source": "BARSAC 2025 Pre · B.28",
+    "explanation": "The European Resuscitation Council (ERC) 2021 Guidelines for Paediatric Basic Life Support (BLS) have specific recommendations that differ from adult BLS, primarily because the etiology of cardiac arrest in children is usually respiratory in origin (asphyxial) rather than cardiac. Recognizing this, the sequence begins with opening the airway and delivering five initial rescue breaths before commencing chest compressions. The rate of chest compressions is standardized at 100-120 per minute for all age groups. The recommended depth of compression is at least one-third of the anteroposterior diameter of the chest, which equates to approximately 4 cm in an infant and 5 cm in a child. For healthcare professionals (or two rescuers), the compression-to-ventilation ratio is 15:2 to emphasize ventilation. The 30:2 ratio is used for adult BLS and is also recommended for a single rescuer performing paediatric BLS to simplify training for laypeople. The technique for compressions varies with age: for an infant, two fingers (for a single rescuer) or the two-thumb encircling hands technique (for two rescuers) is used. For a child over 1 year of age, the heel of one or two hands should be used to achieve the required depth.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "chest compressions should be preceded by five initial rescue breaths",
+        "isCorrect": true,
+        "explanation": "Because paediatric cardiac arrest is most often secondary to hypoxia, the guidelines prioritize oxygenation with five initial rescue breaths before starting compressions."
+      },
+      {
+        "text": "the rate of chest compressions should be 100-120 per minute",
+        "isCorrect": true,
+        "explanation": "The recommended rate of 100-120 compressions per minute is consistent for adults, children, and infants."
+      },
+      {
+        "text": "the compression to ventilation ratio should be 30:2",
+        "isCorrect": false,
+        "explanation": "The recommended compression to ventilation ratio for paediatric CPR (for healthcare providers) is 15:2. The 30:2 ratio is for adult CPR or for a single lay rescuer in paediatrics."
+      },
+      {
+        "text": "in children over 1 year of age chest compressions can be done with two fingers",
+        "isCorrect": false,
+        "explanation": "The two-finger technique is for infants. For a child over 1 year, the heel of one or two hands is used, depending on the child's size."
+      },
+      {
+        "text": "the sternum should be depressed by at least one-third of the",
+        "isCorrect": true,
+        "explanation": "The sternum should be depressed by at least one-third of the anteroposterior diameter of the chest for both infants and children."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.29",
+    "type": "mtf",
+    "stem": "In the neonate at term, a decrease in body temperature to 34°C (93.2°F) is accompanied by",
+    "source": "BARSAC 2025 Pre · B.29",
+    "explanation": "Neonates, especially those born prematurely, are highly susceptible to hypothermia due to a large surface area-to-mass ratio, thin skin, and limited subcutaneous fat. Their primary physiological response to cold stress is non-shivering thermogenesis. This is a metabolic process, mediated by the sympathetic nervous system, that involves the breakdown of brown adipose tissue (brown fat) to generate heat. This process significantly increases the neonate's metabolic rate and, consequently, their oxygen consumption. If oxygen delivery cannot meet this increased demand, the infant will develop hypoxia and metabolic acidosis. Unlike adults, neonates cannot effectively shiver to generate heat. The clinical signs of hypothermia in a newborn are often subtle and include lethargy, poor feeding, and cool peripheries; hyperirritability is not a typical sign. While initial peripheral vasoconstriction may occur, severe or prolonged hypothermia leads to cardiovascular depression and hypotension.",
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "increased oxygen consumption",
+        "isCorrect": true,
+        "explanation": "In response to cold stress, neonates activate non-shivering thermogenesis, primarily through the metabolism of brown fat, which significantly increases metabolic rate and oxygen consumption."
+      },
+      {
+        "text": "systemic arterial hypertension",
+        "isCorrect": false,
+        "explanation": "The response to hypothermia can involve peripheral vasoconstriction, but significant cold stress often leads to hypotension and poor perfusion, not hypertension."
+      },
+      {
+        "text": "metabolic alkalosis",
+        "isCorrect": false,
+        "explanation": "The increased metabolic rate and potential for anaerobic metabolism in the face of increased oxygen demand leads to metabolic acidosis, not alkalosis."
+      },
+      {
+        "text": "hyperirritability",
+        "isCorrect": false,
+        "explanation": "Hypothermia in a neonate typically causes lethargy, poor feeding, and decreased activity, not hyperirritability."
+      },
+      {
+        "text": "shivering",
+        "isCorrect": false,
+        "explanation": "Neonates, particularly preterm infants, have a very limited or absent ability to generate heat by shivering."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-pre-b.30",
+    "type": "mtf",
+    "stem": "A 50 kg, 68-year-old woman presents to the emergency department with upper gastrointestinal system bleeding. She has a history of atrial fibrillation and use of warfarin. 1500 ml blood is estimated to be drained via the Nasogastric tube. She is hypotensive and tachycardic. Despite 2 packs of red blood cell and fluid resuscitation she is still hypotensive.",
+    "source": "BARSAC 2025 Pre · B.30",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "complete blood count is not essential until the adequate fluid resuscitation is established",
+        "isCorrect": false,
+        "explanation": "A complete blood count (CBC), including baseline hemoglobin, hematocrit, and platelet count, is essential for guiding resuscitation from the outset."
+      },
+      {
+        "text": "red blood cell transfusion is only indicated if Hb levels are below 7 g/dl",
+        "isCorrect": false,
+        "explanation": "In acute, massive hemorrhage with hemodynamic instability, transfusion is guided by the clinical picture (hypotension, tachycardia), not a restrictive hemoglobin trigger."
+      },
+      {
+        "text": "an increased prothrombin time of 20 seconds (INR: 1.8) is expected and is due to Warfarin",
+        "isCorrect": true,
+        "explanation": "Warfarin is a vitamin K antagonist that prolongs the prothrombin time (PT) and increases the international normalized ratio (INR). An INR of 1.8 is within the typical therapeutic range for atrial fibrillation and is an expected finding."
+      },
+      {
+        "text": "significant dilutional thrombocytopenia does not usually occur with 2 packs of red blood cells",
+        "isCorrect": true,
+        "explanation": "Clinically significant dilutional thrombocytopenia typically requires transfusion volumes approaching or exceeding one total blood volume. Two units of packed red cells is an insufficient volume to cause this."
+      },
+      {
+        "text": "warming of the blood products is not recommended in patients with acute haemorrhage as it will consume time and delay the resuscitation",
+        "isCorrect": false,
+        "explanation": "Warming blood products is a critical component of massive hemorrhage resuscitation to prevent hypothermia, which worsens coagulopathy, acidosis, and cardiac function."
+      }
+    ]
   }
 ]
