@@ -1,5 +1,1115 @@
 [
   {
+    "id": "barsac-2025-post-a1",
+    "type": "mtf",
+    "stem": "Pressure in the superior vena cava is influenced by the",
+    "source": "BARSAC 2025 Post · A1",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "right ventricular performance",
+        "isCorrect": true,
+        "explanation": "Right ventricular (RV) performance is a principal determinant of right atrial pressure (RAP) and, by extension, superior vena cava (SVC) pressure. Impaired RV contractility or increased RV afterload diminishes the ventricle's ability to eject venous return, causing an elevation in RV end-diastolic pressure. This pressure is transmitted backward to the right atrium and the great veins, increasing the central venous pressure (CVP) measured in the SVC. Thus, CVP serves as a critical, albeit complex, indicator of the balance between venous return and right-sided cardiac function."
+      },
+      {
+        "text": "position of the patient",
+        "isCorrect": true,
+        "explanation": "Patient position affects SVC pressure through both direct physiological changes in venous return and hydrostatic effects related to pressure measurement. Gravitational forces influence venous pooling; moving from an upright to a supine position increases venous return to the heart, thereby raising CVP. Furthermore, any change in the patient's position relative to the pressure transducer will alter the measured pressure unless the transducer is meticulously re-leveled to the phlebostatic axis, which approximates the level of the right atrium."
+      },
+      {
+        "text": "intra-abdominal pressure",
+        "isCorrect": true,
+        "explanation": "Elevated intra-abdominal pressure (IAP) is transmitted superiorly through the diaphragm into the thoracic cavity. This increases intrathoracic pressure, which externally compresses the heart and great vessels, including the SVC and right atrium. This compression impedes venous return from the periphery, causing blood to back up and leading to an increase in the measured upstream pressure within the SVC. This demonstrates a critical interplay between the abdominal and thoracic compartments."
+      },
+      {
+        "text": "mean airway pressure",
+        "isCorrect": true,
+        "explanation": "Increased mean airway pressure, particularly due to the application of positive end-expiratory pressure (PEEP) during mechanical ventilation, raises overall intrathoracic pressure. This elevated pressure is transmitted to the compliant structures within the thorax, including the venae cavae and the right atrium. The resulting compression impedes venous return to the heart, which consequently increases the pressure measured in the SVC."
+      },
+      {
+        "text": "competence of the tricuspid valve",
+        "isCorrect": true,
+        "explanation": "The competence of the tricuspid valve is essential for separating the right atrium from the right ventricle during systole. In cases of tricuspid regurgitation, the incompetent valve allows a retrograde flow of blood from the contracting right ventricle back into the right atrium. This systolic backflow dramatically increases right atrial pressure, which is directly reflected as an elevated pressure in the SVC and is often visible as a prominent 'v' wave on the CVP waveform."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a2",
+    "type": "mtf",
+    "stem": "Blood flow to the skin is increased by",
+    "source": "BARSAC 2025 Post · A2",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "serotonin",
+        "isCorrect": false,
+        "explanation": "The primary peripheral effect of serotonin, particularly when released from platelets at a site of injury, is vasoconstriction to promote hemostasis. While serotonin can induce vasodilation through endothelial-dependent mechanisms via S1 receptors, its direct action on vascular smooth muscle via S2 receptors is predominantly constrictive. Therefore, its net systemic effect is typically a reduction, not an increase, in cutaneous blood flow."
+      },
+      {
+        "text": "parasympathetic tone",
+        "isCorrect": false,
+        "explanation": "The regulation of cutaneous blood flow is almost exclusively a function of the sympathetic nervous system. This system mediates both vasoconstriction through noradrenergic fibers and active vasodilation through a distinct cholinergic/co-transmitter system. There is no significant direct parasympathetic innervation that causes widespread vasodilation in the skin for thermoregulatory purposes."
+      },
+      {
+        "text": "environmental temperature",
+        "isCorrect": true,
+        "explanation": "An increase in environmental temperature is the most potent physiological stimulus for increasing skin blood flow. This response is a centrally mediated thermoregulatory reflex integrated in the hypothalamus. It involves a coordinated decrease in sympathetic vasoconstrictor tone and the activation of a sympathetic active vasodilator system, resulting in a substantial increase in blood flow to the skin to facilitate heat dissipation from the body."
+      },
+      {
+        "text": "prostaglandins",
+        "isCorrect": true,
+        "explanation": "Prostaglandins, especially prostacyclin (PGI2) and those of the E series (PGE1, PGE2), are powerful local vasodilators. They are synthesized and released at sites of tissue inflammation or injury and act as paracrine mediators. By directly relaxing arteriolar smooth muscle, they increase local blood flow, contributing significantly to the erythema (redness) and warmth characteristic of the inflammatory response."
+      },
+      {
+        "text": "tissue metabolic rate",
+        "isCorrect": false,
+        "explanation": "Unlike skeletal muscle, where blood flow is tightly coupled to metabolic demand, skin blood flow is primarily governed by the body's thermoregulatory needs. The intrinsic metabolic rate of the skin is low and does not act as a significant driver for its own perfusion. The vascular control of the skin is uncoupled from local metabolic activity in favor of its role in systemic temperature homeostasis."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a3",
+    "type": "mtf",
+    "stem": "Important determinants of myocardial oxygen consumption of the left ventricle include",
+    "source": "BARSAC 2025 Post · A3",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "heart rate",
+        "isCorrect": true,
+        "explanation": "Heart rate is a primary determinant of myocardial oxygen consumption (MVO2). Each cardiac contraction requires ATP, and therefore oxygen. An increase in heart rate directly increases the number of contractions per unit of time, leading to a proportional increase in total energy expenditure and oxygen demand by the myocardium."
+      },
+      {
+        "text": "ventricular wall tension",
+        "isCorrect": true,
+        "explanation": "Ventricular wall tension is a key determinant of MVO2. According to the Law of Laplace, wall tension is a function of intraventricular pressure (afterload), ventricular radius (preload), and wall thickness. An increase in either afterload or preload increases the tension the myocardial fibers must generate, thereby increasing metabolic work and oxygen consumption."
+      },
+      {
+        "text": "coronary artery oxygen content",
+        "isCorrect": false,
+        "explanation": "Coronary artery oxygen content is a determinant of myocardial oxygen supply, not oxygen demand(consumption). Myocardial oxygen consumption refers to the rate at which the heart muscle utilizes oxygen. The oxygen content of the arterial blood, along with coronary blood flow, determines how much oxygen is delivered to the myocardium to meet that demand."
+      },
+      {
+        "text": "right atrial pressure",
+        "isCorrect": false,
+        "explanation": "Right atrial pressure is an indicator of right ventricular preload and reflects systemic venous return. It does not directly determine the workload of the left ventricle. The primary determinants of left ventricular oxygen consumption are factors that affect the left ventricle's workload, such as its own preload (left ventricular end-diastolic pressure) and afterload (systemic vascular resistance and aortic pressure)."
+      },
+      {
+        "text": "pulmonary artery pressure",
+        "isCorrect": false,
+        "explanation": "Pulmonary artery pressure represents the afterload for the right ventricle, not the left ventricle. The left ventricle ejects blood into the aorta against systemic vascular resistance. Therefore, pulmonary artery pressure is a determinant of right ventricular oxygen consumption but does not directly influence the oxygen demand of the left ventricle."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a4",
+    "type": "mtf",
+    "stem": "Intra-pleural pressure",
+    "source": "BARSAC 2025 Post · A4",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "is subatmospheric",
+        "isCorrect": true,
+        "explanation": "During normal, quiet breathing, the intra-pleural pressure is always subatmospheric (negative). This negative pressure is generated by the opposing elastic recoil forces of the lungs (tending to collapse inward) and the chest wall (tending to spring outward). This creates a suction effect in the pleural space, which keeps the lungs inflated."
+      },
+      {
+        "text": "is related to mid-oesophageal pressure",
+        "isCorrect": true,
+        "explanation": "Mid-oesophageal pressure is commonly used as a surrogate for intra-pleural pressure. The oesophagus is a compliant structure that traverses the mediastinum within the thoracic cavity. A balloon-tipped catheter placed in the mid-to-lower third of the oesophagus can measure the surrounding pressure, which closely approximates the average intra-pleural pressure, especially for tracking changes during the ventilatory cycle."
+      },
+      {
+        "text": "changes throughout the ventilatory cycle",
+        "isCorrect": true,
+        "explanation": "Intra-pleural pressure changes dynamically throughout the ventilatory cycle. During inspiration, as the thoracic cavity expands, the intra-pleural pressure becomes more negative (e.g., from -4 mmHg to -6 mmHg). During passive expiration, as the thoracic cavity recoils, the intra-pleural pressure becomes less negative, returning toward its resting value."
+      },
+      {
+        "text": "is equal throughout the pleural space",
+        "isCorrect": false,
+        "explanation": "Intra-pleural pressure is not uniform throughout the pleural space, primarily due to the effect of gravity. In an upright individual, the weight of the lung creates a vertical pressure gradient, making the intra-pleural pressure more negative at the apex and less negative at the base. This gradient influences regional lung inflation and ventilation."
+      },
+      {
+        "text": "becomes more negative with coughing",
+        "isCorrect": false,
+        "explanation": "Coughing involves a forced expiration against a temporarily closed glottis. This maneuver generates extremely high intrathoracic pressures as the expiratory muscles contract forcefully. Consequently, the intra-pleural pressure becomes significantly positive (well above atmospheric pressure), not more negative. This high pressure is what drives the explosive expulsion of air when the glottis opens."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a5",
+    "type": "mtf",
+    "stem": "Airway resistance",
+    "source": "BARSAC 2025 Post · A5",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "can be measured using a body plethysmograph",
+        "isCorrect": true,
+        "explanation": "A whole-body plethysmograph is the gold standard for measuring airway resistance. The technique is based on Boyle's Law. The patient sits in an airtight chamber and breathes against a closed shutter, allowing for the simultaneous measurement of changes in mouth pressure (surrogate for alveolar pressure) and box pressure (related to changes in thoracic gas volume). From these measurements, airway resistance can be calculated."
+      },
+      {
+        "text": "is expressed as litres kPa-1",
+        "isCorrect": false,
+        "explanation": "Airway resistance is defined as the pressure gradient required to produce a unit of flow. Therefore, its units are pressure divided by flow rate. The standard units are cmH2O/L/s. While kPa is a unit of pressure and L is a unit of volume, the expression litres kPa−1 represents compliance (change in volume per unit change in pressure), not resistance."
+      },
+      {
+        "text": "is independent of lung volume",
+        "isCorrect": false,
+        "explanation": "Airway resistance is highly dependent on lung volume. As lung volume increases during inspiration, the radial traction of the surrounding lung parenchyma pulls the airways open, increasing their diameter. According to Poiseuille's law, resistance is inversely proportional to the radius to the fourth power. Therefore, airway resistance decreases as lung volume increases."
+      },
+      {
+        "text": "is increased in forced expiration",
+        "isCorrect": true,
+        "explanation": "During forced expiration, high positive intra-pleural pressures are generated, which can compress the smaller, non-cartilaginous airways. This phenomenon, known as dynamic airway compression, reduces airway calibre and significantly increases airway resistance, potentially leading to flow limitation and gas trapping, especially in patients with obstructive lung disease."
+      },
+      {
+        "text": "is independent of flow",
+        "isCorrect": false,
+        "explanation": "The relationship between airway resistance and flow is complex and depends on the nature of the flow. For laminar flow, which occurs at low flow rates in smaller airways, resistance is relatively independent of flow. However, for turbulent flow, which occurs at higher flow rates in larger airways, resistance increases in proportion to the flow rate. Therefore, airway resistance is not independent of flow under all conditions."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a6",
+    "type": "mtf",
+    "stem": "Concerning neuroanatomy",
+    "source": "BARSAC 2025 Post · A6",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "the postcentral gyri house the primary motor cortices",
+        "isCorrect": false,
+        "explanation": "The postcentral gyri, located in the parietal lobe posterior to the central sulcus, house the primary somatosensory cortices, which are responsible for processing sensations like touch, pressure, and pain. The primary motor cortices are located in the precentral gyri of the frontal lobe, anterior to the central sulcus."
+      },
+      {
+        "text": "the thalamus consist of the pineal body",
+        "isCorrect": false,
+        "explanation": "The thalamus is a major structure of the diencephalon, serving as a relay station for sensory and motor signals. The pineal body (or pineal gland) is part of the epithalamus, a separate region of the diencephalon located posterior to the thalamus. The two are distinct anatomical and functional structures."
+      },
+      {
+        "text": "the oculomotor nerve emerge from midbrain",
+        "isCorrect": true,
+        "explanation": "The oculomotor nerve (cranial nerve III) originates from its nuclei (the oculomotor nucleus and the Edinger-Westphal nucleus) located in the midbrain at the level of the superior colliculus. It emerges from the ventral aspect of the midbrain in the interpeduncular fossa."
+      },
+      {
+        "text": "the spinal cord terminates at the level of L4 in adult",
+        "isCorrect": false,
+        "explanation": "In the adult, the spinal cord typically terminates at a much higher level, tapering to form the conus medullaris at the level of the L1 or L2 vertebra. The L4 level is well within the cauda equina, the collection of nerve roots that descends from the conus medullaris."
+      },
+      {
+        "text": "the Adamkiewich artery rises from T6-L3 segments",
+        "isCorrect": false,
+        "explanation": "The Artery of Adamkiewicz (great anterior radiculomedullary artery) is the dominant arterial supply to the lower two-thirds of the spinal cord. Its origin is variable but most commonly arises from a left-sided intercostal or lumbar artery between the T9 and L2 vertebral levels. The range T6-L3 is broader than the typical origin."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a7",
+    "type": "mtf",
+    "stem": "Cerebral blood flow is inversely related to",
+    "source": "BARSAC 2025 Post · A7",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "PaCO2",
+        "isCorrect": false,
+        "explanation": "Cerebral blood flow (CBF) is directly and potently related to the partial pressure of arterial carbon dioxide (PaCO2). Hypercapnia (PaCO2 > 40 mmHg) is a powerful cerebral vasodilator, increasing CBF, while hypocapnia is a vasoconstrictor, decreasing CBF. Therefore, the relationship is direct, not inverse."
+      },
+      {
+        "text": "cerebral oxygen consumption",
+        "isCorrect": false,
+        "explanation": "Cerebral blood flow is coupled to cerebral metabolism. An increase in cerebral oxygen consumption (CMRO2), which occurs with increased neuronal activity, triggers a corresponding increase in CBF to deliver more oxygen and substrate. This is known as flow-metabolism coupling. The relationship is direct, not inverse."
+      },
+      {
+        "text": "inhaled isoflurane concentration",
+        "isCorrect": false,
+        "explanation": "Inhaled volatile anaesthetics like isoflurane are direct cerebral vasodilators. As the concentration of isoflurane increases, CBF increases. This occurs despite a concomitant decrease in cerebral metabolic rate, representing an \"uncoupling\" of the normal flow-metabolism relationship. The relationship is direct, not inverse."
+      },
+      {
+        "text": "mean arterial blood pressure",
+        "isCorrect": false,
+        "explanation": "Within the autoregulatory range (typically mean arterial pressure of 60-160 mmHg), cerebral blood flow is kept relatively constant, meaning it is largely independent of, not inversely related to, mean arterial blood pressure. Below or above this range, CBF becomes pressure-dependent (a direct relationship)."
+      },
+      {
+        "text": "PaO2",
+        "isCorrect": true,
+        "explanation": "Cerebral blood flow is inversely related to the partial pressure of arterial oxygen (PaO2), but this effect is only significant at profound levels of hypoxemia. When PaO2 falls below approximately 50-60 mmHg, marked cerebral vasodilation occurs, causing a sharp increase in CBF. Within the normal to hyperoxic range, changes in PaO2 have little effect on CBF. However, the fundamental relationship in the hypoxic range is inverse."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a8",
+    "type": "mtf",
+    "stem": "The parenchymal cells of the liver are involved in",
+    "source": "BARSAC 2025 Post · A8",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "immunoglobulin production",
+        "isCorrect": false,
+        "explanation": "Immunoglobulins (antibodies) are produced by plasma cells, which are differentiated B-lymphocytes. While the liver contains immune cells (Kupffer cells) and is involved in the immune response, the parenchymal cells (hepatocytes) are not responsible for immunoglobulin synthesis."
+      },
+      {
+        "text": "glycogen storage",
+        "isCorrect": true,
+        "explanation": "Hepatocytes play a central role in glucose homeostasis. They are the primary site for the synthesis and storage of glycogen (glycogenesis) from glucose and for the breakdown of glycogen (glycogenolysis) to release glucose into the bloodstream as needed."
+      },
+      {
+        "text": "bilirubin conjugation",
+        "isCorrect": true,
+        "explanation": "Bilirubin, a breakdown product of heme, is insoluble in its unconjugated form. Hepatocytes take up unconjugated bilirubin from the blood and conjugate it with glucuronic acid, a process that makes it water-soluble and allows for its excretion into the bile."
+      },
+      {
+        "text": "urea production",
+        "isCorrect": true,
+        "explanation": "The urea cycle occurs predominantly in hepatocytes. This metabolic pathway converts ammonia, a toxic byproduct of amino acid metabolism, into urea, which is a less toxic compound that can be safely transported in the blood and excreted by the kidneys."
+      },
+      {
+        "text": "the synthesis of acute phase proteins.",
+        "isCorrect": true,
+        "explanation": "Hepatocytes are the primary site of synthesis for most acute phase proteins, such as C-reactive protein (CRP), fibrinogen, and alpha-1 antitrypsin. The production of these proteins is upregulated in response to systemic inflammation or tissue injury."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a9",
+    "type": "mtf",
+    "stem": "Concerning water excretion",
+    "source": "BARSAC 2025 Post · A9",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "the ascending limb of the loop of Henle is impermeable to water",
+        "isCorrect": true,
+        "explanation": "The ascending limb of the loop of Henle is unique in that it is impermeable to water. It actively transports solutes (Na+, K+, Cl-) out of the tubular fluid into the medullary interstitium, which dilutes the tubular fluid and creates the hypertonic medullary gradient necessary for concentrating urine."
+      },
+      {
+        "text": "chloride reabsorption from the loop of Henle occurs passively",
+        "isCorrect": false,
+        "explanation": "Chloride reabsorption from the thick ascending limb of the loop of Henle is an active process. It occurs via the Na-K-2Cl cotransporter (NKCC2) on the apical membrane of the tubular cells. This is a secondary active transport process driven by the Na+/K+-ATPase on the basolateral membrane."
+      },
+      {
+        "text": "under conditions of maximum antidiuresis, 5% of water reabsorption occurs in the distal tubule",
+        "isCorrect": false,
+        "explanation": "Under conditions of maximum antidiuresis (high ADH levels), the distal tubule and collecting ducts become highly permeable to water. A significant proportion of water reabsorption, approximately 10-15%, occurs in these segments, not just 5%. The majority (around 65%) occurs in the proximal tubule."
+      },
+      {
+        "text": "the maximum medullary osmolality is 800 mosmols/L",
+        "isCorrect": false,
+        "explanation": "The maximum medullary osmolality that can be generated in the human kidney is approximately 1200-1400 mOsm/L. This high interstitial osmolality is crucial for the reabsorption of water from the collecting ducts under the influence of ADH. A value of 800 mOsm/L would represent a submaximal concentrating ability."
+      },
+      {
+        "text": "dehydration induces aldosterone production",
+        "isCorrect": false,
+        "explanation": "Dehydration, which results in hyperosmolality and hypovolemia, is the primary stimulus for the release of antidiuretic hormone (ADH), not aldosterone. Aldosterone secretion is primarily regulated by the renin-angiotensin system (in response to low renal perfusion) and high plasma potassium levels."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a10",
+    "type": "mtf",
+    "stem": "Pituitary feedback mechanisms regulate secretion of",
+    "source": "BARSAC 2025 Post · A10",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "ACTH",
+        "isCorrect": true,
+        "explanation": "The secretion of Adrenocorticotropic hormone (ACTH) from the anterior pituitary is regulated by a classic negative feedback loop. Cortisol, released from the adrenal cortex in response to ACTH, inhibits the secretion of both corticotropin-releasing hormone (CRH) from the hypothalamus and ACTH from the pituitary."
+      },
+      {
+        "text": "adrenaline",
+        "isCorrect": false,
+        "explanation": "Adrenaline (epinephrine) is secreted by the adrenal medulla. Its release is controlled directly by the sympathetic nervous system, not by pituitary hormones or their feedback mechanisms."
+      },
+      {
+        "text": "cortisol",
+        "isCorrect": false,
+        "explanation": "Cortisol secretion is regulated by the pituitary (via ACTH), but cortisol itself is a product of the adrenal cortex. The feedback mechanism involves cortisol acting on the pituitary and hypothalamus to regulate their secretions. The pituitary does not directly regulate cortisol secretion via feedback; rather, it is the target of cortisol's feedback."
+      },
+      {
+        "text": "insulin",
+        "isCorrect": false,
+        "explanation": "Insulin is secreted by the beta cells of the pancreas. Its secretion is primarily regulated by blood glucose levels, not by pituitary hormones or feedback loops involving the pituitary gland."
+      },
+      {
+        "text": "thyroxine",
+        "isCorrect": false,
+        "explanation": "Thyroxine (T4) is secreted by the thyroid gland. Its secretion is stimulated by thyroid-stimulating hormone (TSH) from the anterior pituitary. Thyroxine then exerts negative feedback on both the hypothalamus (inhibiting TRH) and the pituitary (inhibiting TSH). The pituitary is the target of feedback, it does not regulate thyroxine secretion via feedback."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a11",
+    "type": "mtf",
+    "stem": "Agents which decrease left ventricular afterload in patients with congestive heart failure include",
+    "source": "BARSAC 2025 Post · A11",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "nitroglycerin",
+        "isCorrect": true,
+        "explanation": "Nitroglycerin is primarily a venodilator at low doses, reducing preload. However, at higher doses, it also causes arterial vasodilation, which reduces systemic vascular resistance (SVR) and thus decreases left ventricular afterload. This effect helps improve forward cardiac output in heart failure."
+      },
+      {
+        "text": "phentolamine",
+        "isCorrect": true,
+        "explanation": "Phentolamine is a non-selective alpha-adrenoceptor antagonist. By blocking alpha-1 receptors on arterial smooth muscle, it causes significant vasodilation, leading to a reduction in SVR and blood pressure. This marked decrease in systemic resistance constitutes a reduction in left ventricular afterload."
+      },
+      {
+        "text": "sodium nitroprusside",
+        "isCorrect": true,
+        "explanation": "Sodium nitroprusside is a potent and balanced vasodilator, causing both arterial and venous dilation. Its powerful effect on arterioles leads to a profound reduction in SVR, which directly decreases the impedance to left ventricular ejection (afterload), making it highly effective in acute decompensated heart failure."
+      },
+      {
+        "text": "isoprenaline",
+        "isCorrect": false,
+        "explanation": "Isoprenaline (isoproterenol) is a non-selective beta-adrenoceptor agonist. Its primary effects are a dramatic increase in heart rate (chronotropy) and contractility (inotropy) via beta-1 stimulation. While it causes vasodilation in skeletal muscle beds via beta-2 stimulation, which can lower diastolic pressure, its potent inotropic and chronotropic effects significantly increase myocardial oxygen demand and do not primarily classify it as an afterload-reducing agent in the context of heart failure management."
+      },
+      {
+        "text": "nifedipine",
+        "isCorrect": true,
+        "explanation": "Nifedipine is a dihydropyridine calcium channel blocker that acts primarily on arterial smooth muscle. It causes potent peripheral vasodilation, leading to a significant reduction in SVR. This reduction in the resistance against which the left ventricle must pump defines it as an afterload-reducing agent."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a12",
+    "type": "mtf",
+    "stem": "Sympathetic effects of propranolol include",
+    "source": "BARSAC 2025 Post · A12",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "ganglion blockade",
+        "isCorrect": false,
+        "explanation": "Propranolol is a beta-adrenoceptor antagonist; it does not act at autonomic ganglia. Ganglion blockade is a characteristic of drugs like hexamethonium, which act on nicotinic acetylcholine receptors in both sympathetic and parasympathetic ganglia."
+      },
+      {
+        "text": "central dopamine depletion",
+        "isCorrect": false,
+        "explanation": "Propranolol does not deplete central dopamine. Its mechanism is peripheral and central beta-adrenoceptor blockade. Central dopamine depletion is a mechanism associated with drugs like reserpine."
+      },
+      {
+        "text": "production of a false neurotransmitter",
+        "isCorrect": false,
+        "explanation": "The production of a false neurotransmitter is the mechanism of action for drugs like methyldopa, where an inactive metabolite is stored and released from adrenergic nerve terminals in place of norepinephrine. Propranolol acts by competitively blocking receptors."
+      },
+      {
+        "text": "alpha adrenoceptor blockade",
+        "isCorrect": false,
+        "explanation": "Propranolol is a non-selective beta-adrenoceptor antagonist. It has no significant alpha-adrenoceptor blocking activity. Drugs that block both alpha and beta receptors include labetalol and carvedilol."
+      },
+      {
+        "text": "beta adrenoceptor blockade",
+        "isCorrect": true,
+        "explanation": "The primary and defining mechanism of action of propranolol is the competitive, non-selective blockade of beta-1 and beta-2 adrenoceptors. This action antagonizes the effects of catecholamines like adrenaline and noradrenaline at these receptors throughout the sympathetic nervous system."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a13",
+    "type": "mtf",
+    "stem": "Regarding sodium valproate",
+    "source": "BARSAC 2025 Post · A13",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "is a monoamine oxidase inhibitor",
+        "isCorrect": false,
+        "explanation": "Sodium valproate is an anticonvulsant and mood stabilizer. Its mechanisms include enhancing GABAergic transmission and blocking voltage-gated sodium channels. It is not a monoamine oxidase (MAO) inhibitor, a class of drugs used primarily as antidepressants (e.g., phenelzine)."
+      },
+      {
+        "text": "can be used in the treatment of trigeminal neuralgia",
+        "isCorrect": true,
+        "explanation": "Although carbamazepine is the first-line treatment for trigeminal neuralgia, sodium valproate is used as a second-line or adjunctive agent. Its ability to calm excessive nerve firing can be beneficial in treating this neuropathic pain condition."
+      },
+      {
+        "text": "stimulates central GABA-ergic inhibitory pathways",
+        "isCorrect": true,
+        "explanation": "A principal mechanism of action of sodium valproate is the stimulation of central GABAergic inhibitory pathways. It achieves this by inhibiting the enzyme GABA transaminase (which breaks down GABA) and stimulating the enzyme glutamic acid decarboxylase (which synthesizes GABA), leading to increased GABA levels in the brain."
+      },
+      {
+        "text": "stimulates platelet aggregation",
+        "isCorrect": false,
+        "explanation": "Sodium valproate is known to cause thrombocytopenia (a decrease in platelet count) and can impair platelet function. It does not stimulate platelet aggregation; rather, it can increase the risk of bleeding due to its effects on platelets and coagulation factors."
+      },
+      {
+        "text": "has hepatotoxic effects",
+        "isCorrect": true,
+        "explanation": "Hepatotoxicity is a well-recognized and serious adverse effect of sodium valproate. It can range from asymptomatic elevation of liver enzymes to severe, fatal hepatic failure. This risk is highest in young children, particularly those on multiple anticonvulsant medications."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a14",
+    "type": "mtf",
+    "stem": "Intravenous anaesthetic agents",
+    "source": "BARSAC 2025 Post · A14",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "high doses of remifentanil lead to burst-suppression in the electroencephalogram",
+        "isCorrect": true,
+        "explanation": "High doses of potent opioids, including remifentanil, when used as part of a total intravenous anaesthesia (TIVA) technique, can produce profound CNS depression. This can manifest on the electroencephalogram (EEG) as a burst-suppression pattern, which is characterized by periods of electrical silence interspersed with bursts of activity."
+      },
+      {
+        "text": "thiopental at doses causing electroencephalogram suppression reduces cerebral oxygen consumption by 50%",
+        "isCorrect": true,
+        "explanation": "Thiopental, a barbiturate, profoundly decreases the cerebral metabolic rate of oxygen (CMRO2) in a dose-dependent manner. At doses sufficient to produce an isoelectric or burst-suppression EEG, it causes a maximal reduction in CMRO2 of approximately 50%. This metabolic suppression is the basis for its use for neuroprotection."
+      },
+      {
+        "text": "dexmedetomidine increases cerebral blood flow",
+        "isCorrect": false,
+        "explanation": "Dexmedetomidine, an alpha-2 adrenoceptor agonist, causes cerebral vasoconstriction. This effect leads to a decrease, not an increase, in cerebral blood flow. This property contrasts with many other sedatives and anaesthetics that cause vasodilation."
+      },
+      {
+        "text": "ketamine causes a decrease in cerebral blood flow",
+        "isCorrect": false,
+        "explanation": "Ketamine is unique among intravenous anaesthetic agents in that it increases cerebral blood flow and cerebral metabolic rate. It is a cerebral vasodilator and is generally avoided in patients with raised intracranial pressure for this reason."
+      },
+      {
+        "text": "large doses of midazolam lead to burst-suppression in the electroencephalogram",
+        "isCorrect": true,
+        "explanation": "Midazolam, a benzodiazepine, is a CNS depressant that reduces cerebral metabolic rate and blood flow. In large doses, similar to other potent intravenous anaesthetics like propofol and barbiturates, it can induce a burst-suppression pattern on the EEG."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a15",
+    "type": "mtf",
+    "stem": "Sugammadex",
+    "source": "BARSAC 2025 Post · A15",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "reverses the effect of vecuronium",
+        "isCorrect": true,
+        "explanation": "Sugammadex is a selective relaxant binding agent specifically designed to reverse the neuromuscular blockade caused by the aminosteroid muscle relaxants rocuronium and vecuronium. It is highly effective for reversing vecuronium-induced blockade."
+      },
+      {
+        "text": "is extensively metabolised in the liver",
+        "isCorrect": false,
+        "explanation": "Sugammadex is not metabolized. It is a large, water-soluble molecule that is excreted unchanged, almost entirely by the kidneys. Its clearance is therefore dependent on renal function, but it does not undergo hepatic metabolism."
+      },
+      {
+        "text": "encapsulates the rocuronium molecule",
+        "isCorrect": true,
+        "explanation": "The mechanism of action of sugammadex is unique. It is a modified gamma-cyclodextrin with a lipophilic core and a hydrophilic exterior. It directly encapsulates the rocuronium molecule in a 1:1 ratio, forming a very stable, water-soluble complex. This encapsulation renders the rocuronium inactive and unable to bind to nicotinic receptors."
+      },
+      {
+        "text": "interferes with the breakdown of acetylcholine",
+        "isCorrect": false,
+        "explanation": "Sugammadex has no effect on the acetylcholinesterase enzyme or acetylcholine metabolism. Its action is entirely based on binding the muscle relaxant molecule itself. Reversal agents that interfere with the breakdown of acetylcholine are the anticholinesterases, such as neostigmine and edrophonium."
+      },
+      {
+        "text": "reverses the effect of mivacurium",
+        "isCorrect": false,
+        "explanation": "Sugammadex is selective for aminosteroid muscle relaxants (rocuronium, vecuronium). It has no affinity for and does not reverse the effects of benzylisoquinolinium muscle relaxants like mivacurium, atracurium, or cisatracurium."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a16",
+    "type": "mtf",
+    "stem": "Substances that can interfere with the metabolism of antihistamines, such as terfenidine, leading to life-threatening complications include",
+    "source": "BARSAC 2025 Post · A16",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "grapefruit juice",
+        "isCorrect": true,
+        "explanation": "Grapefruit juice contains furanocoumarins that are potent inhibitors of the cytochrome P450 enzyme CYP3A4 in the small intestine. Terfenidine is metabolized by CYP3A4, and its inhibition by grapefruit juice can lead to toxic accumulation of the parent drug, causing potentially fatal cardiac arrhythmias (Torsades de Pointes)."
+      },
+      {
+        "text": "cimetidine",
+        "isCorrect": true,
+        "explanation": "Cimetidine is a well-known inhibitor of multiple cytochrome P450 enzymes, including CYP3A4. Co-administration with terfenidine can significantly impair its metabolism, leading to elevated plasma levels and an increased risk of cardiotoxicity."
+      },
+      {
+        "text": "grape juice",
+        "isCorrect": false,
+        "explanation": "While grapefruit juice is a potent CYP3A4 inhibitor, grape juice does not contain the same furanocoumarins and does not have a clinically significant inhibitory effect on this enzyme system. It does not pose the same risk of drug interaction."
+      },
+      {
+        "text": "CYP2D6 inhibitors",
+        "isCorrect": false,
+        "explanation": "Terfenidine is metabolized primarily by CYP3A4, not CYP2D6. Therefore, inhibitors of CYP2D6 (such as fluoxetine or paroxetine) would not be expected to have a significant impact on terfenidine metabolism or toxicity. The interaction is specific to the metabolic pathway involved."
+      },
+      {
+        "text": "erythromycin",
+        "isCorrect": true,
+        "explanation": "Erythromycin, a macrolide antibiotic, is a classic and potent inhibitor of the CYP3A4 enzyme. Its co-administration with terfenidine was one of the first and most well-documented interactions leading to life-threatening cardiac events, which ultimately led to the withdrawal of terfenidine from the market."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a17",
+    "type": "mtf",
+    "stem": "The solubility of a volatile agent",
+    "source": "BARSAC 2025 Post · A17",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "increases with temperature",
+        "isCorrect": false,
+        "explanation": "The solubility of gases in liquids, including volatile anaesthetics in blood and tissues, is inversely related to temperature. As temperature decreases (hypothermia), the gas becomes more soluble, and the blood/gas partition coefficient increases. As temperature increases, solubility decreases."
+      },
+      {
+        "text": "is responsible for the concentration effect",
+        "isCorrect": false,
+        "explanation": "The concentration effect describes the phenomenon whereby administering a high inspired concentration of an anaesthetic gas (e.g., nitrous oxide) accelerates the rate of rise of its alveolar concentration. This is due to the large volume of gas being taken up from the alveoli, which concentrates the remaining gas. It is related to uptake, not directly to solubility."
+      },
+      {
+        "text": "is measured by the saturated vapor pressure (SVP)",
+        "isCorrect": false,
+        "explanation": "Saturated vapor pressure (SVP) is a measure of a substance's volatility—the pressure exerted by its vapor in equilibrium with its liquid phase at a given temperature. Solubility is described by partition coefficients (e.g., blood/gas), which measure how the agent distributes between two phases. They are distinct physical properties."
+      },
+      {
+        "text": "is responsible for the closed space effect",
+        "isCorrect": false,
+        "explanation": "The closed space effect, also known as the third space effect, is primarily associated with nitrous oxide. Because nitrous oxide is much more soluble in blood than nitrogen, it can diffuse rapidly into air-filled body cavities (e.g., middle ear, pneumothorax, bowel gas), increasing the volume and/or pressure within that space. This is a consequence of differential solubility, but solubility itself is not \"responsible\" for the effect in this phrasing."
+      },
+      {
+        "text": "affects the speed of onset",
+        "isCorrect": true,
+        "explanation": "The solubility of a volatile agent in blood, quantified by the blood/gas partition coefficient, is a primary determinant of the speed of onset and recovery. Agents with low blood solubility (low blood/gas partition coefficient, e.g., desflurane) equilibrate rapidly between the alveoli and the brain, leading to a fast onset and offset. Highly soluble agents (e.g., halothane) require a larger amount to be dissolved in the blood before the partial pressure in the brain rises, resulting in a slower onset."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a18",
+    "type": "mtf",
+    "stem": "Regarding the ideal intravenous anaesthetic agent",
+    "source": "BARSAC 2025 Post · A18",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "it should be painful on extravasation to warn the anaesthetist",
+        "isCorrect": false,
+        "explanation": "An ideal intravenous anaesthetic agent should be non-irritant to tissues. Pain on extravasation is an undesirable property indicating tissue toxicity, not a useful warning sign. The goal is to avoid extravasation through careful technique, not to rely on a harmful property of the drug to signal it."
+      },
+      {
+        "text": "it should be water soluble",
+        "isCorrect": true,
+        "explanation": "Water solubility is a desirable characteristic for an intravenous agent. It allows for a stable formulation without the need for potentially allergenic solvents (like Cremophor EL, formerly used for propofol) and reduces the incidence of pain on injection and thrombophlebitis."
+      },
+      {
+        "text": "it should work in one arm-brain circulation time",
+        "isCorrect": true,
+        "explanation": "A rapid onset of action is a key feature of an ideal induction agent. This means the drug should produce its effect within one arm-brain circulation time, allowing for a smooth and swift transition from consciousness to anaesthesia, typically within 30-60 seconds."
+      },
+      {
+        "text": "it should have active metabolites to potentiate its action",
+        "isCorrect": false,
+        "explanation": "An ideal agent should not have active metabolites. Active metabolites can lead to prolonged or unpredictable effects, accumulation in organ failure, and a more complex pharmacokinetic profile. A clean and predictable recovery is preferred, which is best achieved with inactive metabolites."
+      },
+      {
+        "text": "It should have high therapeutic ratio",
+        "isCorrect": true,
+        "explanation": "A high therapeutic ratio (or therapeutic index), which is the ratio of the toxic dose to the therapeutic dose (LD50/ED50), is a crucial safety feature. A high ratio indicates a wide margin of safety, meaning that a large dose is required to produce toxic effects relative to the dose needed for the desired anaesthetic effect."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a19",
+    "type": "mtf",
+    "stem": "Tinnitus may be caused by",
+    "source": "BARSAC 2025 Post · A19",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "codeine",
+        "isCorrect": false,
+        "explanation": "Codeine is an opioid analgesic. While opioids can cause various side effects, including dizziness and sedation, tinnitus is not a commonly recognized or characteristic adverse effect of codeine."
+      },
+      {
+        "text": "aspirin",
+        "isCorrect": true,
+        "explanation": "Aspirin (a salicylate) is a well-known ototoxic drug. At high doses, it can cause reversible tinnitus and hearing loss. This is a classic side effect, often used as an indicator of salicylism."
+      },
+      {
+        "text": "cocaine",
+        "isCorrect": false,
+        "explanation": "Cocaine is a potent CNS stimulant and local anaesthetic. Its adverse effects are primarily cardiovascular (hypertension, tachycardia, vasospasm) and neurological (seizures, agitation), but tinnitus is not a characteristic feature of its toxicity profile."
+      },
+      {
+        "text": "lidocaine",
+        "isCorrect": true,
+        "explanation": "Lidocaine, when administered intravenously and reaching systemic toxic levels, can cause CNS symptoms including tinnitus, perioral numbness, and dizziness. Paradoxically, IV lidocaine has also been used investigationally to suppress tinnitus in some patients, highlighting its complex effects on the auditory system."
+      },
+      {
+        "text": "furosemide",
+        "isCorrect": true,
+        "explanation": "Furosemide is a loop diuretic that is known to be ototoxic, especially when administered rapidly via IV injection or in high doses, particularly in patients with renal failure. It can cause tinnitus and hearing loss, which is usually reversible but can be permanent."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a20",
+    "type": "mtf",
+    "stem": "Morphine may provoke",
+    "source": "BARSAC 2025 Post · A20",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "nausea and vomiting",
+        "isCorrect": true,
+        "explanation": "Nausea and vomiting are very common side effects of morphine and other opioids. This is primarily caused by direct stimulation of the chemoreceptor trigger zone (CTZ) in the area postrema of the brainstem."
+      },
+      {
+        "text": "bronchoconstriction",
+        "isCorrect": true,
+        "explanation": "Morphine is known to cause histamine release from mast cells. This non-allergic, direct pharmacological effect can lead to bronchoconstriction, particularly in susceptible individuals such as asthmatics. It can also cause flushing, itching, and hypotension."
+      },
+      {
+        "text": "increased output of urine",
+        "isCorrect": false,
+        "explanation": "Morphine and other opioids tend to cause urinary retention, not an increased output of urine. This effect is due to increased tone of the detrusor muscle and urinary sphincter, as well as a decreased sensation of bladder fullness, making micturition difficult."
+      },
+      {
+        "text": "constipation",
+        "isCorrect": true,
+        "explanation": "Constipation is an almost universal side effect of chronic opioid use. Morphine acts on mu-receptors in the enteric nervous system of the gut, which decreases peristalsis, increases water absorption from the stool, and increases sphincter tone, leading to hard, difficult-to-pass stools."
+      },
+      {
+        "text": "constriction of the pupils",
+        "isCorrect": true,
+        "explanation": "Constriction of the pupils (miosis) is a characteristic central effect of morphine and other opioids. It results from a stimulatory effect on the parasympathetic Edinger-Westphal nucleus of the oculomotor nerve. This is a reliable clinical sign of opioid effect."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a21",
+    "type": "mtf",
+    "stem": "Serum osmolarity is",
+    "source": "BARSAC 2025 Post · A21",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "a measure of the number of particles in a solution",
+        "isCorrect": true,
+        "explanation": "Osmolality (often used interchangeably with osmolarity in clinical practice) is a measure of the total number of solute particles dissolved in a unit of solvent. It reflects the concentration of all osmotically active particles in a solution."
+      },
+      {
+        "text": "usually expressed as millimoles per litre (mmol/L)",
+        "isCorrect": false,
+        "explanation": "Osmolality is correctly expressed as milliosmoles per kilogram of solvent (mOsm/kg). Osmolarity is expressed as milliosmoles per litre of solution (mOsm/L). While clinically similar for plasma, the units are distinct. Millimoles per litre (mmol/L) is a measure of molar concentration of a single substance, not total particle concentration."
+      },
+      {
+        "text": "commonly determined by the temperature at which a solution freezes",
+        "isCorrect": true,
+        "explanation": "The most common laboratory method for measuring serum osmolality is freezing point depression osmometry. The freezing point of a solution is depressed in proportion to the total number of solute particles dissolved in it (a colligative property). The osmometer measures this temperature depression to calculate the osmolality."
+      },
+      {
+        "text": "proportional to the valency of the particles in the solution",
+        "isCorrect": false,
+        "explanation": "Osmolality is a colligative property, meaning it depends on the number of particles, not their charge (valency), size, or mass. A molecule of NaCl dissociates into two particles (Na+ and Cl-), contributing twice as much to osmolality as a non-ionizing molecule like glucose at the same molar concentration."
+      },
+      {
+        "text": "dependent on serum albumin concentration",
+        "isCorrect": false,
+        "explanation": "Serum albumin, despite being the most abundant plasma protein, contributes very little to the total serum osmolality. This is because osmolality is determined by the molar concentration of particles, and albumin has a very high molecular weight and thus a very low molar concentration (around 0.6 mmol/L) compared to small solutes like sodium, chloride, glucose, and urea."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a22",
+    "type": "mtf",
+    "stem": "In the measurement of gas flow",
+    "source": "BARSAC 2025 Post · A22",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "turbine respirometers of the Wright's variety under read at low flows",
+        "isCorrect": true,
+        "explanation": "Turbine respirometers of the Wright's variety are known to be inaccurate at the extremes of flow. Due to the inertia of the vane, they tend to under-read at very low flow rates, as the initial flow may not be sufficient to overcome the vane's inertia and start it spinning accurately."
+      },
+      {
+        "text": "turbine respirometers of the Wright's variety over read at high flows",
+        "isCorrect": true,
+        "explanation": "At very high flow rates, the inertia of the spinning vane in a Wright's respirometer causes it to continue spinning for a short period after the flow has ceased. This \"overshoot\" results in an over-reading of the total volume passed through the device."
+      },
+      {
+        "text": "the accuracy of a rotameter at low flows is most affected by changes in the density of the gas",
+        "isCorrect": false,
+        "explanation": "The accuracy of a rotameter (variable orifice flowmeter) at low, laminar flow rates is most affected by the viscosity of the gas. At high, turbulent flow rates, its accuracy is most affected by the density of the gas. This is a fundamental principle of how these devices function."
+      },
+      {
+        "text": "the accuracy of a rotameter, at high flows is most affected by changes in the viscosity of the gas",
+        "isCorrect": false,
+        "explanation": "As stated above, at high flows, where flow becomes turbulent, the accuracy of a rotameter is most affected by the density of the gas, not its viscosity. Changes in gas density will alter the lift on the bobbin more significantly than changes in viscosity under turbulent conditions."
+      },
+      {
+        "text": "the accuracy of a rotameter is within",
+        "isCorrect": false,
+        "explanation": "This statement is incomplete and therefore cannot be evaluated as true or false. A complete statement would specify a percentage accuracy (e.g., \"within +/- 2%\"). As written, it is nonsensical."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a23",
+    "type": "mtf",
+    "stem": "Gases that can be detected by Raman spectroscopy include",
+    "source": "BARSAC 2025 Post · A23",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "Carbon dioxide (CO)",
+        "isCorrect": false,
+        "explanation": "The chemical formula for carbon dioxide is CO2. The question lists CO, which is carbon monoxide. While carbon monoxide can be detected, the formula provided in the option is incorrect for carbon dioxide, making the statement technically false as written. If it were written as CO2, it would be true."
+      },
+      {
+        "text": "Isoflurane",
+        "isCorrect": true,
+        "explanation": "Raman spectroscopy can detect complex polyatomic molecules, including all the potent volatile anaesthetic agents like isoflurane, sevoflurane, and desflurane, as they all exhibit Raman activity."
+      },
+      {
+        "text": "Oxygen (O)",
+        "isCorrect": false,
+        "explanation": "The chemical formula for diatomic oxygen is O2. The question lists O, which is atomic oxygen. While O2 is detectable by Raman spectroscopy because its symmetrical diatomic bond vibrates, the formula provided is for a single oxygen atom, making the statement false as written."
+      },
+      {
+        "text": "Water vapour",
+        "isCorrect": true,
+        "explanation": "Water vapour (H2O) is a polar molecule with distinct vibrational modes and is readily detectable by Raman spectroscopy. It is one of the common gases measured in respiratory gas analysis using this technique."
+      },
+      {
+        "text": "Nitrous oxide (NO)",
+        "isCorrect": false,
+        "explanation": "The chemical formula for nitrous oxide is N2O. The question lists NO, which is nitric oxide. While both are gases used in medicine, they are distinct molecules. Raman spectroscopy can detect N2O, but the formula provided is incorrect, making the statement false."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a24",
+    "type": "mtf",
+    "stem": "Critical temperature",
+    "source": "BARSAC 2025 Post · A24",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "is the temperature below which a substance cannot be liquefied however much pressure is applied",
+        "isCorrect": false,
+        "explanation": "The critical temperature is the temperature above which a substance cannot be liquefied, no matter how much pressure is applied. Below the critical temperature, applying sufficient pressure will cause liquefaction."
+      },
+      {
+        "text": "the critical temperature of oxygen is -119°C",
+        "isCorrect": true,
+        "explanation": "The critical temperature of oxygen is -119 °C (or more precisely, -118.6 °C). This is well below room temperature, which is why oxygen exists only as a gas in cylinders at ambient temperatures, regardless of the pressure."
+      },
+      {
+        "text": "the critical temperature of nitrous oxide is -36.5°C",
+        "isCorrect": false,
+        "explanation": "The critical temperature of nitrous oxide is +36.5 °C (or +36.4 °C). The value given, -36.5 °C, is incorrect. The positive value is crucial to its properties in a cylinder."
+      },
+      {
+        "text": "at the critical temperature gas and liquid phases have equal densities",
+        "isCorrect": true,
+        "explanation": "At the critical point (which occurs at the critical temperature and critical pressure), the distinction between the liquid and gas phases disappears. The densities of the liquid and vapor phases become equal, and the substance exists as a single supercritical fluid."
+      },
+      {
+        "text": "at normal room temperature, nitrous oxide in a cylinder is a mixture of liquid and vapour",
+        "isCorrect": true,
+        "explanation": "Because the critical temperature of nitrous oxide (+36.5 °C) is above typical room temperature (around 20-25 °C), it can exist as a liquid under pressure. Therefore, a full cylinder of nitrous oxide at room temperature contains a mixture of liquid N2O and N2O vapor in equilibrium."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a25",
+    "type": "mtf",
+    "stem": "During invasive arterial pressure measurement",
+    "source": "BARSAC 2025 Post · A25",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "the mean blood pressure measurement is accurate both in an under-damped system and in an over-damped system",
+        "isCorrect": true,
+        "explanation": "The mean arterial pressure (MAP) is calculated by integrating the area under the pressure waveform over time. This calculation is not significantly affected by the dynamic response errors of under-damping or over-damping, which primarily distort the systolic and diastolic peaks. Therefore, the MAP remains a reliable measurement even in poorly damped systems."
+      },
+      {
+        "text": "air bubbles will produce an over-damped trace",
+        "isCorrect": true,
+        "explanation": "Air bubbles trapped within the pressure tubing or transducer act as a shock absorber, dissipating the energy of the pressure wave. This leads to a blunted, smoothed waveform with an underestimated systolic pressure and an overestimated diastolic pressure, which are the characteristic features of an over-damped system."
+      },
+      {
+        "text": "an under-damped system over-estimates the systolic blood pressure",
+        "isCorrect": true,
+        "explanation": "An under-damped system has excessive resonance or \"ringing.\" This causes the system to overshoot the true systolic pressure, leading to a falsely high systolic reading. The diastolic pressure is often underestimated. This is often seen as a sharp, \"spiky\" waveform with multiple oscillations after a flush test."
+      },
+      {
+        "text": "an over-damped system comes back to the baseline without oscillating after a high pressure flush test",
+        "isCorrect": true,
+        "explanation": "The square-wave or fast-flush test is used to assess the dynamic response of the system. In an over-damped system, the energy from the flush is rapidly dissipated, and the waveform returns slowly to the baseline without any oscillations or with at most one sluggish oscillation. A properly damped system shows 1.5-2 oscillations."
+      },
+      {
+        "text": "artefacts are minimised if the",
+        "isCorrect": false,
+        "explanation": "This statement is incomplete and therefore cannot be evaluated as true or false. A complete statement would specify a condition for minimizing artefacts (e.g., \"...if the tubing is short and stiff\"). As written, it is nonsensical."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a26",
+    "type": "mtf",
+    "stem": "Regarding echocardiography",
+    "source": "BARSAC 2025 Post · A26",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "continuous wave doppler (CWD) measures localised velocity",
+        "isCorrect": false,
+        "explanation": "Continuous wave Doppler (CWD) measures all velocities along the entire length of the ultrasound beam. It has high velocity resolution but no range resolution (it cannot localize where the velocity is coming from). Pulsed wave Doppler (PWD) is the modality that measures velocity at a specific, localized sample volume."
+      },
+      {
+        "text": "flow to the transducer is red and away from the transducer is blue",
+        "isCorrect": true,
+        "explanation": "By convention, color Doppler imaging uses the \"BART\" mnemonic: Blue Away, Red Towards. Blood flow moving towards the transducer is encoded in red, and blood flow moving away from the transducer is encoded in blue. Lighter shades of these colors indicate higher velocities."
+      },
+      {
+        "text": "ejection fraction is the end dyastolic volume ejected during systole",
+        "isCorrect": false,
+        "explanation": "Ejection fraction is the percentage or fraction of the end-diastolic volume that is ejected during systole. It is calculated as (Stroke Volume / End-Diastolic Volume) x 100%. It is not the volume itself."
+      },
+      {
+        "text": "E and A waves represent the function of the aortic valve",
+        "isCorrect": false,
+        "explanation": "The E and A waves are components of the mitral valve inflow pattern as measured by pulsed wave Doppler. The E wave represents early, passive ventricular filling during diastole, and the A wave represents active ventricular filling from atrial contraction. They reflect the function of the mitral valve and diastolic function of the left ventricle, not the aortic valve."
+      },
+      {
+        "text": "in presence of dyastolic dysfunctions",
+        "isCorrect": false,
+        "explanation": "This statement is incomplete and therefore cannot be evaluated as true or false. A complete statement would describe a specific finding in diastolic dysfunction (e.g., \"...the E/A ratio is reversed\"). As written, it is nonsensical."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a27",
+    "type": "mtf",
+    "stem": "In assessing neuromuscular function during anaesthesia",
+    "source": "BARSAC 2025 Post · A27",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "if succinylcholine has been given for intubation, no further muscle relaxant should be given until the return of neuromuscular function has been confirmed",
+        "isCorrect": true,
+        "explanation": "Succinylcholine produces a Phase I depolarizing block, which can transition to a Phase II block that resembles a non-depolarizing block. Administering a non-depolarizing relaxant before the effects of succinylcholine have resolved can lead to a prolonged and unpredictable neuromuscular block. It is standard practice to wait for evidence of recovery (e.g., return of twitches) before giving a different class of relaxant."
+      },
+      {
+        "text": "for train-of-four (TOF) stimulation of the ulnar nerve, the electrodes are best applied to the volar side of the wrist",
+        "isCorrect": true,
+        "explanation": "For train-of-four (TOF) stimulation of the ulnar nerve to assess the adductor pollicis muscle, the stimulating electrodes are placed over the ulnar nerve on the volar (flexor) surface of the wrist, just proximal to the wrist crease. This positioning allows for effective nerve stimulation and observation of thumb adduction."
+      },
+      {
+        "text": "lack of response to TOF stimulation of the ulnar nerve excludes the possibility of coughing",
+        "isCorrect": false,
+        "explanation": "The diaphragm and laryngeal muscles are more resistant to neuromuscular blockade and recover sooner than peripheral muscles like the adductor pollicis. Therefore, it is possible for a patient to have sufficient diaphragmatic function to generate a cough even when there is no response to TOF stimulation at the wrist."
+      },
+      {
+        "text": "to avoid clinically significant residual neuromuscular blockade the TOF ratio must exceed 0.9",
+        "isCorrect": true,
+        "explanation": "Clinically significant residual neuromuscular blockade, which can lead to impaired airway protection, pharyngeal dysfunction, and respiratory compromise, can persist until the TOF ratio returns to at least 0.9 (90%). This value is now the accepted standard for defining adequate recovery."
+      },
+      {
+        "text": "antagonism of neuromuscular blockade with a cholinesterase inhibitor should not be initiated until four responses to TOF stimulation are observed",
+        "isCorrect": false,
+        "explanation": "Antagonism with a cholinesterase inhibitor like neostigmine should not be attempted until there is some evidence of spontaneous recovery, as it is ineffective at reversing a deep block. However, the common recommendation is to wait for at least two, and preferably four, responses to TOF stimulation to ensure the reversal agent will be effective. The statement that one must wait for four responses is too absolute, as reversal is often initiated when 2 or 3 twitches have returned, though waiting for 4 is safest for neostigmine."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a28",
+    "type": "mtf",
+    "stem": "The principle of capnography depends on",
+    "source": "BARSAC 2025 Post · A28",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "infrared absorbtion",
+        "isCorrect": true,
+        "explanation": "The vast majority of modern capnographs operate on the principle of infrared absorption spectrophotometry. Carbon dioxide is a polyatomic molecule that absorbs infrared radiation at a specific wavelength (typically 4.26 µm). The amount of infrared light absorbed by the gas sample is directly proportional to the concentration of CO2 present."
+      },
+      {
+        "text": "acoustic photometry",
+        "isCorrect": false,
+        "explanation": "Acoustic photometry or spectroscopy is a technique that uses sound waves to analyze gas composition. While it has been used for respiratory gas analysis, it is not the principle upon which standard clinical capnography is based."
+      },
+      {
+        "text": "the Haldane principle",
+        "isCorrect": false,
+        "explanation": "The Haldane effect describes the property of hemoglobin whereby deoxygenation increases its ability to carry carbon dioxide. This is a principle of gas transport in the blood, not a physical principle for measuring gas concentration in a sample."
+      },
+      {
+        "text": "katharometry",
+        "isCorrect": false,
+        "explanation": "Katharometry is a method of gas analysis based on measuring changes in the thermal conductivity of a gas mixture. It is not used for clinical capnography, which relies on the specific spectral properties of CO2."
+      },
+      {
+        "text": "Raman spectrometry",
+        "isCorrect": true,
+        "explanation": "Raman spectrometry is an alternative technology used in some gas analyzers. It involves inelastic scattering of monochromatic laser light by gas molecules. The frequency shift of the scattered light is characteristic of the specific molecule, allowing for the identification and quantification of CO2 and other anaesthetic gases. It is a valid, though less common, principle for capnography."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a29",
+    "type": "mtf",
+    "stem": "Regarding a desflurane vaporiser",
+    "source": "BARSAC 2025 Post · A29",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "it is a variable pressure plenum vaporiser",
+        "isCorrect": false,
+        "explanation": "A desflurane vaporizer (e.g., the Tec 6) is not a variable bypass plenum vaporizer. Due to desflurane's high volatility and low boiling point, it requires a specialized vaporizer that heats the agent to a constant temperature and pressurizes it, then injects a calculated amount of pure vapor into the fresh gas flow. This is a gas/vapor blender, not a variable bypass system."
+      },
+      {
+        "text": "desflurane is heated up to 39 °C under a pressure of 194 kPa (1500 mmHg)",
+        "isCorrect": true,
+        "explanation": "To ensure a consistent and predictable output, the Tec 6 vaporizer heats liquid desflurane to a constant temperature of 39 °C and pressurizes the vapor to approximately 2 atmospheres (1500 mmHg or about 200 kPa). The value of 194 kPa is consistent with this design."
+      },
+      {
+        "text": "the boiling point of desflurane is 39 ∘C",
+        "isCorrect": false,
+        "explanation": "The boiling point of desflurane is 22.8 °C, which is very close to standard room temperature. This high volatility is precisely why it requires a specialized heated and pressurized vaporizer. 39 °C is the temperature to which the vaporizer heats the agent, not its boiling point."
+      },
+      {
+        "text": "it requires a separate power supply",
+        "isCorrect": true,
+        "explanation": "Unlike traditional variable bypass vaporizers that operate passively, the desflurane vaporizer requires an external electrical power supply to run its heating elements and electronic control systems that regulate temperature, pressure, and vapor injection."
+      },
+      {
+        "text": "it requires a specific mounting system not compatible with other vaporisers",
+        "isCorrect": true,
+        "explanation": "Desflurane vaporizers have a unique mounting system that is not interchangeable with the standard Selectatec-type mounting used for other vaporizers (e.g., isoflurane, sevoflurane). This is a safety feature to prevent the incorrect agent from being used with the wrong vaporizer."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2025-post-a30",
+    "type": "mtf",
+    "stem": "The following can be used in the statistical analysis of the results of a clinical investigation",
+    "source": "BARSAC 2025 Post · A30",
+    "explanation": null,
+    "answerKnown": true,
+    "answerProvenance": "official",
+    "aiExplanation": false,
+    "statements": [
+      {
+        "text": "unpaired t-test",
+        "isCorrect": true,
+        "explanation": "The unpaired t-test (or Welch's t-test for unequal variances) is used to compare the means of a continuous variable between two independent or unrelated groups (e.g., comparing the mean blood pressure in a treatment group versus a placebo group)."
+      },
+      {
+        "text": "X2 (chi-squared) test",
+        "isCorrect": true,
+        "explanation": "The chi-squared (X2) test is used to analyze categorical data. It can be used to test for an association between two categorical variables (test of independence) or to compare observed frequencies in a single group to expected frequencies (goodness-of-fit test)."
+      },
+      {
+        "text": "analysis of variance",
+        "isCorrect": true,
+        "explanation": "Analysis of variance (ANOVA) is a statistical test used to compare the means of a continuous variable across three or more independent groups. It is an extension of the t-test and is used to determine if there is a statistically significant difference somewhere among the group means."
+      },
+      {
+        "text": "sequential analysis",
+        "isCorrect": true,
+        "explanation": "Sequential analysis is a statistical method used in clinical trials where data is analyzed as it is collected. The trial can be stopped early if a significant benefit, harm, or futility is detected, based on pre-specified stopping rules. This allows for more efficient and ethical trial design."
+      },
+      {
+        "text": "paired t-test",
+        "isCorrect": true,
+        "explanation": "The paired t-test is used to compare the means of a continuous variable for two related or matched groups. A common application is comparing a measurement taken on the same subjects at two different time points (e.g., blood pressure before and after a drug is administered)."
+      }
+    ]
+  },
+  {
     "id": "barsac-2025-post-b1",
     "type": "mtf",
     "stem": "Recognised treatment of intraoperative hypotension includes",
