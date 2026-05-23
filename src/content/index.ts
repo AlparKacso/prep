@@ -3,6 +3,8 @@ import type { PrepQuestion, FolderSummary } from '@/types'
 import barsac2025pre from './barsac-2025-pre/questions.json'
 import barsac2025post from './barsac-2025-post/questions.json'
 import hola2022b from './hola-2022-b/questions.json'
+import edaic2020 from './edaic-2020/questions.json'
+import hola2021 from './hola-2021/questions.json'
 
 // Each folder's JSON omits the `folder` field — it's injected here from the
 // directory name so a question always knows where it came from.
@@ -10,12 +12,16 @@ const RAW: Record<string, unknown[]> = {
   'barsac-2025-pre': barsac2025pre,
   'barsac-2025-post': barsac2025post,
   'hola-2022-b': hola2022b,
+  'edaic-2020': edaic2020,
+  'hola-2021': hola2021,
 }
 
 const LABELS: Record<string, string> = {
   'barsac-2025-pre': 'BARSAC 2025 Pre',
   'barsac-2025-post': 'BARSAC 2025 Post',
   'hola-2022-b': 'HOLA 2022 · Paper B',
+  'edaic-2020': 'EDAIC 2020',
+  'hola-2021': 'HOLA 2021',
 }
 
 function labelFor(name: string): string {
