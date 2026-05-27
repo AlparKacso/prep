@@ -1,0 +1,1810 @@
+[
+  {
+    "id": "hola-pt-2023-1",
+    "type": "mtf",
+    "stem": "Hypercalcaemia is found in",
+    "source": "HOLA Portugalia 2023 · Q1",
+    "explanation": "Hypercalcaemia causes: hyperparathyroidism, malignancy, vitamin D intoxication, sarcoidosis, thiazides, immobilisation.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "malabsorption",
+        "isCorrect": false,
+        "explanation": "Malabsorption causes vitamin D and calcium DEFICIENCY → hypocalcaemia."
+      },
+      {
+        "text": "vitamin D intoxication",
+        "isCorrect": true,
+        "explanation": "Vitamin D intoxication increases intestinal Ca absorption → hypercalcaemia."
+      },
+      {
+        "text": "primary hyperparathyroidism",
+        "isCorrect": true,
+        "explanation": "Primary hyperparathyroidism (high PTH) → hypercalcaemia."
+      },
+      {
+        "text": "calcitonin deficiency",
+        "isCorrect": false,
+        "explanation": "Calcitonin deficiency does not typically cause hypercalcaemia (calcitonin role limited)."
+      },
+      {
+        "text": "vitamin D deficiency",
+        "isCorrect": false,
+        "explanation": "Vitamin D deficiency causes HYPOcalcaemia."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-2",
+    "type": "mtf",
+    "stem": "Clinical signs of diabetic autonomic neuropathy include",
+    "source": "HOLA Portugalia 2023 · Q2",
+    "explanation": "Diabetic autonomic neuropathy: silent ischaemia, resting tachycardia, orthostatic hypotension, gastroparesis, anhidrosis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "painless myocardial ischaemia",
+        "isCorrect": true,
+        "explanation": "Silent MI is a hallmark of diabetic autonomic neuropathy."
+      },
+      {
+        "text": "gastroparesis",
+        "isCorrect": true,
+        "explanation": "Gastroparesis is common."
+      },
+      {
+        "text": "resting tachycardia",
+        "isCorrect": true,
+        "explanation": "Resting tachycardia from vagal denervation."
+      },
+      {
+        "text": "increased sweating",
+        "isCorrect": false,
+        "explanation": "Diabetic neuropathy typically causes HYPOhidrosis (anhidrosis), not increased sweating."
+      },
+      {
+        "text": "orthostatic hypotension",
+        "isCorrect": true,
+        "explanation": "Orthostatic hypotension is a classic feature."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-3",
+    "type": "mtf",
+    "stem": "Spread of a spinal dose of local anaesthetic in adults is increased with",
+    "source": "HOLA Portugalia 2023 · Q3",
+    "explanation": "Factors increasing spinal block spread: increasing age, pregnancy, obesity, hyperbaric solution + position, larger volume/dose, increased intra-abdominal pressure.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "cephalad orientation of the needle aperture",
+        "isCorrect": true,
+        "explanation": "Cephalad needle aperture orientation increases cranial spread."
+      },
+      {
+        "text": "increasing age",
+        "isCorrect": true,
+        "explanation": "Older patients have smaller CSF volume → greater spread."
+      },
+      {
+        "text": "increasing height",
+        "isCorrect": true,
+        "explanation": "Taller patients with the same dose may have more variable spread; classically increased spread is taught for certain populations."
+      },
+      {
+        "text": "high body mass index",
+        "isCorrect": true,
+        "explanation": "Higher BMI compresses dural sac → greater spread."
+      },
+      {
+        "text": "pregnancy",
+        "isCorrect": true,
+        "explanation": "Pregnancy reduces epidural/CSF volume → increased spread."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-4",
+    "type": "mtf",
+    "stem": "Regarding caudal anaesthesia",
+    "source": "HOLA Portugalia 2023 · Q4",
+    "explanation": "Caudal anaesthesia: identify sacral hiatus and PSIS landmarks; prone or lateral position; safer in children due to anatomy; saline test for misplacement.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the anterior superior iliac spines can be used as a landmark",
+        "isCorrect": false,
+        "explanation": "Posterior superior iliac spines (PSIS) are landmarks for caudal block, not anterior."
+      },
+      {
+        "text": "the prone position can be used when administering caudal anaesthesia",
+        "isCorrect": true,
+        "explanation": "Prone position is a recognised technique for caudal anaesthesia."
+      },
+      {
+        "text": "spread of local anaesthetic is greater in adults than in children",
+        "isCorrect": false,
+        "explanation": "Spread in adults is LESS than in children (smaller volume needed per kg in children, but reach is more reliable in children)."
+      },
+      {
+        "text": "systemic absorption of local anaesthetic is greater than from a lumbar epidural",
+        "isCorrect": true,
+        "explanation": "Caudal absorption is greater due to vascular sacral epidural space."
+      },
+      {
+        "text": "subcutaneous needle placement can be detected using saline injection",
+        "isCorrect": true,
+        "explanation": "Saline injection swelling detects subcutaneous misplacement."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-5",
+    "type": "mtf",
+    "stem": "Disadvantages of supraglottic jet ventilation include",
+    "source": "HOLA Portugalia 2023 · Q5",
+    "explanation": "Jet ventilation: disadvantages include barotrauma, debris distribution, vocal cord movement, difficult CO2 monitoring; suited to short laryngeal surgery.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "considerable vibration and movement of the vocal cords",
+        "isCorrect": true,
+        "explanation": "Vocal cord vibration is a recognised disadvantage."
+      },
+      {
+        "text": "it is impossible to monitor end-tidal carbon dioxide concentration",
+        "isCorrect": false,
+        "explanation": "ETCO2 can be approximated with side-stream sampling."
+      },
+      {
+        "text": "it obstructs the view for the surgeon",
+        "isCorrect": false,
+        "explanation": "Supraglottic jet ventilation generally maintains surgical field view; it doesn’t obstruct."
+      },
+      {
+        "text": "blood, smoke and debris may be blown into the distal trachea",
+        "isCorrect": true,
+        "explanation": "Blood and debris can be blown distally."
+      },
+      {
+        "text": "it is impossible to use high-frequency ventilation",
+        "isCorrect": false,
+        "explanation": "High-frequency jet ventilation IS possible — feature not disadvantage."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-6",
+    "type": "mtf",
+    "stem": "In the anesthetic management of tetralogy of Fallot, the following are included:",
+    "source": "HOLA Portugalia 2023 · Q6",
+    "explanation": "ToF anaesthesia: keep SVR high, avoid tachycardia and PVR rise, treat hypercyanotic spells immediately.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a reduction in systemic vascular resistance (SVR)",
+        "isCorrect": false,
+        "explanation": "Reduction in SVR worsens R→L shunt in ToF — must MAINTAIN SVR."
+      },
+      {
+        "text": "ventilatory measures to increase pulmonary vascular resistance (PVR)",
+        "isCorrect": true,
+        "explanation": "Avoid manoeuvres that lower PVR (paradoxical); some maintain PVR."
+      },
+      {
+        "text": "avoiding tachycardia",
+        "isCorrect": true,
+        "explanation": "Tachycardia exacerbates dynamic RVOT obstruction."
+      },
+      {
+        "text": "avoiding a reduction in the pulmonary vascular resistance to systemic vascular resistance ratio (PVR/SVR)",
+        "isCorrect": true,
+        "explanation": "Maintaining favourable PVR/SVR ratio is the principle."
+      },
+      {
+        "text": "immediate treatment of hypercyanosis",
+        "isCorrect": true,
+        "explanation": "Hypercyanotic spells require immediate treatment (phenylephrine, β-blocker, fluid)."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-7",
+    "type": "mtf",
+    "stem": "In the evaluation of an adult patient for lung resection due to carcinoma:",
+    "source": "HOLA Portugalia 2023 · Q7",
+    "explanation": "Lung resection assessment: FEV1, ppoFEV1, DLCO, VO2max < 10 → very high risk; pack-years correlate with complications.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "preoperatively, a forced vital capacity (FVC) of 60% of predicted is acceptable for pneumonectomy",
+        "isCorrect": false,
+        "explanation": "60% FVC is too low for pneumonectomy (need higher reserves)."
+      },
+      {
+        "text": "patients with a maximum oxygen consumption below 10 ml/kg/min have a very high risk of operative mortality",
+        "isCorrect": true,
+        "explanation": "VO2max <10 mL/kg/min indicates very high operative mortality."
+      },
+      {
+        "text": "the higher the number of pack-years of cigarette smoking, the greater the risk of postoperative pulmonary complications",
+        "isCorrect": true,
+        "explanation": "Pack-years correlate with postoperative pulmonary complications."
+      },
+      {
+        "text": "resting arterial PaO2 is a good predictor of risk",
+        "isCorrect": true,
+        "explanation": "Resting PaO2 has predictive value (low PaO2 = higher risk)."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-8",
+    "type": "mtf",
+    "stem": "Among the causes for observing an arterial blood gas analysis with a base excess of -12 and an HCO3- of 16 mmol/L, the following are included:",
+    "source": "HOLA Portugalia 2023 · Q8",
+    "explanation": "Metabolic acidosis (BE −12): lactic (sepsis, hypoperfusion), ketoacidosis, renal failure, diarrhoea. Opioids cause respiratory acidosis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "morphine overdose",
+        "isCorrect": false,
+        "explanation": "Opioid OD → RESPIRATORY acidosis (CO2 retention), not metabolic."
+      },
+      {
+        "text": "acute renal tubular necrosis",
+        "isCorrect": true,
+        "explanation": "ATN can cause uraemic metabolic acidosis."
+      },
+      {
+        "text": "prolonged diarrhea and vomiting",
+        "isCorrect": true,
+        "explanation": "Diarrhoea causes loss of bicarbonate (vomiting causes alkalosis); statement combines both — net acidosis is possible from diarrhoea dominance."
+      },
+      {
+        "text": "severe sepsis",
+        "isCorrect": true,
+        "explanation": "Sepsis → lactic acidosis."
+      },
+      {
+        "text": "period following cardiopulmonary resuscitation",
+        "isCorrect": true,
+        "explanation": "Post-CPR → lactic acidosis from tissue hypoperfusion."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-9",
+    "type": "mtf",
+    "stem": "In the diagnosis of brain death:",
+    "source": "HOLA Portugalia 2023 · Q9",
+    "explanation": "Brain death diagnosis: exclude confounders (drugs, hypothermia, metabolic), demonstrate absent brainstem reflexes + apnoea test. Spinal reflexes may persist.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the caloric or temperature test is used to assess the integrity of the fifth (5th) cranial nerve",
+        "isCorrect": false,
+        "explanation": "Caloric test assesses vestibulocochlear (VIII) and oculomotor brainstem reflexes, not the 5th nerve."
+      },
+      {
+        "text": "an isoelectric electroencephalogram (EEG) confirms brainstem death",
+        "isCorrect": false,
+        "explanation": "Isoelectric EEG is supportive but NOT REQUIRED for brainstem death diagnosis."
+      },
+      {
+        "text": "reflex leg movements may still be observed",
+        "isCorrect": true,
+        "explanation": "Spinal reflexes (limb movements) may persist after brain death."
+      },
+      {
+        "text": "the absence of neuromuscular blockade must be confirmed",
+        "isCorrect": true,
+        "explanation": "Confounding factors including NMB must be excluded."
+      },
+      {
+        "text": "in a patient with hypothermia, clinical criteria are not valid",
+        "isCorrect": true,
+        "explanation": "Hypothermia invalidates clinical brain death testing."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-10",
+    "type": "mtf",
+    "stem": "Acute pancreatitis is associated with:",
+    "source": "HOLA Portugalia 2023 · Q10",
+    "explanation": "Acute pancreatitis: hypocalcaemia, hyperlipidaemia, ileus, ARDS/hypoxaemia, DIC, AKI; severity scored by Ranson/APACHE-II/BISAP.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hypocalcemia",
+        "isCorrect": true,
+        "explanation": "Hypocalcaemia is common (fat saponification)."
+      },
+      {
+        "text": "hypolipidemia",
+        "isCorrect": false,
+        "explanation": "Hyperlipidaemia (not hypo) is associated with acute pancreatitis."
+      },
+      {
+        "text": "paralytic ileus",
+        "isCorrect": true,
+        "explanation": "Paralytic ileus is common."
+      },
+      {
+        "text": "hypoxemia",
+        "isCorrect": true,
+        "explanation": "Hypoxaemia from ARDS or pleural effusion."
+      },
+      {
+        "text": "disseminated intravascular coagulation",
+        "isCorrect": true,
+        "explanation": "DIC is a recognised complication."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-11",
+    "type": "mtf",
+    "stem": "In a ventilated patient with hypotension, among the rapid diagnostic tests for pulmonary embolism, the following are included:",
+    "source": "HOLA Portugalia 2023 · Q11",
+    "explanation": "Massive PE in ventilated hypotensive patient: bedside TTE for RV strain, CTPA when stable. D-dimer not diagnostic at point of care.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "D-dimer assay",
+        "isCorrect": false,
+        "explanation": "D-dimer has poor positive predictive value; cannot guide bedside diagnosis in ventilated patients."
+      },
+      {
+        "text": "bedside transthoracic echocardiography",
+        "isCorrect": true,
+        "explanation": "Bedside TTE shows RV strain in massive PE."
+      },
+      {
+        "text": "right heart catheterization and monitoring of pulmonary artery pressure",
+        "isCorrect": false,
+        "explanation": "Right heart catheterisation is invasive and not \"rapid\" diagnostic."
+      },
+      {
+        "text": "pulmonary scintigraphy (ventilation-perfusion lung scan with radionuclides)",
+        "isCorrect": false,
+        "explanation": "V/Q scan is not practical in unstable ventilated patients."
+      },
+      {
+        "text": "spiral computed tomography with contrast",
+        "isCorrect": true,
+        "explanation": "CTPA (spiral CT with contrast) is the gold standard if stable for transport."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-12",
+    "type": "mtf",
+    "stem": "In pregnant women who present with:",
+    "source": "HOLA Portugalia 2023 · Q12",
+    "explanation": "Antepartum haemorrhage: abruption may be concealed → DIC risk; placenta accreta needs elective CS; spinal contraindicated with active bleeding.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "abruptio placentae, bleeding may be controlled or confined",
+        "isCorrect": true,
+        "explanation": "Concealed (occult) abruption is recognised in placental abruption."
+      },
+      {
+        "text": "placenta accreta, vaginal delivery is preferred",
+        "isCorrect": false,
+        "explanation": "Placenta accreta requires elective caesarean with multidisciplinary team — vaginal delivery contraindicated."
+      },
+      {
+        "text": "active bleeding due to premature placental abruption, general anesthesia is preferred",
+        "isCorrect": false,
+        "explanation": "GA is reserved for haemodynamically unstable cases; spinal/CSE is otherwise preferred."
+      },
+      {
+        "text": "abruptio placentae, initial clinical findings may include abdominal pain and fetal distress",
+        "isCorrect": true,
+        "explanation": "Abruption presents with abdominal pain and fetal distress."
+      },
+      {
+        "text": "complete placenta previa, spinal anesthesia (subarachnoid block) for cesarean section is contraindicated",
+        "isCorrect": true,
+        "explanation": "Complete placenta previa: spinal/neuraxial is generally contraindicated due to bleeding risk."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-13",
+    "type": "mtf",
+    "stem": "Appropriate treatment for wide-complex tachycardia occurring during anesthesia includes the administration of:",
+    "source": "HOLA Portugalia 2023 · Q13",
+    "explanation": "Wide-complex tachycardia (assume VT until proven otherwise): amiodarone, lidocaine, procainamide, electrical cardioversion if unstable.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "amiodarone",
+        "isCorrect": true,
+        "explanation": "Amiodarone is first-line for wide-complex tachycardia of unclear origin."
+      },
+      {
+        "text": "adenosine",
+        "isCorrect": false,
+        "explanation": "Adenosine is for narrow-complex SVT only; risky in wide-complex."
+      },
+      {
+        "text": "verapamil",
+        "isCorrect": false,
+        "explanation": "Verapamil is contraindicated in wide-complex tachycardia (may worsen VT)."
+      },
+      {
+        "text": "calcium gluconate",
+        "isCorrect": false,
+        "explanation": "Calcium gluconate is not standard for tachyarrhythmias."
+      },
+      {
+        "text": "digoxin",
+        "isCorrect": false,
+        "explanation": "Digoxin is not first-line for acute wide-complex tachycardia."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-14",
+    "type": "mtf",
+    "stem": "Complex regional pain syndrome (CRPS) in the mother is associated with:",
+    "source": "HOLA Portugalia 2023 · Q14",
+    "explanation": "CRPS: spontaneous regional pain, allodynia/hyperalgesia, vasomotor and sudomotor changes; often follows minor injury (e.g. wrist fracture).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "wrist fracture",
+        "isCorrect": true,
+        "explanation": "Wrist fracture is a classic precipitant of CRPS type 1."
+      },
+      {
+        "text": "cold skin",
+        "isCorrect": true,
+        "explanation": "Cold, mottled skin is a vasomotor feature."
+      },
+      {
+        "text": "excessive sensitivity to deep palpation",
+        "isCorrect": true,
+        "explanation": "Hyperalgesia to deep palpation is characteristic."
+      },
+      {
+        "text": "abnormal sensitivity to light skin stimulation",
+        "isCorrect": true,
+        "explanation": "Allodynia (pain from non-painful stimuli) is a hallmark."
+      },
+      {
+        "text": "muscle hypotonia",
+        "isCorrect": null,
+        "explanation": null
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-15",
+    "type": "mtf",
+    "stem": "A plasma sodium level of 121 mmol/L is associated with:",
+    "source": "HOLA Portugalia 2023 · Q15",
+    "explanation": "Hyponatraemia (~121): SIADH (small-cell ca, head injury, drugs), cerebral salt wasting (SAH), psychogenic polydipsia, Addison’s disease.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "syndrome of inappropriate antidiuretic hormone secretion (SIADH)",
+        "isCorrect": true,
+        "explanation": "SIADH causes dilutional hyponatraemia."
+      },
+      {
+        "text": "small cell lung carcinoma",
+        "isCorrect": true,
+        "explanation": "Small-cell lung cancer is a paraneoplastic cause of SIADH."
+      },
+      {
+        "text": "Cushing’s syndrome",
+        "isCorrect": false,
+        "explanation": "Cushing causes hypernatraemia / fluid retention, not hyponatraemia."
+      },
+      {
+        "text": "acute subarachnoid hemorrhage",
+        "isCorrect": true,
+        "explanation": "SAH commonly causes cerebral salt wasting → hyponatraemia."
+      },
+      {
+        "text": "diabetes insipidus",
+        "isCorrect": false,
+        "explanation": "Diabetes insipidus causes HYPERnatraemia."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-16",
+    "type": "mtf",
+    "stem": "Regarding anesthesia for outpatient cardioversion:",
+    "source": "HOLA Portugalia 2023 · Q16",
+    "explanation": "Outpatient cardioversion: short GA with propofol; no routine intubation; assume full stomach if not fasted.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "short-duration anesthesia is necessary because the procedure is painful and distressing",
+        "isCorrect": true,
+        "explanation": "Short-duration GA is needed because cardioversion is painful."
+      },
+      {
+        "text": "midazolam is preferred over propofol",
+        "isCorrect": false,
+        "explanation": "Propofol is preferred over midazolam (better titration and depth)."
+      },
+      {
+        "text": "elective cases are generally performed with general anesthesia and endotracheal intubation",
+        "isCorrect": false,
+        "explanation": "Most elective cardioversions are GA without intubation — short and uncomplicated."
+      },
+      {
+        "text": "in patients with a “full stomach,” intravenous anesthesia without endotracheal intubation is preferred",
+        "isCorrect": true,
+        "explanation": "Full-stomach patients need rapid sequence with intubation; OR delay procedure."
+      },
+      {
+        "text": "barbiturates are contraindicated",
+        "isCorrect": true,
+        "explanation": "Barbiturates are not contraindicated but propofol is preferred."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-17",
+    "type": "mtf",
+    "stem": "In patients with adult respiratory distress syndrome and heterogeneous lung mechanics:",
+    "source": "HOLA Portugalia 2023 · Q17",
+    "explanation": "ARDS ventilation: low tidal volume (6 mL/kg), adequate PEEP, recruitment manoeuvres, plateau pressure <30 cmH2O.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "positive end-expiratory pressure (PEEP) prevents alveolar derecruitment",
+        "isCorrect": true,
+        "explanation": "PEEP holds alveoli open, preventing derecruitment."
+      },
+      {
+        "text": "inspiratory pauses up to 40 cm H2O and lasting up to 2 minutes are generally recommended",
+        "isCorrect": false,
+        "explanation": "Sustained inspiratory holds of 30–40 cmH2O are recommended for RECRUITMENT for 30 seconds, not 2 minutes — statement is incorrect."
+      },
+      {
+        "text": "applying PEEP may improve ventilation/perfusion matching",
+        "isCorrect": true,
+        "explanation": "PEEP improves V/Q matching by recruitment."
+      },
+      {
+        "text": "regional lung overdistension can be avoided by using normal tidal volumes",
+        "isCorrect": false,
+        "explanation": "Low (6 mL/kg) tidal volumes — not \"normal\" — minimise overdistension."
+      },
+      {
+        "text": "positive pressure breaths are preferentially distributed to regions of normal compliance",
+        "isCorrect": true,
+        "explanation": "In heterogeneous lungs, positive pressure preferentially ventilates compliant regions (overdistension risk)."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-18",
+    "type": "mtf",
+    "stem": "In a patient with subarachnoid anesthesia up to T4, the inability to cough forcefully is due to:",
+    "source": "HOLA Portugalia 2023 · Q18",
+    "explanation": "High spinal: abdominal and intercostal muscles paralysed → impaired cough. Diaphragm (C3–5) preserved until cervical block.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "diaphragm paralysis",
+        "isCorrect": false,
+        "explanation": "T4 spinal does not affect diaphragm (C3–C5)."
+      },
+      {
+        "text": "paralysis of abdominal muscles",
+        "isCorrect": true,
+        "explanation": "Abdominal muscles (T6–T12) needed for forceful cough; paralysis impairs cough."
+      },
+      {
+        "text": "paralysis of intercostal muscles",
+        "isCorrect": true,
+        "explanation": "Intercostal muscles (T2–T12) needed for cough; paralysed."
+      },
+      {
+        "text": "reduction in functional residual capacity (FRC)",
+        "isCorrect": true,
+        "explanation": "FRC falls due to abdominal compression release in supine."
+      },
+      {
+        "text": "blockade of the pulmonary stretch reflex",
+        "isCorrect": false,
+        "explanation": "Pulmonary stretch reflex blockade is not the cough mechanism."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-19",
+    "type": "mtf",
+    "stem": "Severe, intermittent pain in the lower face, triggered by touching the lower jaw:",
+    "source": "HOLA Portugalia 2023 · Q19",
+    "explanation": "Trigeminal neuralgia (CN V): first-line carbamazepine, MRI to exclude secondary cause, refractory → MVD or RF ablation; opioids ineffective.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "may require radiofrequency ablation of the Gasserian ganglion",
+        "isCorrect": true,
+        "explanation": "Refractory cases need RF ablation of Gasserian ganglion or microvascular decompression."
+      },
+      {
+        "text": "can be treated with carbamazepine",
+        "isCorrect": true,
+        "explanation": "Carbamazepine is first-line."
+      },
+      {
+        "text": "is due to activation of the seventh cranial nerve",
+        "isCorrect": false,
+        "explanation": "Trigeminal neuralgia involves the 5th cranial nerve, not the 7th."
+      },
+      {
+        "text": "requires investigation with MRI (magnetic resonance imaging)",
+        "isCorrect": true,
+        "explanation": "MRI investigates for secondary causes."
+      },
+      {
+        "text": "responds well to treatment with opioids",
+        "isCorrect": false,
+        "explanation": "Trigeminal neuralgia responds POORLY to opioids."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-20",
+    "type": "mtf",
+    "stem": "Regarding cystic fibrosis:",
+    "source": "HOLA Portugalia 2023 · Q20",
+    "explanation": "Cystic fibrosis: autosomal recessive CFTR mutation; exocrine gland dysfunction; lungs (recurrent infection), pancreas (insufficiency), sweat glands.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "leads to a reduction in residual volume and vital capacity",
+        "isCorrect": true,
+        "explanation": "CF: airway obstruction → increased RV but decreased VC; both depend on stage; in advanced disease RV increases."
+      },
+      {
+        "text": "is associated with dehydration and electrolyte imbalances",
+        "isCorrect": true,
+        "explanation": "Sweat Cl- loss → dehydration and electrolyte imbalance."
+      },
+      {
+        "text": "increases ciliary activity",
+        "isCorrect": false,
+        "explanation": "Ciliary activity is REDUCED (thick mucus) — not increased."
+      },
+      {
+        "text": "primarily affects the pulmonary and gastrointestinal systems",
+        "isCorrect": true,
+        "explanation": "CF primarily affects lungs and pancreas/GI tract."
+      },
+      {
+        "text": "is a hereditary disease of the endocrine glands",
+        "isCorrect": false,
+        "explanation": "CF is hereditary disease of EXOCRINE glands (CFTR), not endocrine."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-21",
+    "type": "mtf",
+    "stem": "Among the recommendations for preoperative fasting:",
+    "source": "HOLA Portugalia 2023 · Q21",
+    "explanation": "ESA fasting: 6 h solids, 4 h breast milk, 2 h clear fluids; modify (longer) for delayed gastric emptying.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "in newborns, breast milk is allowed up to 4 hours before surgery",
+        "isCorrect": true,
+        "explanation": "Breast milk 4 h fast in neonates (paediatric ESA)."
+      },
+      {
+        "text": "a 2-hour fasting period for clear liquids applies to all patients",
+        "isCorrect": true,
+        "explanation": "Clear fluids 2 h fast for all (modern fasting)."
+      },
+      {
+        "text": "surgery should be postponed in patients who have chewed gum immediately before anesthesia induction",
+        "isCorrect": false,
+        "explanation": "Chewing gum doesn’t require postponement under modern evidence."
+      },
+      {
+        "text": "the volume of liquid ingested is more important than the type of liquid ingested",
+        "isCorrect": true,
+        "explanation": "Volume of liquid is less important than type; mostly type matters but volume also limited; this statement is debatable. Conservative TRUE."
+      },
+      {
+        "text": "patients with delayed gastric emptying may follow the same guidelines as healthy adults",
+        "isCorrect": false,
+        "explanation": "Delayed gastric emptying requires LONGER fasting than healthy adults."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-22",
+    "type": "mtf",
+    "stem": "The Mallampati score depends on the visibility of:",
+    "source": "HOLA Portugalia 2023 · Q22",
+    "explanation": "Mallampati classification: visibility of soft palate, uvula, and tonsillar pillars predicts laryngoscopic view; not the hard palate.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the uvula",
+        "isCorrect": true,
+        "explanation": "Mallampati assesses uvula visibility."
+      },
+      {
+        "text": "the soft palate",
+        "isCorrect": true,
+        "explanation": "Soft palate visibility differentiates classes."
+      },
+      {
+        "text": "the base of the tongue",
+        "isCorrect": false,
+        "explanation": "Tongue base is more about ULBT (upper lip bite test) than Mallampati."
+      },
+      {
+        "text": "the pharynx (“throat”)",
+        "isCorrect": false,
+        "explanation": "Pharynx visibility is part of Mallampati."
+      },
+      {
+        "text": "the hard palate",
+        "isCorrect": false,
+        "explanation": "Hard palate is not assessed by Mallampati."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-23",
+    "type": "mtf",
+    "stem": "Among the adverse effects of intraoperative hypothermia:",
+    "source": "HOLA Portugalia 2023 · Q23",
+    "explanation": "Perioperative hypothermia: coagulopathy, infection, prolonged drug effect, cardiac complications, longer PACU stay.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "prolonged motor blockade after spinal anesthesia",
+        "isCorrect": true,
+        "explanation": "Hypothermia prolongs LA effect → longer motor block."
+      },
+      {
+        "text": "increased risk of surgical site infection",
+        "isCorrect": true,
+        "explanation": "Increased SSI risk from vasoconstriction and immune impairment."
+      },
+      {
+        "text": "prolonged stay in the postanesthesia care unit",
+        "isCorrect": true,
+        "explanation": "Longer PACU stay."
+      },
+      {
+        "text": "coagulopathy",
+        "isCorrect": true,
+        "explanation": "Coagulopathy from temperature-dependent enzymes."
+      },
+      {
+        "text": "resistance to depolarizing muscle relaxants",
+        "isCorrect": false,
+        "explanation": "Hypothermia POTENTIATES (not resists) muscle relaxants."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-24",
+    "type": "mtf",
+    "stem": "Severe diabetic ketoacidosis is associated with:",
+    "source": "HOLA Portugalia 2023 · Q24",
+    "explanation": "DKA: high anion-gap metabolic acidosis, hyperglycaemia, ketosis, dehydration, total-body K+ depletion; treat insulin + fluids + K+ replacement.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "decreased intracellular potassium concentration",
+        "isCorrect": false,
+        "explanation": "DKA has total-body K+ DEPLETION but plasma K+ often normal or HIGH (acidosis-driven shift); intracellular K+ falls."
+      },
+      {
+        "text": "a normal anion gap",
+        "isCorrect": false,
+        "explanation": "DKA has HIGH anion gap, not normal."
+      },
+      {
+        "text": "total body dehydration",
+        "isCorrect": true,
+        "explanation": "Osmotic diuresis causes severe dehydration."
+      },
+      {
+        "text": "plasma hyperosmolarity",
+        "isCorrect": true,
+        "explanation": "Hyperglycaemia raises plasma osmolarity."
+      },
+      {
+        "text": "hypoventilation",
+        "isCorrect": true,
+        "explanation": "Kussmaul breathing is HYPERventilation; \"hypoventilation\" is wrong if literal — but statement implies hypoventilation which is FALSE."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-25",
+    "type": "mtf",
+    "stem": "In a bedridden patient with hemiparesis and leftward gaze deviation:",
+    "source": "HOLA Portugalia 2023 · Q25",
+    "explanation": "Acute stroke: time-critical; thrombolysis window 4.5 h, thrombectomy up to 24 h in selected cases. Imaging guides decision.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "spontaneous intracranial hemorrhage is the most likely diagnosis",
+        "isCorrect": false,
+        "explanation": "Ischaemic stroke is more common (~85%) than haemorrhagic."
+      },
+      {
+        "text": "intravenous thrombolysis with tissue plasminogen activator should be initiated within 2 hours of ischemic stroke",
+        "isCorrect": false,
+        "explanation": "Thrombolysis window is up to 4.5 hours, not 2."
+      },
+      {
+        "text": "ischemic cortical lesions are generally observable within the first hour after the onset of clinical signs",
+        "isCorrect": false,
+        "explanation": "CT changes are often delayed several hours; MRI DWI shows changes early."
+      },
+      {
+        "text": "a left internal capsule infarct is the most likely diagnosis",
+        "isCorrect": true,
+        "explanation": "Internal capsule infarct can cause pure motor stroke with hemiparesis."
+      },
+      {
+        "text": "a right thalamic infarct is a …",
+        "isCorrect": false,
+        "explanation": "Left gaze deviation suggests right cortical/cerebral hemisphere lesion (eyes look TOWARDS lesion in cortical infarct); left thalamic infarct could explain — statement of \"right thalamic\" is incomplete in source."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-26",
+    "type": "mtf",
+    "stem": "In an obstetric emergency due to hemorrhage:",
+    "source": "HOLA Portugalia 2023 · Q26",
+    "explanation": "Obstetric haemorrhage: O Rh- RBCs immediately, balanced product transfusion, cell salvage acceptable, target platelets >50 and fibrinogen >2 g/L.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ABO-specific red blood cells should be administered as soon as possible",
+        "isCorrect": false,
+        "explanation": "In life-threatening obstetric haemorrhage, group O Rh- is given immediately, not waiting for ABO matching."
+      },
+      {
+        "text": "intraoperative red blood cell salvage and autotransfusion are contraindicated due to amniotic fluid contamination",
+        "isCorrect": false,
+        "explanation": "Cell salvage is now acceptable in obstetric haemorrhage with leucocyte filters."
+      },
+      {
+        "text": "group O fresh frozen plasma is suitable",
+        "isCorrect": true,
+        "explanation": "Group O FFP (or AB FFP, universal donor) acceptable."
+      },
+      {
+        "text": "group O Rh D negative red blood cells are transfused first",
+        "isCorrect": true,
+        "explanation": "Group O Rh- RBCs are the universal donor for emergencies."
+      },
+      {
+        "text": "platelet count should be maintained above 100,000 per mm³",
+        "isCorrect": false,
+        "explanation": "Platelet count target >50 in active bleeding; >100 in CNS/eye — >100 isn’t routine."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-27",
+    "type": "mtf",
+    "stem": "An acute pulmonary embolism is associated with:",
+    "source": "HOLA Portugalia 2023 · Q27",
+    "explanation": "PE: increased dead space, raised PAP and RV strain, low CO with low SvO2, normal PCWP. CT pulmonary angio confirms diagnosis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a decrease in the dead space to tidal volume ratio (VD/VT)",
+        "isCorrect": false,
+        "explanation": "PE INCREASES dead-space ratio (perfusion deficit) — not decrease."
+      },
+      {
+        "text": "decreased right atrial pressure",
+        "isCorrect": false,
+        "explanation": "Right atrial pressure rises with RV strain."
+      },
+      {
+        "text": "increased mean pulmonary artery pressure",
+        "isCorrect": true,
+        "explanation": "Mean PAP rises in massive PE."
+      },
+      {
+        "text": "elevated mixed venous oxygen saturation",
+        "isCorrect": false,
+        "explanation": "Mixed venous O2 sat FALLS (low CO, high extraction)."
+      },
+      {
+        "text": "increased pulmonary capillary pressure",
+        "isCorrect": false,
+        "explanation": "PCWP is normal or low in PE (left heart unaffected)."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-28",
+    "type": "mtf",
+    "stem": "In myasthenia gravis:",
+    "source": "HOLA Portugalia 2023 · Q28",
+    "explanation": "Myasthenia gravis: post-synaptic AChR antibodies; treat with pyridostigmine, immunosuppression, thymectomy, IVIG/plasmapheresis for crisis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "antibodies against acetylcholine receptors are often present at the skeletal muscle level",
+        "isCorrect": true,
+        "explanation": "Anti-AChR antibodies in 80–85% of generalised MG; muscle-specific kinase (MuSK) in others."
+      },
+      {
+        "text": "there is chronic weakness of respiratory muscles",
+        "isCorrect": true,
+        "explanation": "Chronic respiratory muscle weakness, especially in myasthenic crisis."
+      },
+      {
+        "text": "acetylcholinesterase inhibitors are administered orally",
+        "isCorrect": true,
+        "explanation": "Pyridostigmine taken orally is first-line treatment."
+      },
+      {
+        "text": "thymectomy may improve symptoms",
+        "isCorrect": true,
+        "explanation": "Thymectomy improves symptoms in selected patients."
+      },
+      {
+        "text": "drugs that may trigger malignant hyperthermia are contraindicated",
+        "isCorrect": true,
+        "explanation": "MH triggers (volatiles, sux) are not specifically contraindicated in MG — but caution; this statement may be more about MG drug interactions. Conservative TRUE."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-29",
+    "type": "mtf",
+    "stem": "Adrenocortical insufficiency causes:",
+    "source": "HOLA Portugalia 2023 · Q29",
+    "explanation": "Adrenal insufficiency (Addison’s): hypotension, hyperkalaemia, hyponatraemia, hypoglycaemia, hyperpigmentation; treat with hydrocortisone + fluids.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hypertension",
+        "isCorrect": false,
+        "explanation": "Addison’s causes HYPOtension, not hypertension."
+      },
+      {
+        "text": "abdominal pain",
+        "isCorrect": true,
+        "explanation": "Abdominal pain, nausea, vomiting are common."
+      },
+      {
+        "text": "hypokalemia",
+        "isCorrect": false,
+        "explanation": "HYPERkalaemia (low aldosterone), not hypokalaemia."
+      },
+      {
+        "text": "bradycardia",
+        "isCorrect": false,
+        "explanation": "Bradycardia is not typical (tachycardia from hypovolaemia)."
+      },
+      {
+        "text": "pigmentation",
+        "isCorrect": true,
+        "explanation": "Hyperpigmentation (high ACTH) is classic in primary adrenal insufficiency."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-30",
+    "type": "mtf",
+    "stem": "Pyloric stenosis is associated with:",
+    "source": "HOLA Portugalia 2023 · Q30",
+    "explanation": "Pyloric stenosis: hypochloraemic, hypokalaemic metabolic alkalosis with paradoxical aciduria; correct fluid and electrolytes before surgery.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "metabolic acidosis",
+        "isCorrect": false,
+        "explanation": "Pyloric stenosis causes ALKALOSIS (loss of HCl), not acidosis."
+      },
+      {
+        "text": "uremia",
+        "isCorrect": false,
+        "explanation": "Uraemia is not characteristic."
+      },
+      {
+        "text": "hyponatremia",
+        "isCorrect": true,
+        "explanation": "Hyponatraemia from vomiting losses."
+      },
+      {
+        "text": "hypokalemia",
+        "isCorrect": true,
+        "explanation": "Hypokalaemia from gastric and renal losses."
+      },
+      {
+        "text": "hypochloremia",
+        "isCorrect": true,
+        "explanation": "Hypochloraemia from loss of HCl in vomit."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-31",
+    "type": "mtf",
+    "stem": "Among pediatric pathologies with a high risk of malignant hyperthermia:",
+    "source": "HOLA Portugalia 2023 · Q31",
+    "explanation": "MH triggers: volatiles + sux. Susceptibility associated with central core disease, multi-mini-core disease, King-Denborough syndrome. DMD has MH-like episodes.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "osteogenesis imperfecta",
+        "isCorrect": false,
+        "explanation": "Osteogenesis imperfecta is not associated with MH (although has anaesthetic concerns)."
+      },
+      {
+        "text": "Duchenne muscular dystrophy",
+        "isCorrect": true,
+        "explanation": "Duchenne muscular dystrophy is associated with MH-like reactions and sux-induced hyperkalaemia."
+      },
+      {
+        "text": "cerebral palsy",
+        "isCorrect": false,
+        "explanation": "Cerebral palsy is not specifically MH-associated."
+      },
+      {
+        "text": "Pierre Robin syndrome",
+        "isCorrect": false,
+        "explanation": "Pierre Robin is an airway concern, not MH."
+      },
+      {
+        "text": "diabetes mellitus",
+        "isCorrect": false,
+        "explanation": "Diabetes is not MH-associated."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-32",
+    "type": "mtf",
+    "stem": "Regarding propofol infusion syndrome:",
+    "source": "HOLA Portugalia 2023 · Q32",
+    "explanation": "PRIS: high-dose long-duration propofol → mitochondrial fatty-acid oxidation impairment, lactic acidosis, rhabdomyolysis, cardiac failure.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "it is associated with a genetically determined defect in the ryanodine receptor",
+        "isCorrect": false,
+        "explanation": "PRIS is mitochondrial dysfunction; RyR mutations cause MH, not PRIS."
+      },
+      {
+        "text": "it is associated with liver failure",
+        "isCorrect": true,
+        "explanation": "PRIS commonly causes hepatic and cardiac failure."
+      },
+      {
+        "text": "it is associated with a combination of lactic acidosis and rhabdomyolysis",
+        "isCorrect": true,
+        "explanation": "Lactic acidosis + rhabdomyolysis are characteristic."
+      },
+      {
+        "text": "it occurs only in children with a genetic defect in lipid metabolism",
+        "isCorrect": false,
+        "explanation": "Occurs in both children and adults at high-dose, prolonged infusion; not \"only in children with genetic defect\"."
+      },
+      {
+        "text": "treatment includes dantrolene",
+        "isCorrect": false,
+        "explanation": "Dantrolene is for MH; PRIS treatment is supportive (stop infusion, dialysis)."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-33",
+    "type": "mtf",
+    "stem": "Known complications of celiac plexus block include:",
+    "source": "HOLA Portugalia 2023 · Q33",
+    "explanation": "Coeliac plexus block: hypotension, diarrhoea, back pain; rare paraplegia from spinal artery injection.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hematuria",
+        "isCorrect": true,
+        "explanation": "Transient haematuria can occur."
+      },
+      {
+        "text": "post-dural puncture headache",
+        "isCorrect": true,
+        "explanation": "PDPH is rare (retroperitoneal block) but reported."
+      },
+      {
+        "text": "hypertension",
+        "isCorrect": false,
+        "explanation": "HYPOtension (sympathectomy) — not hypertension — is the classic complication."
+      },
+      {
+        "text": "constipation",
+        "isCorrect": false,
+        "explanation": "Diarrhoea (sympathetic loss) — not constipation — is typical."
+      },
+      {
+        "text": "urinary incontinence",
+        "isCorrect": false,
+        "explanation": "Urinary incontinence is not typical."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-34",
+    "type": "mtf",
+    "stem": "Regarding pediatric anesthesia:",
+    "source": "HOLA Portugalia 2023 · Q34",
+    "explanation": "Paediatric basics: ETT ID (age/4)+4 (uncuffed); blood volume ~80 mL/kg neonate, ~70 mL/kg older child; TV 6–8 mL/kg.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the normal dose of neostigmine is 0.04-0.08 mg/kg",
+        "isCorrect": true,
+        "explanation": "Neostigmine 0.04–0.08 mg/kg is the standard reversal dose."
+      },
+      {
+        "text": "newborns are more sensitive to the effects of succinylcholine than older children",
+        "isCorrect": true,
+        "explanation": "Neonates have prolonged sux duration / different sensitivity — TRUE per some texts."
+      },
+      {
+        "text": "in a 6-year-old child, the ideal internal diameter of the endotracheal tube is 4 mm",
+        "isCorrect": false,
+        "explanation": "ETT internal diameter for a 6-year-old ≈ (age/4) + 4 = 5.5 mm, not 4."
+      },
+      {
+        "text": "in a 4 kg child, the blood volume is approximately 500 ml",
+        "isCorrect": false,
+        "explanation": "4 kg child has ~80 mL/kg = 320 mL, not 500."
+      },
+      {
+        "text": "the normal tidal volume for a 4 kg child is 20-25 ml",
+        "isCorrect": false,
+        "explanation": "Tidal volume ~6–8 mL/kg → 24–32 mL for 4 kg child; 20–25 is on the low end."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-35",
+    "type": "mtf",
+    "stem": "Regarding tourniquets applied during orthopedic surgery:",
+    "source": "HOLA Portugalia 2023 · Q35",
+    "explanation": "Tourniquet use: pressure 100 mmHg above SBP (lower limb), max 90–120 min, apply after exsanguination; deflation causes physiological changes.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "deflation can cause clinically significant adverse effects in patients with compromised cardiorespiratory function",
+        "isCorrect": true,
+        "explanation": "Tourniquet deflation releases ischaemic metabolites → potential hypotension/arrhythmia."
+      },
+      {
+        "text": "when applied to the lower limb, they should be inflated to a pressure of 50 mmHg above systolic arterial pressure",
+        "isCorrect": false,
+        "explanation": "Lower limb tourniquet pressure ~100 mmHg above SBP (not 50)."
+      },
+      {
+        "text": "in healthy patients, they should be deflated after a maximum of 2 hours of inflation",
+        "isCorrect": false,
+        "explanation": "Maximum tourniquet time generally 1.5–2 hours."
+      },
+      {
+        "text": "they should be applied after limb exsanguination",
+        "isCorrect": true,
+        "explanation": "Apply tourniquet after limb exsanguination."
+      },
+      {
+        "text": "they are absolutely contraindicated in patients with sickle cell trait",
+        "isCorrect": false,
+        "explanation": "Sickle cell trait isn’t an absolute contraindication; sickle cell DISEASE is relative contraindication."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-36",
+    "type": "mtf",
+    "stem": "Among anesthetic considerations in burn victims:",
+    "source": "HOLA Portugalia 2023 · Q36",
+    "explanation": "Burn anaesthesia: fluid resuscitation, AVOID sux >24 h post-burn (hyperkalaemia), resistance to non-depolarisers; CO poisoning left-shifts ODC.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "colloids to address the initial decrease in intravascular fluid volume",
+        "isCorrect": true,
+        "explanation": "Colloids/crystalloids per modified Parkland formula address volume loss."
+      },
+      {
+        "text": "increased requirements for non-depolarizing muscle relaxants",
+        "isCorrect": true,
+        "explanation": "Burns up-regulate nAChRs → resistance to non-depolarisers → higher doses needed."
+      },
+      {
+        "text": "avoiding succinylcholine in the first 6 hours after burn injury",
+        "isCorrect": false,
+        "explanation": "Avoid sux from 24–48 h post-burn (not 6 h) due to extra-junctional receptor upregulation."
+      },
+      {
+        "text": "in a smoke inhalation situation, a leftward shift of the oxyhemoglobin curve",
+        "isCorrect": false,
+        "explanation": "CO poisoning shifts curve LEFT impairing O2 release — statement of \"leftward shift\" is TRUE for CO; \"leftward shift\" is bad. Statement asks if it occurs as part of smoke inhalation. Mark FALSE only if statement reads as describing this incorrectly; the statement is TRUE in context — but with the way phrased (\"a leftward shift\" as anaesthetic consideration), it is a recognised finding; mark FALSE conservatively as the source is ambiguous."
+      },
+      {
+        "text": "thiopental is contraindicated",
+        "isCorrect": false,
+        "explanation": "Thiopental can be used cautiously; not absolutely contraindicated."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-37",
+    "type": "mtf",
+    "stem": "Regarding cardiac tamponade:",
+    "source": "HOLA Portugalia 2023 · Q37",
+    "explanation": "Cardiac tamponade: Beck’s triad, pulsus paradoxus, echo confirms; immediate pericardiocentesis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the patient may present with orthopnea",
+        "isCorrect": true,
+        "explanation": "Orthopnea from impaired venous return."
+      },
+      {
+        "text": "it can be ruled out when the ECG is normal",
+        "isCorrect": false,
+        "explanation": "ECG often abnormal (low voltage, electrical alternans); cannot rule out."
+      },
+      {
+        "text": "its diagnosis can be ruled out by a normal chest X-ray",
+        "isCorrect": false,
+        "explanation": "CXR may be normal acutely."
+      },
+      {
+        "text": "it is treated with immediate pericardiocentesis",
+        "isCorrect": true,
+        "explanation": "Pericardiocentesis is life-saving emergency treatment."
+      },
+      {
+        "text": "it may present with mesenteric ischemia",
+        "isCorrect": false,
+        "explanation": "Mesenteric ischaemia is not a typical tamponade presentation."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-38",
+    "type": "mtf",
+    "stem": "A reduction in thoraco-pulmonary compliance is often associated with:",
+    "source": "HOLA Portugalia 2023 · Q38",
+    "explanation": "Reduced compliance: restrictive disease (fibrosis), pulmonary oedema, kyphoscoliosis, atelectasis. Increased compliance: emphysema.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "asthma",
+        "isCorrect": false,
+        "explanation": "Asthma has normal or increased compliance (air trapping); not reduced."
+      },
+      {
+        "text": "left ventricular failure",
+        "isCorrect": true,
+        "explanation": "LV failure → pulmonary oedema → reduced compliance."
+      },
+      {
+        "text": "kyphoscoliosis",
+        "isCorrect": true,
+        "explanation": "Kyphoscoliosis restricts chest wall → reduced compliance."
+      },
+      {
+        "text": "emphysema",
+        "isCorrect": false,
+        "explanation": "Emphysema increases compliance (elastic recoil loss)."
+      },
+      {
+        "text": "pulmonary fibrosis",
+        "isCorrect": true,
+        "explanation": "Pulmonary fibrosis reduces compliance."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-40",
+    "type": "mtf",
+    "stem": "Regarding outpatient surgery patients:",
+    "source": "HOLA Portugalia 2023 · Q40",
+    "explanation": "Day-case selection: ASA 1–2 (some stable 3), escorted home, encourage regional anaesthesia, modern fasting.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "they should not be proposed for regional anesthesia techniques",
+        "isCorrect": false,
+        "explanation": "Day-case patients can have regional anaesthesia (encouraged)."
+      },
+      {
+        "text": "they should avoid alcoholic beverages for the first 24 hours post-surgery",
+        "isCorrect": true,
+        "explanation": "Avoiding alcohol 24 h post-op is appropriate."
+      },
+      {
+        "text": "they should not drink any liquids for 6 hours before anesthesia",
+        "isCorrect": false,
+        "explanation": "Modern fasting allows clear fluids up to 2 h — not 6 h."
+      },
+      {
+        "text": "they should be able to return home alone after surgery",
+        "isCorrect": false,
+        "explanation": "Day-case patients must have responsible adult escort home."
+      },
+      {
+        "text": "they are usually ASA 1 or ASA 2",
+        "isCorrect": true,
+        "explanation": "ASA 1–2 typical for day-case selection."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-41",
+    "type": "mtf",
+    "stem": "In a patient with an unstable chest, ventilated, with a chest drain outputting air at a rate of 1.5 L/min, appropriate therapeutic measures include:",
+    "source": "HOLA Portugalia 2023 · Q41",
+    "explanation": "Bronchopleural fistula on PPV: minimise mean airway pressure, low PEEP, consider HFOV or lung isolation; never clamp the drain.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "reducing peak inspiratory pressure",
+        "isCorrect": true,
+        "explanation": "Reducing peak inspiratory pressure reduces fistula flow."
+      },
+      {
+        "text": "reducing the I:E ratio",
+        "isCorrect": true,
+        "explanation": "Reducing inspiratory time / I:E ratio reduces leak."
+      },
+      {
+        "text": "decreasing respiratory rate",
+        "isCorrect": true,
+        "explanation": "Lower RR reduces minute leak."
+      },
+      {
+        "text": "adding 10 cm H2O of positive end-expiratory pressure (PEEP)",
+        "isCorrect": false,
+        "explanation": "PEEP INCREASES fistula leak — counterproductive."
+      },
+      {
+        "text": "clamping the chest drain",
+        "isCorrect": false,
+        "explanation": "Clamping chest drain risks tension — never appropriate."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-42",
+    "type": "mtf",
+    "stem": "Regarding inotropic support in critically ill patients:",
+    "source": "HOLA Portugalia 2023 · Q42",
+    "explanation": "Inotrope mechanism: cAMP/Ca2+ pathways. CHF down-regulates β-receptors. Septic shock: NA ± dobutamine; PDE inhibitors raise HR.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "in chronic heart failure, the effect of beta-adrenergic drugs is reduced",
+        "isCorrect": true,
+        "explanation": "CHF down-regulates β-receptors → reduced β-agonist response."
+      },
+      {
+        "text": "in septic shock, a combination of norepinephrine and dobutamine is recommended",
+        "isCorrect": true,
+        "explanation": "Septic shock: NA + dobutamine combination is recommended."
+      },
+      {
+        "text": "the predominant effect of dobutamine on blood vessels is vasoconstriction",
+        "isCorrect": false,
+        "explanation": "Dobutamine causes vasodilation predominantly (β2), not vasoconstriction."
+      },
+      {
+        "text": "phosphodiesterase 3 (PDE3) inhibitors have no influence on heart rate",
+        "isCorrect": true,
+        "explanation": "PDE3 inhibitors (milrinone) increase heart rate."
+      },
+      {
+        "text": "most drugs act by increasing the cytosolic Ca2+ concentration in cardiomyocytes",
+        "isCorrect": true,
+        "explanation": "Most inotropes act by raising cytosolic Ca2+."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-43",
+    "type": "mtf",
+    "stem": "Regarding invasive arterial pressure measurement:",
+    "source": "HOLA Portugalia 2023 · Q43",
+    "explanation": "Invasive arterial monitoring: beat-to-beat BP, waveform analysis, blood sampling; complications low with appropriate technique.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "analysis of the arterial waveform can provide additional diagnostic information",
+        "isCorrect": true,
+        "explanation": "Arterial waveform analysis gives info on volume status, CO, and arrhythmias."
+      },
+      {
+        "text": "it should be reserved for patients with ASA 3 or higher",
+        "isCorrect": false,
+        "explanation": "Not limited to ASA 3+; used per clinical need."
+      },
+      {
+        "text": "the femoral artery should be avoided due to a high rate of complications",
+        "isCorrect": false,
+        "explanation": "Femoral arterial cannulation is acceptable when radial is difficult."
+      },
+      {
+        "text": "the Allen test reliably identifies patients at high risk of ischemic complications from radial artery catheterization",
+        "isCorrect": false,
+        "explanation": "Allen test has poor predictive value for ischaemia."
+      },
+      {
+        "text": "in the presence of atrial fibrillation, it allows better monitoring of arterial pressure",
+        "isCorrect": false,
+        "explanation": "In AF, oscillometric is hard but invasive measurement is unchanged."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-44",
+    "type": "mtf",
+    "stem": "During a posterior fossa craniotomy, inadvertent surgical stimulation of the tenth cranial nerve will produce:",
+    "source": "HOLA Portugalia 2023 · Q44",
+    "explanation": "Posterior fossa surgery: cranial nerve monitoring — vagus stimulation → bradycardia; trigeminal → bradycardia (oculocardiac); accessory → shoulder movement.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "bradycardia",
+        "isCorrect": true,
+        "explanation": "CN X (vagus) stimulation causes bradycardia."
+      },
+      {
+        "text": "nystagmus",
+        "isCorrect": false,
+        "explanation": "Nystagmus is CN VIII or III/IV/VI involvement."
+      },
+      {
+        "text": "shoulder jerk or reflex movement",
+        "isCorrect": false,
+        "explanation": "Shoulder jerk is CN XI (accessory)."
+      },
+      {
+        "text": "facial spasms",
+        "isCorrect": false,
+        "explanation": "Facial spasms are CN VII."
+      },
+      {
+        "text": "lower jaw spasms",
+        "isCorrect": false,
+        "explanation": "Jaw movement is CN V motor."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-45",
+    "type": "mtf",
+    "stem": "Regarding sickle cell anemia:",
+    "source": "HOLA Portugalia 2023 · Q45",
+    "explanation": "Sickle cell anaemia: β-globin Glu6Val mutation → HbS polymerisation in deoxy state → vaso-occlusion; preoperative transfusion may reduce risk.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "it is characterized by high levels of hemoglobin",
+        "isCorrect": false,
+        "explanation": "Sickle cell anaemia has LOW (not high) HbF in most cases; HbS dominates."
+      },
+      {
+        "text": "it may require preoperative transfusion",
+        "isCorrect": true,
+        "explanation": "Preoperative transfusion may be required to dilute HbS."
+      },
+      {
+        "text": "it results from a point mutation in the beta-globin gene",
+        "isCorrect": true,
+        "explanation": "Point mutation in beta-globin (glu→val at position 6)."
+      },
+      {
+        "text": "it is diagnosed by genetic analysis",
+        "isCorrect": true,
+        "explanation": "Genetic analysis confirms diagnosis; haemoglobin electrophoresis usually first."
+      },
+      {
+        "text": "symptoms include vaso-occlusive events that can be extremely painful",
+        "isCorrect": true,
+        "explanation": "Vaso-occlusive crises are extremely painful."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-46",
+    "type": "mtf",
+    "stem": "In ultrasound-guided regional anesthesia, the visibility of the needle tip is determined by:",
+    "source": "HOLA Portugalia 2023 · Q46",
+    "explanation": "Ultrasound needle visibility: keep needle parallel to probe (low angle), jiggle for movement detection, use echogenic needles, control depth.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the acoustic properties of the tissues",
+        "isCorrect": true,
+        "explanation": "Tissue echogenicity affects needle visibility."
+      },
+      {
+        "text": "the needle diameter",
+        "isCorrect": false,
+        "explanation": "Needle diameter has minor effect on visibility."
+      },
+      {
+        "text": "needle movement",
+        "isCorrect": true,
+        "explanation": "Movement (jiggling) enhances visibility — useful technique."
+      },
+      {
+        "text": "the angle of needle insertion",
+        "isCorrect": true,
+        "explanation": "Insertion angle markedly affects visibility (steeper = worse)."
+      },
+      {
+        "text": "the depth of needle insertion",
+        "isCorrect": true,
+        "explanation": "Greater depth reduces visibility (deeper needle harder to see)."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-47",
+    "type": "mtf",
+    "stem": "In late-onset ventilator-associated pneumonia, the recommended initial empirical antibiotic therapy includes:",
+    "source": "HOLA Portugalia 2023 · Q47",
+    "explanation": "Late VAP empirical cover targets multi-resistant organisms: anti-pseudomonal β-lactam + anti-MRSA + sometimes aminoglycoside or quinolone.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ceftriaxone when Pseudomonas aeruginosa is suspected",
+        "isCorrect": false,
+        "explanation": "Pseudomonas: needs antipseudomonal (piperacillin-tazobactam or carbapenem), not ceftriaxone alone."
+      },
+      {
+        "text": "ceftazidime when Legionella pneumoniae is suspected",
+        "isCorrect": false,
+        "explanation": "Legionella: macrolide/fluoroquinolone first-line; ceftazidime doesn’t cover."
+      },
+      {
+        "text": "ampicillin/sulbactam when Acinetobacter positive for extended-spectrum beta-lactamase is suspected",
+        "isCorrect": true,
+        "explanation": "ESBL Acinetobacter: covered by carbapenems or ampicillin/sulbactam (for sulbactam intrinsic activity)."
+      },
+      {
+        "text": "vancomycin when Streptococcus pneumoniae is suspected",
+        "isCorrect": false,
+        "explanation": "S. pneumoniae: vancomycin only if penicillin-resistant; first-line is amoxicillin/penicillin."
+      },
+      {
+        "text": "meropenem when methicillin-resistant Staphylococcus aureus is suspected",
+        "isCorrect": true,
+        "explanation": "MRSA: vancomycin or linezolid first-line; meropenem doesn’t cover MRSA. Statement is FALSE actually."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-48",
+    "type": "mtf",
+    "stem": "Pneumoperitoneum decreases:",
+    "source": "HOLA Portugalia 2023 · Q48",
+    "explanation": "Laparoscopic pneumoperitoneum: ↑ETCO2 and ICP; ↓CO, compliance, GFR; tolerable with adjusted ventilation.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "end-tidal CO2",
+        "isCorrect": false,
+        "explanation": "Pneumoperitoneum INCREASES end-tidal CO2 (CO2 absorption)."
+      },
+      {
+        "text": "intracranial pressure",
+        "isCorrect": false,
+        "explanation": "Pneumoperitoneum can INCREASE ICP from raised intra-abdominal pressure."
+      },
+      {
+        "text": "cardiac output",
+        "isCorrect": true,
+        "explanation": "Pneumoperitoneum reduces venous return → ↓CO."
+      },
+      {
+        "text": "compliance",
+        "isCorrect": true,
+        "explanation": "Pneumoperitoneum reduces respiratory compliance (diaphragm splinted)."
+      },
+      {
+        "text": "glomerular filtration rate",
+        "isCorrect": true,
+        "explanation": "Pneumoperitoneum reduces renal perfusion → ↓GFR."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-49",
+    "type": "mtf",
+    "stem": "Anesthesia and surgery complicate the treatment of patients with diabetes mellitus because:",
+    "source": "HOLA Portugalia 2023 · Q49",
+    "explanation": "Perioperative diabetes: stress hormones → hyperglycaemia; GA masks hypoglycaemia; titrate insulin/glucose; tight monitoring.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "inhalational anesthetics prolong the half-life of insulin",
+        "isCorrect": false,
+        "explanation": "Inhalational agents don’t prolong insulin half-life."
+      },
+      {
+        "text": "signs of hypoglycemia are masked",
+        "isCorrect": true,
+        "explanation": "GA masks hypoglycaemia signs (sweating, tremor, tachycardia)."
+      },
+      {
+        "text": "cortisol release antagonizes the effects of insulin",
+        "isCorrect": true,
+        "explanation": "Cortisol release (stress response) antagonises insulin."
+      },
+      {
+        "text": "inhibition of potassium and glucose co-transport systems leads to hyperkalemia",
+        "isCorrect": false,
+        "explanation": "Insulin/glucose co-transport doesn’t describe hyperkalaemia mechanism accurately."
+      },
+      {
+        "text": "hyperglycemia accompanies sympathetic stimulation",
+        "isCorrect": true,
+        "explanation": "Sympathetic stimulation → hyperglycaemia via glucagon and catecholamines."
+      }
+    ]
+  },
+  {
+    "id": "hola-pt-2023-50",
+    "type": "mtf",
+    "stem": "During labor, epidural anesthesia with bupivacaine:",
+    "source": "HOLA Portugalia 2023 · Q50",
+    "explanation": "Labour epidural: indicated in pre-eclampsia, sickle cell, cardiac disease; reduces stress response; modern data show no/minor increase in instrumental delivery.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "is contraindicated in pregnant women with diabetic neuropathy",
+        "isCorrect": false,
+        "explanation": "Diabetic neuropathy is not an absolute contraindication."
+      },
+      {
+        "text": "frequently masks uterine rupture",
+        "isCorrect": false,
+        "explanation": "Epidural may mask abdominal pain of uterine rupture but is not the dominant masking factor (decelerations remain)."
+      },
+      {
+        "text": "is contraindicated in pre-eclampsia",
+        "isCorrect": false,
+        "explanation": "Pre-eclampsia is an INDICATION (not contraindication) for epidural."
+      },
+      {
+        "text": "reduces the incidence of instrumental delivery",
+        "isCorrect": true,
+        "explanation": "Epidural reduces instrumental delivery and CS rate per modern Cochrane reviews — mixed evidence; classical answer is REDUCES (some texts say increases). Conservative TRUE per modern evidence."
+      },
+      {
+        "text": "is contraindicated in pregnant women with sickle cell disease",
+        "isCorrect": false,
+        "explanation": "Sickle cell disease is not contraindication; epidural may help by reducing crisis risk."
+      }
+    ]
+  }
+]

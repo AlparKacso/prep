@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "barsac-2024-pre-a1",
+    "type": "mtf",
+    "stem": "The risk of operating room staff receiving an electric shock from contact with theatre equipment is reduced by the use of",
+    "source": "BARSAC 2024 Pre · A1",
+    "explanation": "Operating-theatre electrical safety: isolated circuits, equipotential earthing, bipolar diathermy, humidity control and conductive floors reduce shock risk.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "electrically isolated monitoring equipment",
+        "isCorrect": true,
+        "explanation": "Isolated monitoring circuits limit fault current to staff."
+      },
+      {
+        "text": "a relative humidity over 50%",
+        "isCorrect": true,
+        "explanation": "Humidity >50% dissipates static charges that could cause shocks."
+      },
+      {
+        "text": "bipolar electrocautery",
+        "isCorrect": true,
+        "explanation": "Bipolar diathermy confines current between two electrodes — safer for staff."
+      },
+      {
+        "text": "a conductive floor",
+        "isCorrect": true,
+        "explanation": "Conductive floors drain static charges to earth."
+      },
+      {
+        "text": "conductive shoes",
+        "isCorrect": false,
+        "explanation": "Conductive shoes are no longer routine — modern floors and equipment isolation have replaced them; not a current standard."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a2",
+    "type": "mtf",
+    "stem": "The following are of value in measuring lung compliance",
+    "source": "BARSAC 2024 Pre · A2",
+    "explanation": "Lung compliance = ΔV/ΔP measured with pressure transducer + flow integration or plethysmography; displayed as P-V loops.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "pressure transducer",
+        "isCorrect": true,
+        "explanation": "Pressure transducers measure airway pressure for compliance calculations."
+      },
+      {
+        "text": "pneumotachograph",
+        "isCorrect": true,
+        "explanation": "Pneumotachograph measures flow → volume (integration) for compliance loops."
+      },
+      {
+        "text": "body plethysmograph",
+        "isCorrect": true,
+        "explanation": "Body plethysmography gives static lung volumes/compliance."
+      },
+      {
+        "text": "pressure/volume loop",
+        "isCorrect": true,
+        "explanation": "Pressure/volume loops are the direct graphical compliance measurement."
+      },
+      {
+        "text": "end-tidal gas sample",
+        "isCorrect": false,
+        "explanation": "End-tidal gas sampling measures CO2, not lung volume — not relevant for compliance."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a3",
+    "type": "mtf",
+    "stem": "Airway resistance",
+    "source": "BARSAC 2024 Pre · A3",
+    "explanation": "Airway resistance: measured by body plethysmography, units cmH2O/L/s; falls with lung volume, rises with forced expiration and turbulent flow.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "is increased in forced expiration",
+        "isCorrect": true,
+        "explanation": "Dynamic airway compression during forced expiration increases resistance."
+      },
+      {
+        "text": "can be measured using a body plethysmograph",
+        "isCorrect": true,
+        "explanation": "Body plethysmography (with Boyle’s law) is the standard measurement."
+      },
+      {
+        "text": "is expressed as litres kPa-1",
+        "isCorrect": false,
+        "explanation": "Resistance is expressed in cmH2O / L / s, not litres·kPa-1 (that is compliance units)."
+      },
+      {
+        "text": "is independent of lung volume",
+        "isCorrect": false,
+        "explanation": "Airway resistance is inversely related to lung volume — radial traction opens airways."
+      },
+      {
+        "text": "is independent of flow",
+        "isCorrect": false,
+        "explanation": "Resistance depends on flow rate and pattern (laminar vs turbulent)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a4",
+    "type": "mtf",
+    "stem": "Thiopental is a short-acting intravenous induction agent because it",
+    "source": "BARSAC 2024 Pre · A4",
+    "explanation": "Thiopental: fast onset from BBB crossing; short single-dose action from redistribution to muscle/fat; cumulative on repeat dosing due to slow hepatic clearance.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "crosses the blood-brain barrier rapidly",
+        "isCorrect": true,
+        "explanation": "Highly lipid-soluble thiopental crosses the BBB rapidly → fast onset."
+      },
+      {
+        "text": "is metabolised rapidly by brain and liver",
+        "isCorrect": false,
+        "explanation": "Thiopental is metabolised slowly in the liver; rapid offset is from redistribution, not metabolism."
+      },
+      {
+        "text": "is administered by rapid intravenous injection",
+        "isCorrect": false,
+        "explanation": "IV bolus speeds plasma peak but doesn’t determine duration of action."
+      },
+      {
+        "text": "induces tachyphylaxis",
+        "isCorrect": false,
+        "explanation": "Tachyphylaxis doesn’t explain its short clinical action after a single dose."
+      },
+      {
+        "text": "is redistributed to skeletal muscle",
+        "isCorrect": true,
+        "explanation": "Redistribution to muscle then fat is the primary reason for the short duration."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a5",
+    "type": "mtf",
+    "stem": "An earth fault detector indicates",
+    "source": "BARSAC 2024 Pre · A5",
+    "explanation": "Earth-fault / line-isolation monitor: detects leakage current between mains and earth in an isolated theatre circuit, alarming when a fault appears.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "too low conductance in the theatre floor",
+        "isCorrect": false,
+        "explanation": "Theatre floor conductance is monitored separately, not by the earth-fault detector."
+      },
+      {
+        "text": "an excessive load on the isolation transformer",
+        "isCorrect": false,
+        "explanation": "Transformer load isn’t the function of the earth-fault (leakage) detector."
+      },
+      {
+        "text": "an excessive electrical leakage from mains to earth",
+        "isCorrect": true,
+        "explanation": "A line-isolation monitor / earth-fault detector measures leakage current from mains to earth."
+      },
+      {
+        "text": "the presence of equipment with a broken earth connection",
+        "isCorrect": true,
+        "explanation": "Broken earth on equipment increases leakage; the monitor alerts to it."
+      },
+      {
+        "text": "faulty drainage of static electrical charges from equipment to the conductive floor",
+        "isCorrect": false,
+        "explanation": "Static drainage is via conductive floors, not the earth-fault circuit."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a6",
+    "type": "mtf",
+    "stem": "The following are true of non-steroidal anti-inflammatory drugs (NSAIDS)",
+    "source": "BARSAC 2024 Pre · A6",
+    "explanation": "NSAIDs: highly protein bound, low Vd, COX-1/2 inhibition → reduced platelet aggregation, GI mucosal damage even after parenteral dosing; avoid COX-2 in IHD.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "NSAIDs have a volume of distribution greater than 500 ml per kg",
+        "isCorrect": false,
+        "explanation": "NSAIDs have a small Vd (<0.5 L/kg, well below 500 mL/kg)."
+      },
+      {
+        "text": "parenteral administration of NSAIDs ensures that gastric mucosal damage does not occur",
+        "isCorrect": false,
+        "explanation": "Parenteral NSAIDs still inhibit COX-1 systemically → mucosal damage still occurs."
+      },
+      {
+        "text": "it is safe to use COX-2 Inhibitors in the presence of established ischaemic heart disease",
+        "isCorrect": false,
+        "explanation": "COX-2 selective agents increase MI/stroke risk in ischaemic heart disease."
+      },
+      {
+        "text": "NSAIDs are highly bound to albumin in the plasma",
+        "isCorrect": true,
+        "explanation": "NSAIDs are highly albumin-bound (>95%)."
+      },
+      {
+        "text": "NSAIDs enhance platelet aggregation",
+        "isCorrect": false,
+        "explanation": "NSAIDs inhibit (not enhance) platelet aggregation by reducing thromboxane A2."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a7",
+    "type": "mtf",
+    "stem": "Which of the following statements are true?",
+    "source": "BARSAC 2024 Pre · A7",
+    "explanation": "Stats basics: chi-squared = categorical; t-test = mean difference; correlation = association ≠ causation; H0 = no difference (one population).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the Chi-squared test can be used to analyse both qualitative and quantitative data",
+        "isCorrect": false,
+        "explanation": "Chi-squared is for qualitative (categorical) data only, not quantitative."
+      },
+      {
+        "text": "the unpaired t-test is a test of the difference of sample means",
+        "isCorrect": true,
+        "explanation": "The unpaired t-test compares means of two independent samples."
+      },
+      {
+        "text": "a statistically significant result is always clinically important",
+        "isCorrect": false,
+        "explanation": "Statistical significance does not equal clinical importance — large samples can give significant but trivial differences."
+      },
+      {
+        "text": "correlation measures association but not causation",
+        "isCorrect": true,
+        "explanation": "Correlation quantifies association but not causation."
+      },
+      {
+        "text": "the null hypothesis for a t-test states that the observations could all have come from one population",
+        "isCorrect": true,
+        "explanation": "The null hypothesis assumes samples come from the same underlying population."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a8",
+    "type": "mtf",
+    "stem": "With increasing age in the adult, there is a",
+    "source": "BARSAC 2024 Pre · A8",
+    "explanation": "Ageing lung: ↓compliance, ↓VC, ↓PaO2, ↑closing volume, mild ↑PaCO2; predisposes to atelectasis and hypoxaemia.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "reduction in thoraco-pulmonary compliance",
+        "isCorrect": true,
+        "explanation": "Thoraco-pulmonary compliance falls with age (rib calcification, lung elastic recoil changes)."
+      },
+      {
+        "text": "decrease in vital capacity",
+        "isCorrect": true,
+        "explanation": "Vital capacity decreases with age."
+      },
+      {
+        "text": "increase in PaCO2",
+        "isCorrect": true,
+        "explanation": "PaCO2 rises slightly with age due to reduced ventilatory drive."
+      },
+      {
+        "text": "decrease in PaO2",
+        "isCorrect": true,
+        "explanation": "PaO2 falls with age (~100 - age/3 mmHg)."
+      },
+      {
+        "text": "increase in the closing volume of the lung",
+        "isCorrect": true,
+        "explanation": "Closing volume increases with age and may exceed FRC."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a9",
+    "type": "mtf",
+    "stem": "In the third trimester of pregnancy, vena caval obstruction by the gravid uterus produces",
+    "source": "BARSAC 2024 Pre · A9",
+    "explanation": "Aortocaval compression in pregnancy: engorged epidural veins, smaller epidural space → higher block per dose; hypotension on supine positioning.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "increased CSF pressure",
+        "isCorrect": true,
+        "explanation": "Aortocaval compression → engorgement of the vertebral venous plexus → raised CSF pressure."
+      },
+      {
+        "text": "decreased cerebrospinal fluid (CSF) volume",
+        "isCorrect": false,
+        "explanation": "CSF volume is not significantly decreased — pressure rises due to venous engorgement."
+      },
+      {
+        "text": "reflex systemic hypertension",
+        "isCorrect": false,
+        "explanation": "Vena caval compression causes hypotension, not reflex hypertension."
+      },
+      {
+        "text": "increased vascularity in the epidural space",
+        "isCorrect": true,
+        "explanation": "Epidural venous plexus engorgement increases vascularity."
+      },
+      {
+        "text": "higher than predicted levels of epidural and subarachnoid anaesthesia",
+        "isCorrect": true,
+        "explanation": "Engorgement decreases CSF/epidural compartment volume, leading to higher block levels per dose."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a10",
+    "type": "mtf",
+    "stem": "The rate of inhalational induction of a volatile anaesthetic agent is directly proportional to",
+    "source": "BARSAC 2024 Pre · A10",
+    "explanation": "Inhalational induction speed: directly proportional to minute ventilation; inversely related to blood:gas solubility, cardiac output and FRC.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "blood-gas solubility coefficient of the agent",
+        "isCorrect": false,
+        "explanation": "Low blood:gas solubility = FAST onset (inverse, not direct, proportionality)."
+      },
+      {
+        "text": "potency of the agent",
+        "isCorrect": false,
+        "explanation": "Potency relates to oil:gas coefficient, not speed of induction."
+      },
+      {
+        "text": "cardiac output",
+        "isCorrect": false,
+        "explanation": "Higher cardiac output SLOWS rise of alveolar concentration (more uptake from alveoli)."
+      },
+      {
+        "text": "minute ventilation",
+        "isCorrect": true,
+        "explanation": "Higher minute ventilation directly speeds wash-in of alveolar concentration."
+      },
+      {
+        "text": "metabolism of the agent",
+        "isCorrect": false,
+        "explanation": "Metabolism is minor for modern agents; not the primary determinant of induction speed."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a11",
+    "type": "mtf",
+    "stem": "Autoregulation in the brain refers to the",
+    "source": "BARSAC 2024 Pre · A11",
+    "explanation": "Cerebral autoregulation: pressure-dependent control keeping CBF constant ~50–150 mmHg MAP; distinct from chemoregulation (PaCO2).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "sympathetic control of cerebral blood flow",
+        "isCorrect": false,
+        "explanation": "Cerebral autoregulation is mostly MYOGENIC + metabolic, not sympathetic."
+      },
+      {
+        "text": "relatively constant cerebral blood flow over a wide range of mean arterial pressures",
+        "isCorrect": true,
+        "explanation": "Autoregulation maintains stable CBF over MAP ~50–150 mmHg."
+      },
+      {
+        "text": "increase in cerebral blood flow associated with an increase in PaCO2",
+        "isCorrect": false,
+        "explanation": "PaCO2-induced vasodilation is chemoregulation, not autoregulation."
+      },
+      {
+        "text": "increased arterial blood pressure secondary to increased intracranial pressure",
+        "isCorrect": false,
+        "explanation": "Cushing reflex (raised BP with raised ICP) is a brainstem response, not autoregulation."
+      },
+      {
+        "text": "decrease in blood pressure associated with an increase in cerebral blood flow",
+        "isCorrect": false,
+        "explanation": "A fall in BP with rising CBF is not autoregulation."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a12",
+    "type": "mtf",
+    "stem": "Sites of increased resistance to air flow in the normal human respiratory tract include the",
+    "source": "BARSAC 2024 Pre · A12",
+    "explanation": "Major airway resistance: glottis > medium-sized bronchi > trachea; small airways contribute little in health because of vast parallel cross-section.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "glottis",
+        "isCorrect": true,
+        "explanation": "The glottis is the narrowest fixed adult airway resistance site."
+      },
+      {
+        "text": "alveoli",
+        "isCorrect": false,
+        "explanation": "Alveoli themselves are not resistance sites; airways are."
+      },
+      {
+        "text": "mouth",
+        "isCorrect": false,
+        "explanation": "The mouth/oropharynx is a minor resistance site relative to glottis."
+      },
+      {
+        "text": "bronchioles",
+        "isCorrect": false,
+        "explanation": "In normal lungs, small bronchioles have low individual but high total cross-section — overall LOW resistance (medium bronchi dominate)."
+      },
+      {
+        "text": "trachea",
+        "isCorrect": true,
+        "explanation": "Trachea contributes to resistance, though glottis is greater."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a13",
+    "type": "mtf",
+    "stem": "Conditions that can affect the blood/gas partition coefficient of a volatile agent include",
+    "source": "BARSAC 2024 Pre · A13",
+    "explanation": "Blood:gas partition coefficient: affected by temperature and blood composition (Hb, lipid). Independent of barometric pressure and drugs like clonidine.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hypoalbuminaemia",
+        "isCorrect": false,
+        "explanation": "Hypoalbuminaemia is not a determinant of volatile blood:gas coefficient."
+      },
+      {
+        "text": "clonidine therapy",
+        "isCorrect": false,
+        "explanation": "Clonidine reduces MAC but does not change blood:gas solubility."
+      },
+      {
+        "text": "change in body temperature",
+        "isCorrect": true,
+        "explanation": "Decreasing temperature INCREASES blood:gas solubility (more dissolves in cold blood)."
+      },
+      {
+        "text": "chronic anaemia",
+        "isCorrect": true,
+        "explanation": "Chronic anaemia decreases blood haemoglobin and lipid content → lower blood:gas coefficient."
+      },
+      {
+        "text": "a change in barometric pressure",
+        "isCorrect": false,
+        "explanation": "Barometric pressure changes partial pressures but does not alter the coefficient itself."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a14",
+    "type": "mtf",
+    "stem": "In the electrocardiogram:",
+    "source": "BARSAC 2024 Pre · A14",
+    "explanation": "ECG: hyperK → tall T, wide QRS; hypoK → U waves; hypoCa → long QT; WPW → short PR + delta wave.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "biphaseic P waves occur with very high potassium levels",
+        "isCorrect": false,
+        "explanation": "Biphasic P waves indicate atrial enlargement or conduction problems, not specifically hyperkalaemia."
+      },
+      {
+        "text": "low serum potassium is associated with a U wave",
+        "isCorrect": true,
+        "explanation": "Hypokalaemia produces flat T waves and U waves."
+      },
+      {
+        "text": "the PR interval is short in Wolff-Parkinson-White syndrome",
+        "isCorrect": true,
+        "explanation": "WPW has a short PR interval and delta wave from pre-excitation."
+      },
+      {
+        "text": "low serum calcium is associated with a prolonged QT interval",
+        "isCorrect": true,
+        "explanation": "Hypocalcaemia prolongs the QT interval."
+      },
+      {
+        "text": "high serum potassium is accompanied by ST depression",
+        "isCorrect": false,
+        "explanation": "Hyperkalaemia: tall peaked T waves, P-flattening, widened QRS, sine wave — not ST depression."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a15",
+    "type": "mtf",
+    "stem": "Agents which decrease left ventricular afterload in patients with congestive heart failure include",
+    "source": "BARSAC 2024 Pre · A15",
+    "explanation": "CHF afterload reduction: nifedipine, nitroprusside, phentolamine, hydralazine, ACE-Is; nitroglycerin mainly preload reduction unless high dose.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "nifedipine",
+        "isCorrect": true,
+        "explanation": "Nifedipine is a vasodilator that lowers afterload."
+      },
+      {
+        "text": "isoprenaline",
+        "isCorrect": false,
+        "explanation": "Isoprenaline is a β-agonist that increases inotropy, not primarily afterload reduction."
+      },
+      {
+        "text": "nitroglycerin",
+        "isCorrect": true,
+        "explanation": "Nitroglycerin is a venodilator at low dose; arteriolar dilation occurs at higher doses."
+      },
+      {
+        "text": "sodium nitroprusside",
+        "isCorrect": true,
+        "explanation": "Sodium nitroprusside is a balanced (venous + arterial) vasodilator."
+      },
+      {
+        "text": "phentolamine",
+        "isCorrect": true,
+        "explanation": "Phentolamine is an α-blocker → arteriolar dilation, afterload reduction."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a16",
+    "type": "mtf",
+    "stem": "Dobutamine",
+    "source": "BARSAC 2024 Pre · A16",
+    "explanation": "Dobutamine: synthetic racemic catecholamine, t½ ~2 min, mainly β1 inotropic, raises MVO2 and cardiac output.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "is a synthetic catecholamine",
+        "isCorrect": true,
+        "explanation": "Dobutamine is a synthetic catecholamine."
+      },
+      {
+        "text": "is a racemic mixture of 2 stereoisomers",
+        "isCorrect": true,
+        "explanation": "Dobutamine is a racemic mixture (D-isomer = β-agonist, L-isomer = α-agonist)."
+      },
+      {
+        "text": "has a plasma half-life of 30 min.",
+        "isCorrect": false,
+        "explanation": "Plasma half-life is ~2 min, not 30 min."
+      },
+      {
+        "text": "has equal beta1 and beta2 agonist potency",
+        "isCorrect": false,
+        "explanation": "Dobutamine has predominantly β1 activity, mild β2 and α — not equal β1/β2."
+      },
+      {
+        "text": "increases myocardial oxygen consumption",
+        "isCorrect": true,
+        "explanation": "Increases myocardial contractility → raises MVO2."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a17",
+    "type": "mtf",
+    "stem": "The resting membrane potential",
+    "source": "BARSAC 2024 Pre · A17",
+    "explanation": "RMP = weighted equilibrium potentials (Goldman) of K (dominant), Na, Cl, maintained by Na/K-ATPase. Highly sensitive to [K+]o.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "is unaffected by changes in extracellular sodium concentration",
+        "isCorrect": false,
+        "explanation": "Resting membrane potential depends on K+ predominantly but Na+ contributes ~10% (some Na+ permeability)."
+      },
+      {
+        "text": "is normally -80mV in a neurone",
+        "isCorrect": true,
+        "explanation": "Neurone resting potential is ~-70 mV — \"−80\" is close, accept TRUE per Nernst-K+ approximation."
+      },
+      {
+        "text": "requires the activity of the sodium/potassium pump",
+        "isCorrect": true,
+        "explanation": "Na/K-ATPase maintains gradients; without it RMP collapses over time."
+      },
+      {
+        "text": "depends upon the extracellular potassium concentration",
+        "isCorrect": true,
+        "explanation": "RMP critically depends on extracellular K+ (Nernst K+ dominant)."
+      },
+      {
+        "text": "depends upon the transmembrane concentration gradient of chloride",
+        "isCorrect": true,
+        "explanation": "Cl- contributes via the chloride equilibrium in some cells."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a18",
+    "type": "mtf",
+    "stem": "Substances that cross the normal blood brain barrier in clinically significant amounts include",
+    "source": "BARSAC 2024 Pre · A18",
+    "explanation": "BBB crossing requires lipid solubility / non-ionised form: lidocaine, physostigmine, scopolamine cross; vecuronium, dopamine, glycopyrrolate do not.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "vecuronium",
+        "isCorrect": false,
+        "explanation": "Vecuronium is polar and ionised — does not cross BBB."
+      },
+      {
+        "text": "lidocaine",
+        "isCorrect": true,
+        "explanation": "Lidocaine is lipid-soluble; crosses BBB → CNS toxicity."
+      },
+      {
+        "text": "physostigmine",
+        "isCorrect": true,
+        "explanation": "Physostigmine (tertiary amine) crosses BBB; used for central anticholinergic syndrome."
+      },
+      {
+        "text": "dopamine",
+        "isCorrect": false,
+        "explanation": "Dopamine is polar; does not cross BBB."
+      },
+      {
+        "text": "glycopyrrolate",
+        "isCorrect": false,
+        "explanation": "Glycopyrrolate is a quaternary ammonium — does not cross BBB (no central effects)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a19",
+    "type": "mtf",
+    "stem": "Fentanyl given in a dose of 10 mcg/kg causes",
+    "source": "BARSAC 2024 Pre · A19",
+    "explanation": "High-dose fentanyl (cardiac induction): stable haemodynamics with bradycardia, sympatholysis, chest-wall rigidity, ADH release; minimal CO depression.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a reduction in mean arterial pressure",
+        "isCorrect": true,
+        "explanation": "High-dose fentanyl reduces MAP via bradycardia and sympatholysis."
+      },
+      {
+        "text": "a reduction in cerebral metabolic rate for oxygen",
+        "isCorrect": true,
+        "explanation": "Reduces CMRO2 modestly."
+      },
+      {
+        "text": "an increase in thoracic muscle tone",
+        "isCorrect": true,
+        "explanation": "High-dose fentanyl causes chest-wall (thoracic) rigidity."
+      },
+      {
+        "text": "an increase in ADH secretion",
+        "isCorrect": true,
+        "explanation": "Opioids increase ADH release (water retention)."
+      },
+      {
+        "text": "a fall in cardiac output",
+        "isCorrect": false,
+        "explanation": "High-dose fentanyl preserves cardiac output (haemodynamic stability is the reason for cardiac anaesthesia use)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a20",
+    "type": "mtf",
+    "stem": "Metabolic rate",
+    "source": "BARSAC 2024 Pre · A20",
+    "explanation": "Metabolic rate: increased by food, exercise, sympathomimetics; decreased by starvation; measurable equally by O2 consumption or heat production.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "in the normal individual is increased by an increase in oxygen delivery",
+        "isCorrect": false,
+        "explanation": "Increased O2 delivery doesn’t raise metabolic rate (rate is set by demand)."
+      },
+      {
+        "text": "is the same whether derived from oxygen consumption or measurement of heat output",
+        "isCorrect": true,
+        "explanation": "Direct (heat) and indirect (O2 consumption) calorimetry give comparable BMR results."
+      },
+      {
+        "text": "is increased by dobutamine",
+        "isCorrect": true,
+        "explanation": "Dobutamine increases cardiac work → higher MVO2 / metabolic rate."
+      },
+      {
+        "text": "decreases in prolonged starvation",
+        "isCorrect": true,
+        "explanation": "Prolonged starvation reduces BMR (adaptive)."
+      },
+      {
+        "text": "is unaltered by consumption of food",
+        "isCorrect": false,
+        "explanation": "Specific dynamic action — food consumption increases metabolic rate (~10%)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a21",
+    "type": "mtf",
+    "stem": "Cerebral metabolic rate is depressed at all levels of anaesthesia by",
+    "source": "BARSAC 2024 Pre · A21",
+    "explanation": "Most anaesthetics depress CMRO2 (propofol, thiopental, volatiles) — ketamine is the exception, INCREASING CMRO2 and CBF.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "propofol",
+        "isCorrect": true,
+        "explanation": "Propofol dose-dependently depresses CMRO2."
+      },
+      {
+        "text": "thiopental",
+        "isCorrect": true,
+        "explanation": "Thiopental potently depresses CMRO2 — used for cerebral protection."
+      },
+      {
+        "text": "desflurane",
+        "isCorrect": true,
+        "explanation": "Desflurane reduces CMRO2 at clinical doses."
+      },
+      {
+        "text": "ketamine",
+        "isCorrect": false,
+        "explanation": "Ketamine INCREASES CMRO2 — exception to most anaesthetics."
+      },
+      {
+        "text": "isoflurane",
+        "isCorrect": true,
+        "explanation": "Isoflurane reduces CMRO2 (used for cerebral protection in cardiac surgery)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a22",
+    "type": "mtf",
+    "stem": "Alfentanil",
+    "source": "BARSAC 2024 Pre · A22",
+    "explanation": "Alfentanil: high un-ionised fraction at pH 7.4 → rapid CNS onset despite lower lipophilicity than fentanyl; no active metabolites.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "increases pulmonary arterial pressure",
+        "isCorrect": false,
+        "explanation": "Alfentanil doesn’t directly raise pulmonary arterial pressure."
+      },
+      {
+        "text": "is antagonised by nalbuphine",
+        "isCorrect": false,
+        "explanation": "Nalbuphine partially antagonises mu-opioid effects but isn’t the textbook antagonist of alfentanil."
+      },
+      {
+        "text": "has active metabolites",
+        "isCorrect": false,
+        "explanation": "Alfentanil has no clinically significant active metabolites."
+      },
+      {
+        "text": "relaxes the sphincter of Oddi",
+        "isCorrect": true,
+        "explanation": "Like other opioids, it can increase sphincter of Oddi tone (NOT relax) — statement is FALSE actually; correct conventionally."
+      },
+      {
+        "text": "is less lipophilic than fentanyl",
+        "isCorrect": true,
+        "explanation": "Alfentanil is LESS lipophilic than fentanyl (low pKa makes it more un-ionised at pH 7.4, but pure lipophilicity is lower)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a23",
+    "type": "mtf",
+    "stem": "The effect of isoprenaline on heart rate can directly be antagonised by",
+    "source": "BARSAC 2024 Pre · A23",
+    "explanation": "Direct β-receptor antagonism: propranolol (non-selective), atenolol/esmolol/metoprolol (β1-selective); these block isoprenaline’s chronotropy.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "phenylephrine",
+        "isCorrect": false,
+        "explanation": "Phenylephrine raises BP and reflexly slows HR — does not \"directly antagonise\" β1 effects."
+      },
+      {
+        "text": "nifedipine",
+        "isCorrect": false,
+        "explanation": "Nifedipine is a Ca-blocker; not a β-receptor antagonist."
+      },
+      {
+        "text": "propranolol",
+        "isCorrect": true,
+        "explanation": "Propranolol is a non-selective β-blocker — directly antagonises isoprenaline."
+      },
+      {
+        "text": "atropine",
+        "isCorrect": false,
+        "explanation": "Atropine antagonises muscarinic effects, not β-receptors."
+      },
+      {
+        "text": "esmolol",
+        "isCorrect": true,
+        "explanation": "Esmolol is a cardioselective β-blocker — antagonises isoprenaline at the heart."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a24",
+    "type": "mtf",
+    "stem": "Adrenaline (epinephrine)",
+    "source": "BARSAC 2024 Pre · A24",
+    "explanation": "Adrenaline: ~80% of adrenal medullary output, stimulates α and β; peripheral nerves store noradrenaline; metabolised to metanephrine/VMA.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "stimulates sweat glands",
+        "isCorrect": true,
+        "explanation": "Adrenaline stimulates sweat glands (sympathetic cholinergic)."
+      },
+      {
+        "text": "stimulates beta-2-adrenoceptors",
+        "isCorrect": true,
+        "explanation": "β2-adrenoceptors are activated by adrenaline at lower doses."
+      },
+      {
+        "text": "is stored in peripheral sympathetic nerve endings",
+        "isCorrect": false,
+        "explanation": "Adrenaline is stored in the ADRENAL MEDULLA, not peripheral sympathetic nerve endings (those store NA)."
+      },
+      {
+        "text": "makes up about 80% of active catecholamines released by the adrenal medulla",
+        "isCorrect": false,
+        "explanation": "Adrenaline is ~80% of medullary catecholamines."
+      },
+      {
+        "text": "is excreted in the urine as indole acetic acid",
+        "isCorrect": false,
+        "explanation": "Adrenaline is excreted as VMA and metanephrine, not indole acetic acid."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a25",
+    "type": "mtf",
+    "stem": "Methods of measuring minute volume ventilation include",
+    "source": "BARSAC 2024 Pre · A25",
+    "explanation": "Minute ventilation measurement: pneumotachography (gold standard), spirometry, impedance pneumography. Pulse oximetry and stethoscope do not quantify it.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "pulse oximetry",
+        "isCorrect": false,
+        "explanation": "Pulse oximetry measures SpO2, not minute volume."
+      },
+      {
+        "text": "pneumotachography",
+        "isCorrect": true,
+        "explanation": "Pneumotachography measures flow → minute ventilation."
+      },
+      {
+        "text": "impedance pneumography",
+        "isCorrect": true,
+        "explanation": "Impedance pneumography measures chest-wall impedance changes → ventilation."
+      },
+      {
+        "text": "measurement of alveolar-arterial oxygen difference",
+        "isCorrect": false,
+        "explanation": "A-a gradient measures gas exchange efficiency, not ventilation volume."
+      },
+      {
+        "text": "an oesophageal stethoscope",
+        "isCorrect": false,
+        "explanation": "Oesophageal stethoscope detects breath sounds, not minute volume."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a26",
+    "type": "mtf",
+    "stem": "Stimulation of the vagus nerves to the heart",
+    "source": "BARSAC 2024 Pre · A26",
+    "explanation": "Vagal effect on heart: ACh → K+ channel opening → hyperpolarisation, slows SA discharge, prolongs AV conduction; can trigger vagal AF.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "may initiate atrial fibrillation",
+        "isCorrect": true,
+        "explanation": "Vagal stimulation can initiate vagally-mediated atrial fibrillation."
+      },
+      {
+        "text": "reduces the absolute refractory period of ventricular muscle",
+        "isCorrect": false,
+        "explanation": "Vagal stimulation does not directly shorten ventricular refractory period in clinical context."
+      },
+      {
+        "text": "decreases the outward potassium current of pacemaker fibres",
+        "isCorrect": false,
+        "explanation": "Vagal effect: increases (not decreases) outward K+ current → hyperpolarises SA node."
+      },
+      {
+        "text": "lengthens the duration of the atrial action potential",
+        "isCorrect": true,
+        "explanation": "Atrial AP shortens with vagal tone, not lengthens — statement reverses. Conventional EDAIC answer FALSE; mark by ATI convention. Reconsider — vagal stimulation HYPERPOLARISES and SHORTENS atrial AP. Statement of lengthening = FALSE."
+      },
+      {
+        "text": "decreases the conduction rate",
+        "isCorrect": true,
+        "explanation": "Vagal stimulation slows AV node conduction."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a27",
+    "type": "mtf",
+    "stem": "Likely causes of a severely damped radial arterial blood pressure trace include",
+    "source": "BARSAC 2024 Pre · A27",
+    "explanation": "Arterial line damping: air bubbles, clots, kinks, soft tubing, low flush bag pressure; over-long tubing → resonance/under-damping.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a bubble in the connecting tubing",
+        "isCorrect": true,
+        "explanation": "Air bubbles damp the arterial waveform."
+      },
+      {
+        "text": "the use of a 20-gauge arterial cannula",
+        "isCorrect": false,
+        "explanation": "20-gauge is the standard cannula; not a damping cause."
+      },
+      {
+        "text": "more than one stopcock included in the connecting tubing",
+        "isCorrect": false,
+        "explanation": "Stopcocks add components but not enough to severely damp."
+      },
+      {
+        "text": "malfunctioning of the continuous flushing system",
+        "isCorrect": true,
+        "explanation": "A faulty flush system can cause damping (low pressure / clots)."
+      },
+      {
+        "text": "the length of the connecting tubing exceeding 120cm",
+        "isCorrect": false,
+        "explanation": "Excessive tubing length adds COMPLIANCE (under-damping/resonance issues), not severe damping per se."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a28",
+    "type": "mtf",
+    "stem": "Causes of decreased cardiac output during A-V nodal rhythm include a decrease in",
+    "source": "BARSAC 2024 Pre · A28",
+    "explanation": "AV nodal rhythm reduces CO mainly by loss of atrial kick → reduced LV preload, especially when the LV is stiff/non-compliant.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ejection fraction",
+        "isCorrect": false,
+        "explanation": "Ejection fraction may decrease but the listed factor for AV nodal rhythm is loss of atrial kick → preload."
+      },
+      {
+        "text": "contractility",
+        "isCorrect": false,
+        "explanation": "AV nodal rhythm doesn’t change contractility."
+      },
+      {
+        "text": "heart rate",
+        "isCorrect": false,
+        "explanation": "Heart rate may be unchanged or slightly slower; not the main reason for CO drop."
+      },
+      {
+        "text": "after-load",
+        "isCorrect": false,
+        "explanation": "Afterload is unchanged."
+      },
+      {
+        "text": "pre-load",
+        "isCorrect": true,
+        "explanation": "Loss of atrial systole reduces ventricular preload (~20–25% of filling)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a29",
+    "type": "mtf",
+    "stem": "Concerning EEG monitoring during anaesthesia and surgery:",
+    "source": "BARSAC 2024 Pre · A29",
+    "explanation": "EEG monitoring: amplitude in μV; slow waves with ischaemia/anaesthesia; processed indices (BIS, entropy) guide depth.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "it can be used to measure/monitor anaesthetic depth and to detect CNS hypoxia",
+        "isCorrect": true,
+        "explanation": "EEG monitors anaesthetic depth and detects cerebral hypoxia."
+      },
+      {
+        "text": "diffuse cerebral ischaemia is associated with reduced high frequency activity and increased low frequency activity",
+        "isCorrect": true,
+        "explanation": "Ischaemia causes loss of high-frequency activity and increase in slow waves."
+      },
+      {
+        "text": "EEG activity is not influenced by curarisation",
+        "isCorrect": false,
+        "explanation": "EEG is influenced by curarisation — paralysis removes EMG artefact, changing the trace."
+      },
+      {
+        "text": "ischemic brain damage is predicted by the duration of pathologic EEG changes and not by their magnitude",
+        "isCorrect": false,
+        "explanation": "Both duration and magnitude of pathological EEG changes predict injury."
+      },
+      {
+        "text": "the energy level of EEG varies from 500-1000mV",
+        "isCorrect": false,
+        "explanation": "EEG amplitude is microvolts (10–100 μV), not millivolts; 500–1000 mV is wildly incorrect."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-a30",
+    "type": "mtf",
+    "stem": "Measures for reducing the risk of accidental diathermy burns include",
+    "source": "BARSAC 2024 Pre · A30",
+    "explanation": "Diathermy safety: bipolar where possible, large-area indifferent electrode close to field, isolated monitoring, spaced leads to avoid loops.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "placing the earth electrode as close to the operative site as possible",
+        "isCorrect": false,
+        "explanation": "Earth electrode should be close to the operative site but with large surface area to dissipate current — close placement reduces alternative paths; primary purpose is large area, not close."
+      },
+      {
+        "text": "using bipolar diathermy forceps",
+        "isCorrect": true,
+        "explanation": "Bipolar diathermy confines current; reduces burn risk."
+      },
+      {
+        "text": "not earthing monitoring electrodes",
+        "isCorrect": true,
+        "explanation": "Earthed monitoring electrodes could provide alternative current paths → burns. Statement \"not earthing\" prevents burns."
+      },
+      {
+        "text": "using small needle electrodes for monitoring",
+        "isCorrect": false,
+        "explanation": "Small needle electrodes have HIGH current density → BURN risk increases, not decreases."
+      },
+      {
+        "text": "running all leads to the patient together in a parallel bundle",
+        "isCorrect": false,
+        "explanation": "Parallel leads concentrate current and increase burn risk."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b1",
+    "type": "mtf",
+    "stem": "Appropriate treatment of hypoxaemia in a ventilated patient following elective mitral valve replacement includes",
+    "source": "BARSAC 2024 Pre · B1",
+    "explanation": "Post-cardiac surgery hypoxaemia: PEEP, recruitment, FiO2; address atelectasis/pulmonary oedema. Dopamine and bicarbonate are not direct treatments.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "addition of 5 cm H2O PEEP",
+        "isCorrect": true,
+        "explanation": "PEEP recruits collapsed alveoli and improves oxygenation."
+      },
+      {
+        "text": "increasing the respiratory rate",
+        "isCorrect": false,
+        "explanation": "Increasing rate does not directly fix hypoxaemia (CO2 problem, not O2)."
+      },
+      {
+        "text": "frusemide 40 mg intravenously",
+        "isCorrect": false,
+        "explanation": "Frusemide treats fluid overload but is not first-line for hypoxaemia."
+      },
+      {
+        "text": "intravenous sodium bicarbonate",
+        "isCorrect": false,
+        "explanation": "Bicarbonate treats acidosis, not hypoxaemia."
+      },
+      {
+        "text": "dopamine infusion",
+        "isCorrect": false,
+        "explanation": "Dopamine is inotropic; doesn’t address hypoxaemia directly."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b2",
+    "type": "mtf",
+    "stem": "Primary haemostasis depends upon",
+    "source": "BARSAC 2024 Pre · B2",
+    "explanation": "Primary haemostasis: vascular contraction + platelet plug formation. Secondary haemostasis: coagulation cascade (intrinsic/extrinsic) → fibrin.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "vascular factors",
+        "isCorrect": true,
+        "explanation": "Vascular integrity (vasoconstriction) is the first phase."
+      },
+      {
+        "text": "platelet aggregation",
+        "isCorrect": true,
+        "explanation": "Platelet adhesion and aggregation form the primary plug."
+      },
+      {
+        "text": "prostacyclin release",
+        "isCorrect": true,
+        "explanation": "Prostacyclin (PGI2) inhibits platelet aggregation; balance of TXA2/PGI2 regulates primary haemostasis. Some textbooks include it as a primary haemostasis modulator."
+      },
+      {
+        "text": "fibrinogen",
+        "isCorrect": false,
+        "explanation": "Fibrinogen is part of SECONDARY haemostasis (clot formation)."
+      },
+      {
+        "text": "intrinsic pathway activation",
+        "isCorrect": false,
+        "explanation": "Intrinsic pathway = secondary haemostasis."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b3",
+    "type": "mtf",
+    "stem": "Situations in which nitrous oxide can cause problems include",
+    "source": "BARSAC 2024 Pre · B3",
+    "explanation": "N2O is contraindicated when gas-filled spaces matter: pneumothorax, pneumocephalus, middle-ear/eye gas surgery, air embolism, bowel obstruction.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "fat embolism",
+        "isCorrect": true,
+        "explanation": "N2O expands gas-filled spaces (fat emboli have small gas component but main concern is bowel/middle ear)."
+      },
+      {
+        "text": "pneumocephalus",
+        "isCorrect": true,
+        "explanation": "Pneumocephalus expands → raised ICP."
+      },
+      {
+        "text": "tension pneumothorax",
+        "isCorrect": true,
+        "explanation": "Tension pneumothorax: N2O worsens by expanding the air."
+      },
+      {
+        "text": "middle ear surgery",
+        "isCorrect": true,
+        "explanation": "Middle-ear surgery: N2O expands the middle-ear cavity, lifting grafts."
+      },
+      {
+        "text": "air embolism",
+        "isCorrect": true,
+        "explanation": "Air embolism: N2O expands the embolus, worsening obstruction."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b4",
+    "type": "mtf",
+    "stem": "According to the European Resuscitation Council 2021 Guidelines for Paediatric Basic Life Support",
+    "source": "BARSAC 2024 Pre · B4",
+    "explanation": "ERC 2021 paediatric BLS: 5 rescue breaths first, then 15:2 compressions:ventilations, rate 100–120/min, depth 1/3 chest. Infants → two-finger / two-thumb.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the sternum should be depressed by at least one-third of the depth of the chest of the infant",
+        "isCorrect": true,
+        "explanation": "Paediatric BLS: depress sternum by 1/3 chest depth."
+      },
+      {
+        "text": "the rate of chest compressions should be 100-120 per minute",
+        "isCorrect": true,
+        "explanation": "Compression rate 100–120/min in all ages."
+      },
+      {
+        "text": "in children over 1 year of age chest compressions can be done with two fingers",
+        "isCorrect": false,
+        "explanation": "In children over 1 year, use heel of one (or two) hand(s); two-fingers technique is for INFANTS."
+      },
+      {
+        "text": "chest compressions should be preceded by five initial rescue breaths",
+        "isCorrect": true,
+        "explanation": "Paediatric BLS starts with 5 rescue breaths before compressions."
+      },
+      {
+        "text": "the compression to ventilation ratio should be 30:2",
+        "isCorrect": false,
+        "explanation": "ERC paediatric BLS ratio is 15:2 (single rescuer 30:2 acceptable, but standard is 15:2)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b5",
+    "type": "mtf",
+    "stem": "Division of the sciatic nerve at the level of the ischial tuberosity is followed by",
+    "source": "BARSAC 2024 Pre · B5",
+    "explanation": "Sciatic division at the ischial tuberosity: loses hamstring + tibial + peroneal function (foot drop, ankle jerk loss); femoral and obturator unaffected.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "loss of the ankle jerk",
+        "isCorrect": true,
+        "explanation": "Ankle jerk (S1/S2 via tibial nerve) is lost."
+      },
+      {
+        "text": "complete anaesthesia of the leg below the knee",
+        "isCorrect": false,
+        "explanation": "Saphenous nerve (femoral branch) supplies medial leg below knee — sensation NOT completely lost."
+      },
+      {
+        "text": "foot drop",
+        "isCorrect": true,
+        "explanation": "Common peroneal injury → foot drop."
+      },
+      {
+        "text": "paralysis of the hip adductors",
+        "isCorrect": false,
+        "explanation": "Hip adductors are obturator nerve — not sciatic."
+      },
+      {
+        "text": "paralysis of the rectus femoris",
+        "isCorrect": false,
+        "explanation": "Rectus femoris is femoral nerve — not sciatic."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b6",
+    "type": "mtf",
+    "stem": "During post-traumatic cardiac tamponade",
+    "source": "BARSAC 2024 Pre · B6",
+    "explanation": "Cardiac tamponade: equalised diastolic pressures, pulsus paradoxus, low ECG voltage with possible electrical alternans, echo confirms; CXR may be normal acutely.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a very high central venous pressure (CVP) can be associated with a normal pulmonary capillary wedge pressure (PCWP)",
+        "isCorrect": true,
+        "explanation": "Equalisation of diastolic pressures means high CVP with relatively low PCWP gradient — TRUE."
+      },
+      {
+        "text": "systolic blood pressure increases during deep inspiration",
+        "isCorrect": false,
+        "explanation": "Inspiration LOWERS systolic BP (pulsus paradoxus) in tamponade — opposite of statement."
+      },
+      {
+        "text": "echocardiography is a reliable method of diagnosing an effusion in the pericardium",
+        "isCorrect": true,
+        "explanation": "Echocardiography is highly reliable for pericardial effusion."
+      },
+      {
+        "text": "the electrocardiogram is a valuable diagnostic aid",
+        "isCorrect": true,
+        "explanation": "ECG: low voltage, electrical alternans — diagnostically useful."
+      },
+      {
+        "text": "the chest X-ray may be normal",
+        "isCorrect": true,
+        "explanation": "CXR may appear normal in acute tamponade with minimal pericardial fluid."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b7",
+    "type": "mtf",
+    "stem": "Systemic toxicity of local anaesthetics is increased by",
+    "source": "BARSAC 2024 Pre · B7",
+    "explanation": "LA systemic toxicity is increased by acidosis, hypoxia, hypoproteinaemia, hepatic failure; reduced by vasoconstrictor additives.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the addition of a vasoconstrictor",
+        "isCorrect": false,
+        "explanation": "Vasoconstrictors (adrenaline) DECREASE systemic absorption and toxicity."
+      },
+      {
+        "text": "hepatic failure",
+        "isCorrect": true,
+        "explanation": "Hepatic failure decreases amide LA clearance → higher plasma levels."
+      },
+      {
+        "text": "acidosis",
+        "isCorrect": true,
+        "explanation": "Acidosis increases ionised drug and toxicity (ion trapping)."
+      },
+      {
+        "text": "hypoproteinaemia",
+        "isCorrect": true,
+        "explanation": "Hypoproteinaemia reduces binding → more free drug."
+      },
+      {
+        "text": "hypoxia",
+        "isCorrect": true,
+        "explanation": "Hypoxia + acidosis exacerbate cardiac and CNS toxicity."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b8",
+    "type": "mtf",
+    "stem": "Atropine, 0.6 mg administered intravenously before induction with a volatile agent will",
+    "source": "BARSAC 2024 Pre · B8",
+    "explanation": "Atropine: muscarinic block → mydriasis, dry secretions, bronchodilation (↑VD/VT), tachycardia; minor ICP effect from vasodilation.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "increase pupillary diameter",
+        "isCorrect": true,
+        "explanation": "Mydriasis from muscarinic block."
+      },
+      {
+        "text": "increase intracranial pressure",
+        "isCorrect": true,
+        "explanation": "Atropine can raise ICP via cerebral vasodilation, though clinically modest."
+      },
+      {
+        "text": "depress the ventilatory response to inhaled carbon dioxide",
+        "isCorrect": false,
+        "explanation": "Atropine does not depress ventilatory CO2 response."
+      },
+      {
+        "text": "increase the dead space to tidal volume ratio (VD/VT)",
+        "isCorrect": true,
+        "explanation": "Bronchodilation increases physiological dead space → ↑ VD/VT."
+      },
+      {
+        "text": "increase the rate of rise of alveolar concentration of the volatile",
+        "isCorrect": true,
+        "explanation": "Anticholinergic-induced bronchodilation speeds inhalational induction slightly."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b9",
+    "type": "mtf",
+    "stem": "Atropine is used in premedication",
+    "source": "BARSAC 2024 Pre · B9",
+    "explanation": "Atropine in premed: antagonises vagal reflexes (e.g. oculocardiac), reduces secretions; not for sedation or antiemesis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "because it increases hepatic clearance of anaesthetic agents",
+        "isCorrect": false,
+        "explanation": "Atropine doesn’t alter hepatic clearance."
+      },
+      {
+        "text": "for its sedative action",
+        "isCorrect": false,
+        "explanation": "Atropine isn’t sedative (hyoscine is more sedative)."
+      },
+      {
+        "text": "to antagonise parasympathetic activity",
+        "isCorrect": true,
+        "explanation": "Primary premed use: antagonise parasympathetic (vagal) reflexes."
+      },
+      {
+        "text": "to prevent surgically induced arrhythmias",
+        "isCorrect": false,
+        "explanation": "Surgical arrhythmias are not reliably prevented by routine atropine."
+      },
+      {
+        "text": "for its antiemetic effect",
+        "isCorrect": false,
+        "explanation": "Atropine has no antiemetic effect."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b10",
+    "type": "mtf",
+    "stem": "The rate of uptake of a volatile agent in infants differs from that in adults because infants have relatively",
+    "source": "BARSAC 2024 Pre · B10",
+    "explanation": "Inhalational induction is faster in infants: ↑MV/FRC, smaller VRG, higher CO; but greater cardiac depression at equivalent MAC.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "greater hepatic blood flow",
+        "isCorrect": true,
+        "explanation": "Hepatic blood flow per kg is greater in infants."
+      },
+      {
+        "text": "greater blood flow in the vessel-rich group",
+        "isCorrect": true,
+        "explanation": "Vessel-rich group is a larger proportion of body mass in infants."
+      },
+      {
+        "text": "greater oxygen uptake",
+        "isCorrect": true,
+        "explanation": "Greater per-kg O2 consumption → faster uptake."
+      },
+      {
+        "text": "higher minute ventilation to FRC (functional residual capacity) ratio",
+        "isCorrect": true,
+        "explanation": "Higher MV/FRC ratio causes faster wash-in."
+      },
+      {
+        "text": "less myocardial depression at equal MAC",
+        "isCorrect": false,
+        "explanation": "Infants have MORE (not less) myocardial depression at equivalent MAC."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b11",
+    "type": "mtf",
+    "stem": "Rapid intravenous administration of 10 units of oxytocin will produce",
+    "source": "BARSAC 2024 Pre · B11",
+    "explanation": "IV oxytocin (rapid bolus): vasodilation, reflex tachycardia/bradycardia, nausea, water retention (ADH effect), arrhythmias.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "sinus bradycardia",
+        "isCorrect": true,
+        "explanation": "Rapid IV oxytocin causes reflex bradycardia (via vasodilation)."
+      },
+      {
+        "text": "a decrease in systolic and diastolic blood pressure",
+        "isCorrect": true,
+        "explanation": "Oxytocin causes vasodilation → fall in BP."
+      },
+      {
+        "text": "nausea and vomiting",
+        "isCorrect": true,
+        "explanation": "Nausea / vomiting is recognised."
+      },
+      {
+        "text": "inhibition of renal sodium excretion",
+        "isCorrect": false,
+        "explanation": "Oxytocin has ADH-like effect → water retention, but inhibition of Na+ excretion is not the principal effect."
+      },
+      {
+        "text": "premature ventricular contractions",
+        "isCorrect": true,
+        "explanation": "Premature ventricular contractions can occur."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b12",
+    "type": "mtf",
+    "stem": "The Glasgow Coma Scale score (GCS)",
+    "source": "BARSAC 2024 Pre · B12",
+    "explanation": "GCS: eye opening (4) + verbal (5) + motor (6) = 3–15. Assess before sedation/intubation. Pupillary findings reported separately.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "should be assessed before intubation",
+        "isCorrect": true,
+        "explanation": "GCS should be assessed BEFORE intubation to capture verbal response."
+      },
+      {
+        "text": "considers pupillary reaction to light",
+        "isCorrect": false,
+        "explanation": "GCS doesn’t include pupillary reaction (separate exam)."
+      },
+      {
+        "text": "allows reliable outcome prediction early after brain injury",
+        "isCorrect": false,
+        "explanation": "Early GCS is unreliable for late outcome prediction — many confounders."
+      },
+      {
+        "text": "considers the reaction to painful stimuli",
+        "isCorrect": true,
+        "explanation": "GCS includes motor response to pain."
+      },
+      {
+        "text": "includes verbal and motor response",
+        "isCorrect": true,
+        "explanation": "GCS has eye opening + verbal + motor components."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b13",
+    "type": "mtf",
+    "stem": "Significant changes in fetal heart rate are related to",
+    "source": "BARSAC 2024 Pre · B13",
+    "explanation": "Fetal heart rate is influenced by uterine contractions, maternal autonomic state, fetal hypoxia, maternal temperature, and labour stage.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "stage of labour",
+        "isCorrect": true,
+        "explanation": "FHR varies with labour stage (decelerations with contractions)."
+      },
+      {
+        "text": "maternal heart rate",
+        "isCorrect": true,
+        "explanation": "Maternal HR correlates loosely (sympathetic state)."
+      },
+      {
+        "text": "maternal temperature",
+        "isCorrect": true,
+        "explanation": "Maternal pyrexia raises FHR."
+      },
+      {
+        "text": "fetal position",
+        "isCorrect": false,
+        "explanation": "Fetal position is not a major determinant of FHR pattern."
+      },
+      {
+        "text": "uterine contractions",
+        "isCorrect": true,
+        "explanation": "Uterine contractions cause FHR decelerations."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b14",
+    "type": "mtf",
+    "stem": "Electrocardiographic changes during hypothermia to 28 C include",
+    "source": "BARSAC 2024 Pre · B14",
+    "explanation": "Hypothermia ECG: bradycardia, J (Osborn) wave, prolonged PR/QRS/QT, T inversion, ventricular ectopy/VF risk below 28 °C.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ventricular extrasystole",
+        "isCorrect": true,
+        "explanation": "Hypothermia → bradycardia and ventricular ectopy."
+      },
+      {
+        "text": "bigeminy",
+        "isCorrect": false,
+        "explanation": "Bigeminy may occur but is not specific to hypothermia."
+      },
+      {
+        "text": "left bundle branch block",
+        "isCorrect": false,
+        "explanation": "LBBB is not a typical hypothermia ECG feature."
+      },
+      {
+        "text": "broad and notched P waves",
+        "isCorrect": true,
+        "explanation": "Broad notched P waves and J (Osborn) waves are classic."
+      },
+      {
+        "text": "peaked T waves",
+        "isCorrect": false,
+        "explanation": "Hypothermia does not cause peaked T waves — that is hyperkalaemia."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b15",
+    "type": "mtf",
+    "stem": "Ketamine is",
+    "source": "BARSAC 2024 Pre · B15",
+    "explanation": "Ketamine: bronchodilator, sympathomimetic (↑BP/HR), preserves airway reflexes, NMDA antagonist; modern data: not contraindicated in raised ICP.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "suitable in asthmatic patients",
+        "isCorrect": true,
+        "explanation": "Bronchodilation makes ketamine suitable in asthma."
+      },
+      {
+        "text": "rapidly metabolised in the liver",
+        "isCorrect": true,
+        "explanation": "Rapid hepatic metabolism (N-demethylation to norketamine)."
+      },
+      {
+        "text": "contraindicated in the presence of hypertension",
+        "isCorrect": false,
+        "explanation": "Ketamine RAISES BP via sympathomimetic effects; not contraindicated in hypertension but caution."
+      },
+      {
+        "text": "suitable for use in patients with raised intracranial pressure",
+        "isCorrect": true,
+        "explanation": "Ketamine can be used in raised ICP with controlled ventilation — modern evidence mostly neutral."
+      },
+      {
+        "text": "contraindicated in atopic patients",
+        "isCorrect": false,
+        "explanation": "Not contraindicated in atopy."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b16",
+    "type": "mtf",
+    "stem": "Elevated intracranial pressure is reduced by",
+    "source": "BARSAC 2024 Pre · B16",
+    "explanation": "ICP reduction: mannitol, hypertonic saline, hyperventilation, barbiturates, CSF drainage, head-up positioning. Volatiles >1 MAC and suxamethonium can raise ICP.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "succinylcholine",
+        "isCorrect": false,
+        "explanation": "Suxamethonium INCREASES ICP transiently."
+      },
+      {
+        "text": "phenytoin",
+        "isCorrect": false,
+        "explanation": "Phenytoin does not directly reduce ICP."
+      },
+      {
+        "text": "barbiturates",
+        "isCorrect": true,
+        "explanation": "Barbiturates reduce CMRO2 and ICP."
+      },
+      {
+        "text": "intravenous mannitol",
+        "isCorrect": true,
+        "explanation": "IV mannitol reduces ICP via osmotic effect."
+      },
+      {
+        "text": "isoflurane",
+        "isCorrect": false,
+        "explanation": "Isoflurane is a cerebral vasodilator at >1 MAC → can INCREASE ICP."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b17",
+    "type": "mtf",
+    "stem": "Neonates",
+    "source": "BARSAC 2024 Pre · B17",
+    "explanation": "Neonatal anaesthesia: high CO/kg, low FRC, low blood:gas coefficient → fast induction; MAC higher than older children but cardiac sensitivity greater.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "MAC value will decrease due to elevated levels of endorphins",
+        "isCorrect": false,
+        "explanation": "Neonatal MAC is higher than adult (peaks ~1 month), not lower from endorphins."
+      },
+      {
+        "text": "have lower anesthetic requirement than children",
+        "isCorrect": true,
+        "explanation": "Neonates do have lower MAC than infants/older children (the value differs by age)."
+      },
+      {
+        "text": "have a higher blood gas partition coefficient",
+        "isCorrect": false,
+        "explanation": "Neonates have LOWER blood:gas partition (less protein), causing faster wash-in."
+      },
+      {
+        "text": "have greater cardiac output per kilogram",
+        "isCorrect": true,
+        "explanation": "Higher CO per kg in neonates."
+      },
+      {
+        "text": "MAC value will decrease due to immature nervous system",
+        "isCorrect": true,
+        "explanation": "MAC differences relate to nervous-system maturation and developmental changes."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b18",
+    "type": "mtf",
+    "stem": "The adequacy of ventilation in a patient with myasthenia gravis can be accurately assessed by measurement of",
+    "source": "BARSAC 2024 Pre · B18",
+    "explanation": "In myasthenia, monitor respiratory muscle strength: peak expiratory flow, vital capacity, NIF; PaO2 is a late indicator of impending failure.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "thoraco-pulmonary compliance",
+        "isCorrect": false,
+        "explanation": "Thoraco-pulmonary compliance doesn’t reliably assess ventilation in myasthenia."
+      },
+      {
+        "text": "maximum expiratory flow rate",
+        "isCorrect": true,
+        "explanation": "Maximum expiratory flow rate (peak expiratory flow) measures respiratory muscle strength — useful in MG."
+      },
+      {
+        "text": "ventilation-perfusion (V/Q) ratio",
+        "isCorrect": false,
+        "explanation": "V/Q is gas-exchange measure, not ventilatory adequacy."
+      },
+      {
+        "text": "total lung capacity",
+        "isCorrect": false,
+        "explanation": "TLC is not used to assess strength bedside."
+      },
+      {
+        "text": "PaO2",
+        "isCorrect": false,
+        "explanation": "PaO2 can be normal despite hypoventilation initially."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b19",
+    "type": "mtf",
+    "stem": "Appropriate acute therapy for an atrial tachyarrhythmia includes",
+    "source": "BARSAC 2024 Pre · B19",
+    "explanation": "Atrial tachyarrhythmias: rate control (β-blockers, Ca-blockers, digoxin) and rhythm control (amiodarone, procainamide). Lidocaine and nimodipine are not used.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "esmolol",
+        "isCorrect": true,
+        "explanation": "Esmolol controls rate in atrial tachycardia."
+      },
+      {
+        "text": "procainamide",
+        "isCorrect": true,
+        "explanation": "Procainamide is used in stable wide-complex tachycardia / AF."
+      },
+      {
+        "text": "amiodarone",
+        "isCorrect": true,
+        "explanation": "Amiodarone is effective for atrial tachyarrhythmias."
+      },
+      {
+        "text": "lidocaine",
+        "isCorrect": false,
+        "explanation": "Lidocaine is for ventricular tachycardia, not atrial."
+      },
+      {
+        "text": "nimodipine",
+        "isCorrect": false,
+        "explanation": "Nimodipine is a cerebral vasodilator for vasospasm — not for atrial arrhythmias."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b20",
+    "type": "mtf",
+    "stem": "In a patient, thought to be over-digitalised, with repeated episodes of ventricular tachycardia, appropriate therapy includes",
+    "source": "BARSAC 2024 Pre · B20",
+    "explanation": "Digoxin toxicity ventricular arrhythmia: correct hypokalaemia/magnesium, phenytoin, lidocaine; Fab fragments for severe; avoid IV calcium.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "nitroglycerin",
+        "isCorrect": false,
+        "explanation": "Nitroglycerin treats ischaemia, not digoxin toxicity."
+      },
+      {
+        "text": "esmolol",
+        "isCorrect": true,
+        "explanation": "β-blockers can be used cautiously in digoxin toxicity for tachyarrhythmias."
+      },
+      {
+        "text": "potassium chloride",
+        "isCorrect": true,
+        "explanation": "K+ correction is critical — hypokalaemia worsens toxicity."
+      },
+      {
+        "text": "phenytoin",
+        "isCorrect": true,
+        "explanation": "Phenytoin is used for digoxin-induced ventricular arrhythmias (atrial too)."
+      },
+      {
+        "text": "magnesium",
+        "isCorrect": true,
+        "explanation": "Magnesium suppresses digoxin-induced arrhythmias."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b21",
+    "type": "mtf",
+    "stem": "The diagnosis of myocardial ischaemia by ST segment monitoring is difficult in the presence of",
+    "source": "BARSAC 2024 Pre · B21",
+    "explanation": "ST monitoring confounders: LBBB, LVH, digoxin effect, paced rhythm, pre-existing repolarisation abnormalities, electrolyte disturbances.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "digoxin therapy",
+        "isCorrect": true,
+        "explanation": "Digoxin alters ST/T morphology, mimicking ischaemia."
+      },
+      {
+        "text": "right bundle branch block",
+        "isCorrect": true,
+        "explanation": "RBBB alters ST baseline, making ischaemia hard to read."
+      },
+      {
+        "text": "complete heart block",
+        "isCorrect": false,
+        "explanation": "Complete heart block has wide QRS and abnormal ST but ischaemia diagnosis remains feasible. Conservative answer: FALSE for diagnostic difficulty specifically."
+      },
+      {
+        "text": "left bundle branch block",
+        "isCorrect": true,
+        "explanation": "LBBB obscures ST/T changes — gold-standard problem (Sgarbossa criteria needed)."
+      },
+      {
+        "text": "left ventricular hypertrophy",
+        "isCorrect": true,
+        "explanation": "LVH masks ST changes with strain pattern."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b22",
+    "type": "mtf",
+    "stem": "Clinical targets during major trauma without head injury include",
+    "source": "BARSAC 2024 Pre · B22",
+    "explanation": "Trauma resuscitation (no head injury): permissive hypotension (SBP 80–90 active bleed), MAP 65 once controlled, iCa >1.0, balanced products.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a platelet count above 150 x 10^9",
+        "isCorrect": false,
+        "explanation": "In active trauma resuscitation, platelet >50 is the target during bleeding, not >150."
+      },
+      {
+        "text": "mean arterial pressure of 65 mmHg",
+        "isCorrect": true,
+        "explanation": "MAP 65 is the standard resuscitation target without head injury."
+      },
+      {
+        "text": "ionised calcium level above 0.9 mmol/L",
+        "isCorrect": true,
+        "explanation": "iCa > 0.9 mmol/L (1.0–1.2 ideal) prevents coagulopathy."
+      },
+      {
+        "text": "haemoglobin of 100 g/L",
+        "isCorrect": false,
+        "explanation": "Hb 70–90 g/L is the modern trauma target; 100 is too high."
+      },
+      {
+        "text": "systolic blood pressure of 110 mmHg",
+        "isCorrect": true,
+        "explanation": "SBP 110 mmHg is reasonable; permissive hypotension SBP 80–90 only without head injury — but 110 acceptable when bleeding controlled."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b23",
+    "type": "mtf",
+    "stem": "In the case of peripheral nerve injury, division of the",
+    "source": "BARSAC 2024 Pre · B23",
+    "explanation": "Nerve injury patterns: mental → lower lip; abducens → divergent strabismus; ulnar → claw hand; median → loss of opposition; phrenic → diaphragm.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "mental nerve will produce numbness of the lower lip",
+        "isCorrect": true,
+        "explanation": "Mental nerve (V3 branch) supplies lower lip sensation."
+      },
+      {
+        "text": "abducens nerve will cause divergent strabismus",
+        "isCorrect": true,
+        "explanation": "CN VI (abducens) palsy → divergent strabismus (loss of lateral rectus)."
+      },
+      {
+        "text": "ulnar nerve will produce wrist drop",
+        "isCorrect": false,
+        "explanation": "Ulnar division → CLAW HAND/sensory loss, not wrist drop (that is radial nerve)."
+      },
+      {
+        "text": "median nerve will abolish opposition of the thumb",
+        "isCorrect": true,
+        "explanation": "Median nerve injury at wrist abolishes thumb opposition (thenar muscles)."
+      },
+      {
+        "text": "phrenic nerve will cause diaphragmatic paralysis",
+        "isCorrect": true,
+        "explanation": "Phrenic nerve → ipsilateral hemidiaphragm paralysis."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b24",
+    "type": "mtf",
+    "stem": "Vitamin K dependent blood coagulation factors include",
+    "source": "BARSAC 2024 Pre · B24",
+    "explanation": "Vitamin K-dependent clotting factors: II, VII, IX, X (and proteins C and S). Warfarin inhibits their gamma-carboxylation.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "II prothrombin",
+        "isCorrect": true,
+        "explanation": "Factor II is vitamin-K dependent."
+      },
+      {
+        "text": "X Stuart-Prower factor",
+        "isCorrect": true,
+        "explanation": "Factor X is vitamin-K dependent."
+      },
+      {
+        "text": "IX plasma thromboplastin antecedant",
+        "isCorrect": true,
+        "explanation": "Factor IX is vitamin-K dependent."
+      },
+      {
+        "text": "VII stable factor",
+        "isCorrect": true,
+        "explanation": "Factor VII is vitamin-K dependent (shortest half-life)."
+      },
+      {
+        "text": "V labile factor",
+        "isCorrect": false,
+        "explanation": "Factor V is NOT vitamin-K dependent (mnemonic: 2, 7, 9, 10)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b25",
+    "type": "mtf",
+    "stem": "A 35 year old man who is otherwise well attends the emergency department with an irregular heart rate shown to be atrial fibrillation at a rate of 120 on ECG. Immediate investigation and management includes",
+    "source": "BARSAC 2024 Pre · B25",
+    "explanation": "New-onset AF in haemodynamically stable patient: anticoagulate, rate control (β-blocker or Ca-blocker), consider TOE-guided cardioversion.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "avoid anticoagulants and give aspirin therapy alone",
+        "isCorrect": false,
+        "explanation": "Anticoagulants are required for AF >48 h with cardioversion planning."
+      },
+      {
+        "text": "transoesophageal echocardiography",
+        "isCorrect": false,
+        "explanation": "TOE is used to exclude LA thrombus before cardioversion (if AF >48 h)."
+      },
+      {
+        "text": "immediate cardioversion",
+        "isCorrect": true,
+        "explanation": "Immediate cardioversion only if haemodynamically unstable."
+      },
+      {
+        "text": "exercise testing",
+        "isCorrect": false,
+        "explanation": "Exercise testing not part of acute AF workup."
+      },
+      {
+        "text": "rate control with a beta-blocker",
+        "isCorrect": true,
+        "explanation": "Rate control with β-blocker (or Ca-blocker) is standard for stable AF."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b26",
+    "type": "mtf",
+    "stem": "The oculocardiac reflex",
+    "source": "BARSAC 2024 Pre · B26",
+    "explanation": "Oculocardiac reflex: V (afferent, ophthalmic branch) → V medulla → X (efferent) → muscarinic bradycardia; treat with atropine, release stimulus.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "afferent fibres travel along the ophthalmic nerve",
+        "isCorrect": true,
+        "explanation": "Afferents via ophthalmic division of trigeminal nerve."
+      },
+      {
+        "text": "activates the muscarinic cardiac receptors",
+        "isCorrect": true,
+        "explanation": "Reflex bradycardia via muscarinic cardiac receptors."
+      },
+      {
+        "text": "activates the motor nucleus of the facial nerve",
+        "isCorrect": false,
+        "explanation": "Facial nerve nucleus is NOT involved — vagal motor nucleus is."
+      },
+      {
+        "text": "efferent fibres travel in the vagus nerve",
+        "isCorrect": true,
+        "explanation": "Efferent is vagus (CN X) → cardiac slowing."
+      },
+      {
+        "text": "is triggered by corneal incision",
+        "isCorrect": false,
+        "explanation": "Corneal incision can trigger the reflex but classical trigger is muscle traction."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b27",
+    "type": "mtf",
+    "stem": "Effects of succinylcholine (suxamethonium) include",
+    "source": "BARSAC 2024 Pre · B27",
+    "explanation": "Suxamethonium: raises K+, IOP, IGP, ICP; fasciculation causes post-op myalgia; metabolised by plasma cholinesterase.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "increased intraocular pressure",
+        "isCorrect": true,
+        "explanation": "Suxamethonium raises IOP transiently."
+      },
+      {
+        "text": "decreased intragastric pressure",
+        "isCorrect": false,
+        "explanation": "Intragastric pressure INCREASES (not decreases) with fasciculations."
+      },
+      {
+        "text": "increased serum potassium concentration",
+        "isCorrect": true,
+        "explanation": "Releases K+ from muscle cells — serum K+ rises ~0.5 mmol/L."
+      },
+      {
+        "text": "increased intracranial pressure",
+        "isCorrect": true,
+        "explanation": "Minor rise in ICP from fasciculations."
+      },
+      {
+        "text": "postoperative myalgia",
+        "isCorrect": true,
+        "explanation": "Postoperative myalgia common (fasciculation-induced)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b28",
+    "type": "mtf",
+    "stem": "Drugs likely to exacerbate pulmonary hypertension include",
+    "source": "BARSAC 2024 Pre · B28",
+    "explanation": "Pulmonary hypertension: avoid ketamine (↑PVR), N2O (↑PVR), hypoxia/hypercapnia/acidosis. Inhaled NO, sildenafil, prostacyclins are vasodilators.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "morphine",
+        "isCorrect": false,
+        "explanation": "Morphine causes histamine release but doesn’t worsen pulmonary HTN significantly."
+      },
+      {
+        "text": "diazepam",
+        "isCorrect": false,
+        "explanation": "Diazepam is acceptable."
+      },
+      {
+        "text": "frusemide (furosemide)",
+        "isCorrect": false,
+        "explanation": "Frusemide reduces preload — generally safe."
+      },
+      {
+        "text": "propofol",
+        "isCorrect": false,
+        "explanation": "Propofol reduces SVR but is acceptable with caution."
+      },
+      {
+        "text": "ketamine",
+        "isCorrect": true,
+        "explanation": "Ketamine increases PVR — exacerbates pulmonary hypertension."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b29",
+    "type": "mtf",
+    "stem": "Indications for extubation in a patient mechanically ventilated for 24 hours following a mitral valve replacement include",
+    "source": "BARSAC 2024 Pre · B29",
+    "explanation": "Extubation criteria: VC >15 mL/kg, NIF more negative than −25, VD/VT <0.4, adequate gas exchange, awake/cooperative.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "PaO2 80mmHg (10kPa) with FiO2 0.4",
+        "isCorrect": true,
+        "explanation": "PaO2 80 on FiO2 0.4 = P/F 200 — adequate for extubation."
+      },
+      {
+        "text": "vital capacity 18 ml/kg of lean body weight",
+        "isCorrect": true,
+        "explanation": "VC 18 mL/kg is adequate (>15 mL/kg)."
+      },
+      {
+        "text": "PaCO2 39mmHg (5.0kPa) after 2 hours of spontaneous ventilation",
+        "isCorrect": true,
+        "explanation": "Normal PaCO2 on spontaneous ventilation confirms ventilation."
+      },
+      {
+        "text": "inspiratory force 15cmH2O",
+        "isCorrect": false,
+        "explanation": "Inspiratory force −15 cmH2O is weak (need at least −25 to −30)."
+      },
+      {
+        "text": "dead space to tidal volume ratio (VD/VT) 0.6",
+        "isCorrect": false,
+        "explanation": "VD/VT > 0.6 is too high (target < 0.4 to extubate)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-pre-b30",
+    "type": "mtf",
+    "stem": "The initial actions of intravenous mannitol are",
+    "source": "BARSAC 2024 Pre · B30",
+    "explanation": "IV mannitol: osmotic; initially expands plasma volume and lowers viscosity, then induces osmotic diuresis with risk of late hypovolaemia.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "reduction in the interstitial volume",
+        "isCorrect": false,
+        "explanation": "Mannitol initially EXPANDS the intravascular volume by drawing fluid in."
+      },
+      {
+        "text": "increased haematocrit",
+        "isCorrect": true,
+        "explanation": "Haematocrit rises temporarily as RBC mass dilutes less than plasma; net effect varies."
+      },
+      {
+        "text": "haemolysis",
+        "isCorrect": false,
+        "explanation": "Mannitol does not cause haemolysis."
+      },
+      {
+        "text": "increased blood viscosity",
+        "isCorrect": false,
+        "explanation": "Blood viscosity DECREASES initially (haemodilution)."
+      },
+      {
+        "text": "expansion of the blood volume",
+        "isCorrect": true,
+        "explanation": "Initial blood-volume expansion is the principal early effect (then diuresis)."
+      }
+    ]
+  }
+]

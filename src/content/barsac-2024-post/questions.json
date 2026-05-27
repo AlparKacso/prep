@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "barsac-2024-post-a1",
+    "type": "mtf",
+    "stem": "Nitroglycerin given by infusion",
+    "source": "BARSAC 2024 Post · A1",
+    "explanation": "GTN: NO donor causing veno- and arterio-dilation; lowers preload/afterload; impairs HPV; can cause headache, methaemoglobinaemia, raised ICP.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "depresses hypoxic pulmonary vasoconstriction",
+        "isCorrect": true,
+        "explanation": "Nitroglycerin attenuates hypoxic pulmonary vasoconstriction → can worsen V/Q."
+      },
+      {
+        "text": "can increase intracranial pressure",
+        "isCorrect": true,
+        "explanation": "Cerebral vasodilation raises ICP."
+      },
+      {
+        "text": "can produce methemoglobinemia",
+        "isCorrect": true,
+        "explanation": "High doses produce methaemoglobinaemia."
+      },
+      {
+        "text": "enhances neuromuscular blockade",
+        "isCorrect": false,
+        "explanation": "No direct neuromuscular blockade interaction."
+      },
+      {
+        "text": "directly increases myocardial contractility",
+        "isCorrect": false,
+        "explanation": "Direct effect is vasodilation, not myocardial contractility."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a2",
+    "type": "mtf",
+    "stem": "Vasoactive drugs that exert a positive chronotropic effect on the heart include",
+    "source": "BARSAC 2024 Post · A2",
+    "explanation": "Positive chronotropy: isoprenaline, ephedrine, dobutamine, adrenaline. Pure α-agonists (phenylephrine, metaraminol) cause reflex bradycardia.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "metaraminol",
+        "isCorrect": false,
+        "explanation": "Metaraminol is mainly α-agonist; reflex BRADYCARDIA, not chronotropy."
+      },
+      {
+        "text": "ephedrine",
+        "isCorrect": true,
+        "explanation": "Ephedrine is indirect sympathomimetic with both α and β1 → tachycardia."
+      },
+      {
+        "text": "isoprenaline (isoproterenol)",
+        "isCorrect": true,
+        "explanation": "Isoprenaline is non-selective β-agonist → strong chronotropy."
+      },
+      {
+        "text": "phenylephrine",
+        "isCorrect": false,
+        "explanation": "Phenylephrine pure α1 → reflex bradycardia."
+      },
+      {
+        "text": "noradrenaline (norepinephrine)",
+        "isCorrect": true,
+        "explanation": "Noradrenaline has β1 activity at the heart → can increase HR but reflex slowing common."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a3",
+    "type": "mtf",
+    "stem": "Cerebral blood flow is inversely related to",
+    "source": "BARSAC 2024 Post · A3",
+    "explanation": "CBF determinants: PaCO2 (direct), CMRO2 coupling (direct), autoregulation to MAP 50–150 mmHg, anaesthetic effects (dose-dependent).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "inhaled isoflurane concentration",
+        "isCorrect": true,
+        "explanation": "Isoflurane reduces CBF dose-dependently at low MAC; higher MAC causes vasodilation. Conservative answer: inversely related at low concentrations → TRUE."
+      },
+      {
+        "text": "PaCO2",
+        "isCorrect": false,
+        "explanation": "CBF is DIRECTLY (not inversely) related to PaCO2 in normal range."
+      },
+      {
+        "text": "PaO2",
+        "isCorrect": false,
+        "explanation": "CBF rises only when PaO2 < 50 mmHg; normal range = independent (not inversely related)."
+      },
+      {
+        "text": "cerebral oxygen consumption",
+        "isCorrect": true,
+        "explanation": "CBF is coupled to CMRO2 — directly related (this is flow-metabolism coupling)."
+      },
+      {
+        "text": "mean arterial blood pressure",
+        "isCorrect": true,
+        "explanation": "CBF is autoregulated to MAP 50–150 mmHg; outside range CBF tracks MAP directly."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a4",
+    "type": "mtf",
+    "stem": "The purpose of an isolation transformer in the operating room is to",
+    "source": "BARSAC 2024 Post · A4",
+    "explanation": "Isolation transformer: creates floating (un-earthed) secondary circuit; combined with line isolation monitor → safer theatre electrical supply.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "detect shorting of equipment",
+        "isCorrect": false,
+        "explanation": "Earth-fault detector (separate device) detects shorts; isolation transformer creates the isolated circuit."
+      },
+      {
+        "text": "create an unearthed circuit",
+        "isCorrect": true,
+        "explanation": "Isolation transformer creates an UNEARTHED secondary circuit → contact with one live wire doesn’t cause shock."
+      },
+      {
+        "text": "boost the line voltage to power electrical equipment",
+        "isCorrect": false,
+        "explanation": "It transforms 1:1 — doesn’t boost voltage."
+      },
+      {
+        "text": "earth the electrical equipment",
+        "isCorrect": false,
+        "explanation": "It prevents direct earthing of equipment."
+      },
+      {
+        "text": "reduce line current",
+        "isCorrect": false,
+        "explanation": "Doesn’t reduce line current."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a5",
+    "type": "mtf",
+    "stem": "Concerning benzodiazepines",
+    "source": "BARSAC 2024 Post · A5",
+    "explanation": "Benzodiazepines: positive allosteric modulators of GABA_A, hepatic metabolism, flumazenil reverses, reduce CBF and CMRO2.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "they do not undergo hepatic biotransformation",
+        "isCorrect": false,
+        "explanation": "Benzodiazepines undergo hepatic biotransformation (mostly CYP3A4)."
+      },
+      {
+        "text": "their sedative effect can be reversed by physostigmine",
+        "isCorrect": false,
+        "explanation": "Flumazenil (not physostigmine) is the specific antagonist."
+      },
+      {
+        "text": "they enhance the effect of GABA",
+        "isCorrect": true,
+        "explanation": "Enhance GABA effect by allosteric modulation at GABA_A."
+      },
+      {
+        "text": "they decrease cerebral blood flow",
+        "isCorrect": true,
+        "explanation": "Reduce CBF."
+      },
+      {
+        "text": "they reduce cerebral oxygen consumption",
+        "isCorrect": true,
+        "explanation": "Reduce CMRO2."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a6",
+    "type": "mtf",
+    "stem": "Concerning normal hepatic cellular function",
+    "source": "BARSAC 2024 Post · A6",
+    "explanation": "Hepatocyte: smooth ER hosts CYP450 drug metabolism; mitochondria provide oxidative phosphorylation. Centrilobular zone has lowest PO2.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the mitochondrial PO2 is less than 10 mm Hg",
+        "isCorrect": true,
+        "explanation": "Hepatocyte mitochondrial PO2 is ~5–10 mmHg (low intracellular gradient)."
+      },
+      {
+        "text": "drug metabolism is primarily a function of the mitochondria",
+        "isCorrect": false,
+        "explanation": "Drug metabolism is in the smooth endoplasmic reticulum (microsomal), not mitochondria."
+      },
+      {
+        "text": "cytochrome P450 is essential for hydroxylation and dealkylation in drug metabolism",
+        "isCorrect": true,
+        "explanation": "CYP450 enzymes catalyse phase-I oxidations."
+      },
+      {
+        "text": "the smooth endoplasmic reticulum hypertrophies when enzyme induction occurs",
+        "isCorrect": true,
+        "explanation": "SER hypertrophies with enzyme induction (e.g. phenobarbital)."
+      },
+      {
+        "text": "the mitochondria contain enzymes essential to the respiratory chain",
+        "isCorrect": true,
+        "explanation": "Mitochondria house the respiratory chain enzymes."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a7",
+    "type": "mtf",
+    "stem": "Deviation from Beer's law may occur",
+    "source": "BARSAC 2024 Post · A7",
+    "explanation": "Beer’s law assumes monochromatic light, dilute non-fluorescent solute, no interactions; deviations occur with broad-band filters, fluorescence, photodecomposition.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "when light from other species is absorbed at the same wavelength as that being measured",
+        "isCorrect": true,
+        "explanation": "Overlapping absorption from other species causes positive deviation."
+      },
+      {
+        "text": "when there is interaction between solute and solvent",
+        "isCorrect": true,
+        "explanation": "Solute-solvent interactions alter molar absorption."
+      },
+      {
+        "text": "more with gelatin filters than with narrow bandpass monochromators",
+        "isCorrect": true,
+        "explanation": "Gelatin filters have broad bandpass → more deviation than monochromators."
+      },
+      {
+        "text": "when measuring the absorption of a fluorescent solution",
+        "isCorrect": true,
+        "explanation": "Fluorescent solutions emit light, distorting measurement."
+      },
+      {
+        "text": "with photo-decomposition of the solute",
+        "isCorrect": true,
+        "explanation": "Photo-decomposition changes concentration during measurement."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a8",
+    "type": "mtf",
+    "stem": "The following are features of the cough associated with drugs that inhibit angiotensin-converting enzyme (ACE):",
+    "source": "BARSAC 2024 Post · A8",
+    "explanation": "ACE-inhibitor cough: bradykinin-mediated class effect; doesn’t resolve with another ACE-I; switch to ARB. More common in women.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "it improves on changing to a different ACE inhibitor",
+        "isCorrect": false,
+        "explanation": "ACE-inhibitor cough is a class effect — switching to another ACE-I doesn’t resolve it."
+      },
+      {
+        "text": "this cough is dose dependent",
+        "isCorrect": true,
+        "explanation": "Dose-related component exists (some patients improve with dose reduction)."
+      },
+      {
+        "text": "it is more likely to occur when treating hypertension.",
+        "isCorrect": false,
+        "explanation": "Cough prevalence is similar across indications."
+      },
+      {
+        "text": "it is more common in patients who smoke cigarettes",
+        "isCorrect": false,
+        "explanation": "Smokers may have other cough causes; ACE cough isn’t more common in them."
+      },
+      {
+        "text": "it is more common in men than women",
+        "isCorrect": false,
+        "explanation": "Cough is MORE common in women than men."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a9",
+    "type": "mtf",
+    "stem": "The binding of a drug to plasma proteins",
+    "source": "BARSAC 2024 Post · A9",
+    "explanation": "Plasma-protein binding: albumin (acidic drugs), α1-acid glycoprotein (basic drugs); restricts glomerular filtration of bound drug.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "involves over 100 binding sites per albumin molecule",
+        "isCorrect": false,
+        "explanation": "Albumin has 2 main drug-binding sites (Sudlow I and II) — not 100."
+      },
+      {
+        "text": "is markedly different in arterial and venous blood",
+        "isCorrect": false,
+        "explanation": "Plasma-protein binding is similar in arterial and venous blood."
+      },
+      {
+        "text": "prevents rapid renal glomerular filtration of the drug",
+        "isCorrect": true,
+        "explanation": "Highly bound drugs are not filtered at glomerulus (only free fraction)."
+      },
+      {
+        "text": "prolongs its biological half-life",
+        "isCorrect": true,
+        "explanation": "High binding prolongs half-life by reducing free fraction available for clearance."
+      },
+      {
+        "text": "reduces hepatic uptake and metabolism",
+        "isCorrect": true,
+        "explanation": "Hepatic uptake may be reduced for high-extraction drugs that aren’t flow-limited."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a10",
+    "type": "mtf",
+    "stem": "Spontaneous ventilation with a Mapleson A (Magill) breathing system",
+    "source": "BARSAC 2024 Post · A10",
+    "explanation": "Mapleson A (Magill): spontaneous ventilation FGF = alveolar ventilation; inefficient for controlled ventilation (needs 2.5× MV). Reverse is D/E.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "functions efficiently with a fresh gas flow lower than alveolar ventilation",
+        "isCorrect": false,
+        "explanation": "Magill (A) is efficient for spontaneous ventilation — FGF can be approximately equal to MV."
+      },
+      {
+        "text": "requires a fresh gas flow in excess of minute ventilation",
+        "isCorrect": false,
+        "explanation": "For spontaneous breathing FGF need only equal alveolar ventilation (~70 mL/kg/min), not exceed MV."
+      },
+      {
+        "text": "results in less rebreathing than controlled ventilation using identical fresh gas flows",
+        "isCorrect": false,
+        "explanation": "Mapleson A is more efficient for spontaneous than controlled ventilation."
+      },
+      {
+        "text": "delivers a tidal volume greater than the volumetric displacement of the bag",
+        "isCorrect": false,
+        "explanation": "Tidal volume = patient effort; bag size doesn’t limit it."
+      },
+      {
+        "text": "allows entrainment of air",
+        "isCorrect": true,
+        "explanation": "Open ends and APL valves allow air entrainment if FGF inadequate."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a11",
+    "type": "mtf",
+    "stem": "Accidental burns associated with the use of diathermy may result from",
+    "source": "BARSAC 2024 Post · A11",
+    "explanation": "Diathermy burns: faulty return electrode, alternative ground paths, capacitive coupling, hot bowel/instrument contact; bipolar diathermy reduces risk.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "simultaneous use of an isolated ECG monitor",
+        "isCorrect": false,
+        "explanation": "Isolated ECG monitor doesn’t cause diathermy burns."
+      },
+      {
+        "text": "faulty indifferent patient electrode",
+        "isCorrect": true,
+        "explanation": "Faulty indifferent (return) electrode focuses current → burn."
+      },
+      {
+        "text": "too high a current density",
+        "isCorrect": true,
+        "explanation": "High current density at a small contact area causes burns."
+      },
+      {
+        "text": "earthing of the operating table",
+        "isCorrect": false,
+        "explanation": "Earthing the operating table is no longer modern practice but is not the principal cause."
+      },
+      {
+        "text": "leakage current induced by capacitive coupling",
+        "isCorrect": true,
+        "explanation": "Capacitive coupling can induce current in nearby leads → burns."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a12",
+    "type": "mtf",
+    "stem": "Recognised effects of acetylsalicylic acid include",
+    "source": "BARSAC 2024 Post · A12",
+    "explanation": "Aspirin: irreversible COX inhibitor → antiplatelet, anti-inflammatory, antipyretic, gastric mucosal damage; toxic doses uncouple oxidative phosphorylation.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "uncoupling of oxidative phosphorylation",
+        "isCorrect": true,
+        "explanation": "Aspirin uncouples oxidative phosphorylation in toxicity (fever, lactic acidosis)."
+      },
+      {
+        "text": "inhibition of thromboxane production",
+        "isCorrect": true,
+        "explanation": "Inhibits thromboxane A2 production (antiplatelet effect)."
+      },
+      {
+        "text": "stimulation of the respiratory centre",
+        "isCorrect": true,
+        "explanation": "Stimulates respiratory centre → respiratory alkalosis early."
+      },
+      {
+        "text": "gastric mucosal irritation",
+        "isCorrect": true,
+        "explanation": "Gastric mucosal irritation via COX-1 inhibition."
+      },
+      {
+        "text": "inhibition of prostaglandin synthesis",
+        "isCorrect": true,
+        "explanation": "Inhibits prostaglandin synthesis via COX inhibition."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a13",
+    "type": "mtf",
+    "stem": "Measurement of cardiac output by thermodilution is accurate if the",
+    "source": "BARSAC 2024 Post · A13",
+    "explanation": "Thermodilution CO inaccurate with intracardiac shunts (ASD, VSD, ToF) and significant valvular regurgitation. Mitral stenosis itself doesn’t affect it.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "patient suffers from Fallot's tetralogy",
+        "isCorrect": false,
+        "explanation": "Fallot’s tetralogy has R→L shunt → inaccurate thermodilution."
+      },
+      {
+        "text": "patient has mitral stenosis",
+        "isCorrect": true,
+        "explanation": "Mitral stenosis doesn’t involve a shunt → thermodilution remains accurate."
+      },
+      {
+        "text": "patient has aortic incompetence",
+        "isCorrect": false,
+        "explanation": "Significant aortic incompetence introduces error in transpulmonary thermodilution."
+      },
+      {
+        "text": "measurement is made using saline at room temperature",
+        "isCorrect": true,
+        "explanation": "Room-temperature saline can be used (less signal but acceptable with monitor compensation)."
+      },
+      {
+        "text": "patient has an intraventricular septal defect",
+        "isCorrect": false,
+        "explanation": "VSD introduces shunt → inaccurate thermodilution (loss/recirculation of indicator)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a14",
+    "type": "mtf",
+    "stem": "In a normal subject, cerebral blood flow is increased by",
+    "source": "BARSAC 2024 Post · A14",
+    "explanation": "CBF rises with: hypercapnia (PaCO2 >40), hypoxaemia <50 mmHg, head-down position, raised CMRO2. Falls with hypocapnia and hypothermia.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hyperventilation",
+        "isCorrect": false,
+        "explanation": "Hyperventilation lowers PaCO2 → cerebral vasoconstriction → DECREASES CBF."
+      },
+      {
+        "text": "an increase in systolic arterial blood pressure from 110 to 130 mmHg",
+        "isCorrect": false,
+        "explanation": "Within autoregulation range (50–150 mmHg) MAP change doesn’t change CBF."
+      },
+      {
+        "text": "an increase in arterial PCO2 above 60 mmHg (8.5 kPa)",
+        "isCorrect": true,
+        "explanation": "PaCO2 > 60 mmHg → marked vasodilation → ↑CBF."
+      },
+      {
+        "text": "the head-down position",
+        "isCorrect": true,
+        "explanation": "Head-down position increases jugular pressure → ↑ICP and CBV."
+      },
+      {
+        "text": "a reduction in arterial PO2 to 70 mmHg (9.5 kPa)",
+        "isCorrect": true,
+        "explanation": "PaO2 <50 mmHg → hypoxic cerebral vasodilation; 70 mmHg is borderline."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a15",
+    "type": "mtf",
+    "stem": "Normal intracellular electrolyte concentrations include",
+    "source": "BARSAC 2024 Post · A15",
+    "explanation": "Intracellular electrolytes: K ~150, Na ~10, Cl ~5, phosphate high, bicarbonate ~10–15 mmol/L. Reverse gradients for sodium and potassium.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "phosphate S mmol",
+        "isCorrect": true,
+        "explanation": "Intracellular phosphate ~75 mmol/L (statement of \"S\" likely 75) — accept TRUE within typical range."
+      },
+      {
+        "text": "sodium 10 mmol",
+        "isCorrect": true,
+        "explanation": "Intracellular Na ~10 mmol/L (extracellular ~140)."
+      },
+      {
+        "text": "potassium 150 mmol",
+        "isCorrect": true,
+        "explanation": "Intracellular K ~150 mmol/L."
+      },
+      {
+        "text": "chloride 50 mmol",
+        "isCorrect": false,
+        "explanation": "Intracellular Cl ~5 mmol/L; 50 mmol/L too high."
+      },
+      {
+        "text": "bicarbonate 15 mmol",
+        "isCorrect": true,
+        "explanation": "Intracellular bicarbonate ~10–15 mmol/L."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a16",
+    "type": "mtf",
+    "stem": "In the measurement of gas flow",
+    "source": "BARSAC 2024 Post · A16",
+    "explanation": "Rotameter: laminar (density-dependent at low flow), turbulent (viscosity-dependent at high flow). Wright respirometer over-reads high flows, under-reads low.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "the accuracy of a rotameter, at high flows is most affected by changes in the viscosity of the gas",
+        "isCorrect": true,
+        "explanation": "At high flow rotameter accuracy depends on viscosity (turbulent flow)."
+      },
+      {
+        "text": "the accuracy of a rotameter at low flows is most affected by changes in the density of the gas",
+        "isCorrect": true,
+        "explanation": "At low flow rotameter accuracy depends on density (laminar flow)."
+      },
+      {
+        "text": "turbine respirometers of the Wright's variety over read at high flows",
+        "isCorrect": false,
+        "explanation": "Wright respirometer UNDER-reads at low flows and OVER-reads at high — statement of OVER-read at HIGH true. Both statements often combined."
+      },
+      {
+        "text": "the accuracy of a rotameter is within 5%",
+        "isCorrect": true,
+        "explanation": "Rotameter accuracy ~±2.5–5%."
+      },
+      {
+        "text": "turbine respirometers of the Wright's variety under read at low flows",
+        "isCorrect": true,
+        "explanation": "Wright UNDER-reads at low flows (turbine inertia)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a17",
+    "type": "mtf",
+    "stem": "Blood flow to the thoracic spinal cord is",
+    "source": "BARSAC 2024 Post · A17",
+    "explanation": "Thoracic spinal cord supply: anterior spinal artery from vertebrals + radicular branches from intercostals (Adamkiewicz, T8–L2); autoregulated, CO2-reactive.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "absent during cross clamping of the thoracic aorta",
+        "isCorrect": true,
+        "explanation": "Spinal cord ischaemia occurs during aortic cross-clamping."
+      },
+      {
+        "text": "derived in part from the vertebral arteries",
+        "isCorrect": true,
+        "explanation": "Vertebral arteries contribute to upper spinal cord, anterior spinal artery feeds anterior cord."
+      },
+      {
+        "text": "derived in part from the intercostal arteries",
+        "isCorrect": true,
+        "explanation": "Intercostal arteries (including artery of Adamkiewicz) supply thoracic cord."
+      },
+      {
+        "text": "unaffected by hypercarbia",
+        "isCorrect": false,
+        "explanation": "Spinal cord blood flow is autoregulated AND responds to hypercarbia (CO2 reactivity)."
+      },
+      {
+        "text": "controlled by local autoregulation",
+        "isCorrect": true,
+        "explanation": "Local autoregulation does occur in spinal cord vasculature."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a18",
+    "type": "mtf",
+    "stem": "Glucagon administration increases",
+    "source": "BARSAC 2024 Post · A18",
+    "explanation": "Glucagon: hyperglycaemic hormone via gluconeogenesis; cardiac stimulant via cAMP (used in β-blocker toxicity); side effects nausea, hyperglycaemia.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "myocardial contractility",
+        "isCorrect": true,
+        "explanation": "Glucagon has positive inotropic effects (via adenyl cyclase, β-bypass)."
+      },
+      {
+        "text": "the excitability of the sinus node",
+        "isCorrect": true,
+        "explanation": "Increases sinus node excitability (positive chronotropy)."
+      },
+      {
+        "text": "adenyl cyclase activity",
+        "isCorrect": true,
+        "explanation": "Activates adenylate cyclase → ↑cAMP."
+      },
+      {
+        "text": "the likelihood of nausea",
+        "isCorrect": true,
+        "explanation": "Nausea is a recognised side effect."
+      },
+      {
+        "text": "intracellular myocardial calcium concentration",
+        "isCorrect": true,
+        "explanation": "Raises intracellular cardiac calcium via cAMP."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a19",
+    "type": "mtf",
+    "stem": "The rate at which the alveolar concentration of sevoflurane will reach the inspired concentration is influenced by the",
+    "source": "BARSAC 2024 Post · A19",
+    "explanation": "Alveolar/inspired sevo ratio rises faster with: high MV, low CO, low blood:gas solubility, low FRC, N2O second-gas effect.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "alveolar minute ventilation",
+        "isCorrect": true,
+        "explanation": "Alveolar minute ventilation directly speeds wash-in."
+      },
+      {
+        "text": "use of carbon dioxide absorber in circuit",
+        "isCorrect": false,
+        "explanation": "CO2 absorber doesn’t affect alveolar concentration rise."
+      },
+      {
+        "text": "oil-gas partition coefficient of sevoflurane",
+        "isCorrect": false,
+        "explanation": "Oil:gas determines potency, not wash-in speed (blood:gas does)."
+      },
+      {
+        "text": "pulmonary capillary blood flow",
+        "isCorrect": true,
+        "explanation": "High pulmonary blood flow uptakes more agent, SLOWING alveolar rise."
+      },
+      {
+        "text": "use of nitrous oxide",
+        "isCorrect": true,
+        "explanation": "N2O second-gas effect speeds wash-in of sevoflurane."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a20",
+    "type": "mtf",
+    "stem": "Features of lidocaine (lignocaine) toxicity include",
+    "source": "BARSAC 2024 Post · A20",
+    "explanation": "Lidocaine toxicity progression: tongue/circumoral paraesthesia → tinnitus → twitching → seizures → CNS depression → cardiovascular collapse.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "muscle twitching",
+        "isCorrect": true,
+        "explanation": "Muscle twitching is an early CNS toxicity sign."
+      },
+      {
+        "text": "speech difficulty",
+        "isCorrect": true,
+        "explanation": "Dysarthria/speech difficulty occurs in mild toxicity."
+      },
+      {
+        "text": "sedation",
+        "isCorrect": true,
+        "explanation": "Drowsiness/sedation is a CNS effect."
+      },
+      {
+        "text": "circumoral tingling",
+        "isCorrect": true,
+        "explanation": "Circumoral tingling and tongue numbness are classic prodromes."
+      },
+      {
+        "text": "tinnitus",
+        "isCorrect": true,
+        "explanation": "Tinnitus is a classic CNS warning of lidocaine toxicity."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a21",
+    "type": "mtf",
+    "stem": "Recognised effects of clinical doses of meperidine (pethidine) include",
+    "source": "BARSAC 2024 Post · A21",
+    "explanation": "Pethidine: weak μ-agonist, atropine-like effects (tachycardia, mydriasis), histamine release, active metabolite norpethidine causes seizures.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "an atropine-like effect",
+        "isCorrect": true,
+        "explanation": "Pethidine has atropine-like (mAChR) effects causing tachycardia."
+      },
+      {
+        "text": "sedation",
+        "isCorrect": true,
+        "explanation": "Sedation is a recognised effect."
+      },
+      {
+        "text": "histamine release",
+        "isCorrect": true,
+        "explanation": "Pethidine releases histamine."
+      },
+      {
+        "text": "direct myocardial depression",
+        "isCorrect": false,
+        "explanation": "Direct myocardial depression at clinical doses is minimal; high doses can depress."
+      },
+      {
+        "text": "antagonism of opioid-induced respiratory depression",
+        "isCorrect": false,
+        "explanation": "Pethidine does NOT antagonise opioid effects (it is an agonist)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a22",
+    "type": "mtf",
+    "stem": "Mechanical hyperventilation to a PaCO2 of 3kPa (22.5mm Hg) causes",
+    "source": "BARSAC 2024 Post · A22",
+    "explanation": "Hyperventilation/hypocapnia: cerebral and peripheral vasoconstriction, low CO, low K+, low iCa (tetany), leftward ODC shift.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a reduction in cardiac output",
+        "isCorrect": true,
+        "explanation": "Hypocapnia causes peripheral and pulmonary vasoconstriction → reduced venous return → CO falls."
+      },
+      {
+        "text": "a reduction in serum potassium concentration",
+        "isCorrect": true,
+        "explanation": "Alkalosis shifts K+ intracellularly → mild hypokalaemia."
+      },
+      {
+        "text": "vasodilation of the cerebral blood vessels",
+        "isCorrect": false,
+        "explanation": "Hypocapnia CONSTRICTS (not dilates) cerebral vessels."
+      },
+      {
+        "text": "an increase in P50",
+        "isCorrect": false,
+        "explanation": "Alkalosis SHIFTS curve LEFT (Bohr effect), decreasing P50 (not increasing)."
+      },
+      {
+        "text": "increased muscular excitability",
+        "isCorrect": true,
+        "explanation": "Alkalosis decreases ionised calcium → muscular excitability/tetany."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a23",
+    "type": "mtf",
+    "stem": "The following measurements are consistent with physiological oliguria",
+    "source": "BARSAC 2024 Post · A23",
+    "explanation": "Pre-renal oliguria: concentrated urine — high U/P urea (>50), osmolality (>2:1), Cr (>20:1), SG (>1.020), low urine Na (<20).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "urine/plasma urea 100:1",
+        "isCorrect": true,
+        "explanation": "Concentrated urine: urea ratio high (>50 typical, >100 in severe oliguria)."
+      },
+      {
+        "text": "urine/plasma osmolality ratio 5:1",
+        "isCorrect": true,
+        "explanation": "Concentrated urine: U/P osmolality > 2:1 (5:1 is severe concentration)."
+      },
+      {
+        "text": "urine/plasma creatinine 20:1",
+        "isCorrect": true,
+        "explanation": "U/P creatinine >20 supports pre-renal physiology."
+      },
+      {
+        "text": "urine sodium <10mmol/l",
+        "isCorrect": true,
+        "explanation": "Urine Na <20 mmol/L (often <10) supports pre-renal."
+      },
+      {
+        "text": "urine specific gravity >1.024",
+        "isCorrect": true,
+        "explanation": "Urine specific gravity >1.020 supports pre-renal."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a24",
+    "type": "mtf",
+    "stem": "If the inspired oxygen concentration in a healthy adult is reduced",
+    "source": "BARSAC 2024 Post · A24",
+    "explanation": "Hypoxic responses: carotid body firing increases ventilation, cerebral vasodilation, sympathetic activation; FiO2 <8% → LOC.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "to 15%, hyperventilation occurs",
+        "isCorrect": true,
+        "explanation": "FiO2 15% → mild hypoxaemia → hyperventilation (chemoreceptor drive)."
+      },
+      {
+        "text": "to less than 8%, unconsciousness results",
+        "isCorrect": true,
+        "explanation": "FiO2 <8% causes unconsciousness rapidly."
+      },
+      {
+        "text": "by 20%, cerebral vasoconstriction is produced",
+        "isCorrect": false,
+        "explanation": "Hypoxia causes cerebral VASODILATION, not vasoconstriction."
+      },
+      {
+        "text": "to less than 10%, cyanosis occurs",
+        "isCorrect": false,
+        "explanation": "Cyanosis depends on Hb level; at normal Hb appears around SpO2 85%."
+      },
+      {
+        "text": "the carotid bodies are stimulated",
+        "isCorrect": true,
+        "explanation": "Carotid bodies (PaO2 sensors) stimulated by low PaO2."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a25",
+    "type": "mtf",
+    "stem": "Administration of 100% oxygen will",
+    "source": "BARSAC 2024 Post · A25",
+    "explanation": "100% O2: minimal CaO2 increase, doesn’t correct shunt, causes absorption atelectasis, free-radical injury with prolonged exposure (>24 h).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "double the arterial oxygen content",
+        "isCorrect": false,
+        "explanation": "Arterial O2 content rises only slightly (Hb already saturated; small contribution from dissolved O2)."
+      },
+      {
+        "text": "produce microatelectasis",
+        "isCorrect": true,
+        "explanation": "High FiO2 → absorption atelectasis (microatelectasis)."
+      },
+      {
+        "text": "increase the arterial/venous content difference",
+        "isCorrect": false,
+        "explanation": "Arterial-venous content difference changes depend on VO2 and CO, not FiO2 directly."
+      },
+      {
+        "text": "correct hypoxia due to intrapulmonary shunt",
+        "isCorrect": false,
+        "explanation": "Shunt cannot be corrected by raising FiO2 (gas can’t reach the alveoli)."
+      },
+      {
+        "text": "be toxic within 4 hours",
+        "isCorrect": false,
+        "explanation": "O2 toxicity requires longer than 4 h at 100% (24–48 h typical for clinical injury)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a26",
+    "type": "mtf",
+    "stem": "In the analysis of biochemical results",
+    "source": "BARSAC 2024 Post · A26",
+    "explanation": "Statistics: sensitivity = TP/(TP+FN); specificity = TN/(TN+FP); ±2 SD covers ~95%. Accuracy vs precision distinguishes true value vs scatter.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a screening method with low specificity will give rise to a high false negative rate",
+        "isCorrect": true,
+        "explanation": "Low specificity → more false POSITIVES (not negatives); statement reverses."
+      },
+      {
+        "text": "Chi-squared analysis is only suitable for non-parametric results",
+        "isCorrect": false,
+        "explanation": "Chi-squared works on counts; quantitative variables can be categorised."
+      },
+      {
+        "text": "the positive predictive power of a test is the same as its sensitivity",
+        "isCorrect": false,
+        "explanation": "PPV ≠ sensitivity (PPV = TP/(TP+FP); sensitivity = TP/(TP+FN))."
+      },
+      {
+        "text": "in a Gaussian (normal) distribution, the mean +/- 2 standard deviations includes 97% of the population",
+        "isCorrect": false,
+        "explanation": "Mean ± 2 SD includes ~95% (not 97) of normal distribution."
+      },
+      {
+        "text": "accuracy defines how close a value lies to the true value",
+        "isCorrect": true,
+        "explanation": "Accuracy = closeness to true value (vs precision = reproducibility)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a27",
+    "type": "mtf",
+    "stem": "The following can be used in indirect measurement of arterial blood pressure",
+    "source": "BARSAC 2024 Post · A27",
+    "explanation": "Indirect BP measurement: auscultation (Korotkoff), oscillometry (Von Recklinghausen), Doppler. Plethysmography measures volume; transillumination → oximetry.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "impedance plethysmography",
+        "isCorrect": false,
+        "explanation": "Impedance plethysmography measures volume changes, not pressure."
+      },
+      {
+        "text": "transillumination",
+        "isCorrect": true,
+        "explanation": "Transillumination/photoplethysmography for pulse oximetry, not BP."
+      },
+      {
+        "text": "Von Recklinghausen oscillotonometer",
+        "isCorrect": true,
+        "explanation": "Von Recklinghausen oscillotonometer is a classic indirect BP device."
+      },
+      {
+        "text": "electrostatic induction",
+        "isCorrect": false,
+        "explanation": "Electrostatic induction is not used for BP measurement."
+      },
+      {
+        "text": "doppler principle",
+        "isCorrect": true,
+        "explanation": "Doppler ultrasound is used to detect arterial flow during cuff deflation."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a28",
+    "type": "mtf",
+    "stem": "Biochemical changes affecting the electrocardiogram include",
+    "source": "BARSAC 2024 Post · A28",
+    "explanation": "ECG changes: hyperK → peaked T, wide QRS; hypoK → U waves, flat T; hypoCa → long QT; hyperCa → short QT.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hypokalaemia prolonging the PR interval",
+        "isCorrect": false,
+        "explanation": "Hypokalaemia: prolonged PR is variable; classically flattens T waves and produces U waves."
+      },
+      {
+        "text": "hypocalcaemia prolonging the QT interval",
+        "isCorrect": true,
+        "explanation": "Hypocalcaemia: long QT (with normal T morphology)."
+      },
+      {
+        "text": "hypokalaemia producing tall U waves",
+        "isCorrect": true,
+        "explanation": "Hypokalaemia: tall U waves."
+      },
+      {
+        "text": "hyperkalaemia producing high peaked R waves",
+        "isCorrect": false,
+        "explanation": "Hyperkalaemia: tall peaked T waves, not R waves."
+      },
+      {
+        "text": "hyperkalaemia depressing the ST segment",
+        "isCorrect": true,
+        "explanation": "Hyperkalaemia: ST depression can occur with widening QRS and peaked T."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a29",
+    "type": "mtf",
+    "stem": "Opioids with a lipid solubility greater than morphine include",
+    "source": "BARSAC 2024 Post · A29",
+    "explanation": "Lipid solubility vs morphine: ↑ for fentanyl, sufentanil, methadone, buprenorphine; ↓ for alfentanil and remifentanil.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "fentanyl",
+        "isCorrect": true,
+        "explanation": "Fentanyl is much more lipid soluble than morphine."
+      },
+      {
+        "text": "buprenorphine",
+        "isCorrect": true,
+        "explanation": "Buprenorphine is highly lipid soluble."
+      },
+      {
+        "text": "sufentanil",
+        "isCorrect": true,
+        "explanation": "Sufentanil is the most lipid soluble opioid."
+      },
+      {
+        "text": "alfentanil",
+        "isCorrect": false,
+        "explanation": "Alfentanil is LESS lipid soluble than fentanyl/morphine; its rapid CNS onset is due to high un-ionised fraction at pH 7.4."
+      },
+      {
+        "text": "Methadone",
+        "isCorrect": true,
+        "explanation": "Methadone is more lipid-soluble than morphine."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-a30",
+    "type": "mtf",
+    "stem": "Causes of increased myocardial oxygen consumption include",
+    "source": "BARSAC 2024 Post · A30",
+    "explanation": "MVO2 increased by: ↑HR, ↑contractility, ↑afterload, ↑wall tension (preload). Volatiles and Ca-blockers reduce MVO2.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ketamine anaesthesia",
+        "isCorrect": true,
+        "explanation": "Ketamine increases HR, BP, contractility — raises MVO2."
+      },
+      {
+        "text": "nifedipine therapy",
+        "isCorrect": false,
+        "explanation": "Nifedipine reduces afterload and MVO2."
+      },
+      {
+        "text": "increased end-diastolic ventricular volume",
+        "isCorrect": true,
+        "explanation": "Increased EDV (preload) increases wall stress → MVO2."
+      },
+      {
+        "text": "aortic stenosis",
+        "isCorrect": true,
+        "explanation": "Aortic stenosis increases afterload → ↑MVO2."
+      },
+      {
+        "text": "isoflurane anaesthesia",
+        "isCorrect": false,
+        "explanation": "Isoflurane reduces MVO2 (drop in HR + afterload)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b1",
+    "type": "mtf",
+    "stem": "A pregnant patient at term has an increased",
+    "source": "BARSAC 2024 Post · B1",
+    "explanation": "Pregnant term physiology: ↑MV (mainly via TV), ↓FRC, ↑O2 consumption, ↓PaCO2, mild respiratory alkalosis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "maximum breathing capacity",
+        "isCorrect": false,
+        "explanation": "Maximum breathing capacity is decreased due to splinting from gravid uterus."
+      },
+      {
+        "text": "functional residual capacity",
+        "isCorrect": false,
+        "explanation": "FRC is REDUCED in pregnancy."
+      },
+      {
+        "text": "minute volume ventilation",
+        "isCorrect": true,
+        "explanation": "Minute ventilation is increased ~40%."
+      },
+      {
+        "text": "respiratory rate",
+        "isCorrect": true,
+        "explanation": "Respiratory rate increases slightly; tidal volume more so."
+      },
+      {
+        "text": "airways resistance",
+        "isCorrect": false,
+        "explanation": "Airway resistance is unchanged or slightly decreased due to progesterone-mediated bronchodilation."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b2",
+    "type": "mtf",
+    "stem": "Depolarization block is characterized by",
+    "source": "BARSAC 2024 Post · B2",
+    "explanation": "Depolarising (sux phase I) block: no fade, no PTP, sustained tetanus; anticholinesterases prolong it. Non-depolarisers antagonise.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "post-tetanic potentiation",
+        "isCorrect": false,
+        "explanation": "Phase I (depolarising) block has NO post-tetanic potentiation."
+      },
+      {
+        "text": "potentiation by atracurium",
+        "isCorrect": false,
+        "explanation": "Atracurium (non-depolariser) ANTAGONISES sux block, not potentiates."
+      },
+      {
+        "text": "tetanus without fade",
+        "isCorrect": true,
+        "explanation": "Tetanus is sustained without fade in phase I block."
+      },
+      {
+        "text": "improvement when an anticholinesterase drug is administered",
+        "isCorrect": false,
+        "explanation": "Anticholinesterases POTENTIATE (not improve) phase I block."
+      },
+      {
+        "text": "staircase effect",
+        "isCorrect": false,
+        "explanation": "Staircase effect is in cardiac muscle, not NMJ."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b3",
+    "type": "mtf",
+    "stem": "66% nitrous oxide in oxygen",
+    "source": "BARSAC 2024 Post · B3",
+    "explanation": "N2O: weak anaesthetic (MAC 104), sympathomimetic with mild direct myocardial depression, increases CBF, expands gas-filled spaces.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "decreases cerebral blood flow",
+        "isCorrect": false,
+        "explanation": "N2O is a mild cerebral vasodilator — INCREASES CBF."
+      },
+      {
+        "text": "is a cardiac depressant",
+        "isCorrect": true,
+        "explanation": "N2O is a mild myocardial depressant at sub-anaesthetic concentrations (sympathomimetic action usually masks this)."
+      },
+      {
+        "text": "decreases pulmonary vascular resistance",
+        "isCorrect": false,
+        "explanation": "N2O doesn’t significantly change PVR clinically, though slight increase reported."
+      },
+      {
+        "text": "increases glomerular filtration rate",
+        "isCorrect": false,
+        "explanation": "Doesn’t increase GFR."
+      },
+      {
+        "text": "increases systemic vascular resistance",
+        "isCorrect": false,
+        "explanation": "No significant effect on SVR."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b4",
+    "type": "mtf",
+    "stem": "In the neonate at term, a decrease in body temperature to 34C (93.2F) is accompanied by",
+    "source": "BARSAC 2024 Post · B4",
+    "explanation": "Neonatal hypothermia: brown fat → non-shivering thermogenesis → ↑VO2, sympathetic activation, metabolic acidosis if O2 inadequate.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hyperirritability",
+        "isCorrect": false,
+        "explanation": "Neonatal hypothermia → lethargy and irritability is variable; not the hallmark response."
+      },
+      {
+        "text": "shivering",
+        "isCorrect": false,
+        "explanation": "Neonates don’t shiver effectively (non-shivering thermogenesis from brown fat)."
+      },
+      {
+        "text": "systemic arterial hypertension",
+        "isCorrect": true,
+        "explanation": "Mild systemic hypertension may occur from sympathetic activation."
+      },
+      {
+        "text": "metabolic alkalosis",
+        "isCorrect": false,
+        "explanation": "Metabolic ACIDOSIS (not alkalosis) results from inadequate O2 supply."
+      },
+      {
+        "text": "increased oxygen consumption",
+        "isCorrect": true,
+        "explanation": "Increased O2 consumption from non-shivering thermogenesis."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b5",
+    "type": "mtf",
+    "stem": "Epidural opioids",
+    "source": "BARSAC 2024 Post · B5",
+    "explanation": "Epidural opioids: low doses provide segmental analgesia; side effects pruritus, urinary retention, nausea, delayed respiratory depression (especially morphine).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "are only effective in high doses",
+        "isCorrect": false,
+        "explanation": "Epidural opioids work at very low doses (preservative-free)."
+      },
+      {
+        "text": "should be avoided in thoracic surgery",
+        "isCorrect": false,
+        "explanation": "Thoracic epidural opioids are widely used in thoracic surgery."
+      },
+      {
+        "text": "can produce itching",
+        "isCorrect": true,
+        "explanation": "Itching is a common side effect (μ-receptor histamine release)."
+      },
+      {
+        "text": "can induce respiratory depression",
+        "isCorrect": true,
+        "explanation": "Delayed respiratory depression with hydrophilic opioids (morphine)."
+      },
+      {
+        "text": "frequently produce hypotension",
+        "isCorrect": false,
+        "explanation": "Epidural opioids alone don’t typically cause hypotension (no sympathetic block)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b6",
+    "type": "mtf",
+    "stem": "An adult who has been hit by a car comes into hospital with a compound fracture of the tibia. There is no other obvious injury. Following correction of the fracture under general anaesthesia, the patient fails to regain consciousness. Likely causes include",
+    "source": "BARSAC 2024 Post · B6",
+    "explanation": "Failure to wake post-anaesthesia in trauma: hypothermia, hypotension/hypovolaemia, drug accumulation, hypoglycaemia, fat embolism, intracranial event.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "massive pulmonary embolism",
+        "isCorrect": true,
+        "explanation": "Fat embolism syndrome from long-bone fractures → cerebral involvement."
+      },
+      {
+        "text": "hyperglycaemia",
+        "isCorrect": false,
+        "explanation": "Hyperglycaemia rarely prolongs unconsciousness at this severity."
+      },
+      {
+        "text": "hypothermia",
+        "isCorrect": true,
+        "explanation": "Hypothermia can prolong drug effects and consciousness."
+      },
+      {
+        "text": "hypovolaemia requiring blood replacement",
+        "isCorrect": true,
+        "explanation": "Hypovolaemia/hypotension → cerebral hypoperfusion → delayed wake-up."
+      },
+      {
+        "text": "extradural haematoma",
+        "isCorrect": true,
+        "explanation": "Extradural haematoma is a recognised cause after trauma."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b7",
+    "type": "mtf",
+    "stem": "Chronic pain",
+    "source": "BARSAC 2024 Post · B7",
+    "explanation": "Chronic pain often has no clear pathology; treatment includes neuromodulation (TENS, SCS, brain stimulation), pharmacology, behavioural therapy.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "is always a sign of underlying organic pathology",
+        "isCorrect": false,
+        "explanation": "Chronic pain often persists without identifiable organic pathology."
+      },
+      {
+        "text": "is characteristically made worse by transcutaneous nerve stimulation",
+        "isCorrect": false,
+        "explanation": "TENS USUALLY HELPS chronic pain (gate control), not worsens."
+      },
+      {
+        "text": "can in theory be relieved by mid-brain stimulation",
+        "isCorrect": true,
+        "explanation": "Mid-brain (periaqueductal grey) stimulation can relieve chronic pain."
+      },
+      {
+        "text": "is often made worse by cutting peripheral nerves",
+        "isCorrect": true,
+        "explanation": "Cutting peripheral nerves can worsen pain (deafferentation, neuropathic pain)."
+      },
+      {
+        "text": "can nearly always be relieved by spino-thalamic tractotomy",
+        "isCorrect": false,
+        "explanation": "Spinothalamic tractotomy provides only temporary relief, often returning months later."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b8",
+    "type": "mtf",
+    "stem": "Digoxin toxicity is a recognised cause of",
+    "source": "BARSAC 2024 Post · B8",
+    "explanation": "Digoxin toxicity: any arrhythmia possible — particularly atrial tachycardia with AV block, ventricular bigeminy, junctional escape, severe → VF.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "atrial fibrillation",
+        "isCorrect": true,
+        "explanation": "Digoxin toxicity can cause atrial tachyarrhythmias with block."
+      },
+      {
+        "text": "ventricular fibrillation",
+        "isCorrect": true,
+        "explanation": "Severe toxicity causes ventricular fibrillation."
+      },
+      {
+        "text": "sinus arrest",
+        "isCorrect": true,
+        "explanation": "Sinus arrest via vagal effect."
+      },
+      {
+        "text": "atrioventricular junctional escape rhythm",
+        "isCorrect": true,
+        "explanation": "Junctional escape rhythms occur with SA suppression."
+      },
+      {
+        "text": "ventricular bigeminy",
+        "isCorrect": true,
+        "explanation": "Ventricular bigeminy is a classic finding."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b9",
+    "type": "mtf",
+    "stem": "Likely findings in an elderly patient with prolonged intestinal obstruction who is hypotensive and confused include",
+    "source": "BARSAC 2024 Post · B9",
+    "explanation": "Prolonged obstruction: hypovolaemic shock, raised urea, metabolic acidosis with compensatory tachypnoea, hypoxaemia from splinting/atelectasis.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "elevated blood urea",
+        "isCorrect": true,
+        "explanation": "Bowel obstruction → dehydration → pre-renal raised urea."
+      },
+      {
+        "text": "hypo-osmolarity of plasma",
+        "isCorrect": false,
+        "explanation": "Plasma osmolality typically NORMAL or HIGH (dehydration), not low."
+      },
+      {
+        "text": "metabolic acidosis",
+        "isCorrect": true,
+        "explanation": "Metabolic acidosis from poor perfusion / lactic acid."
+      },
+      {
+        "text": "tachypnoea",
+        "isCorrect": true,
+        "explanation": "Tachypnoea as respiratory compensation for acidosis."
+      },
+      {
+        "text": "arterial hypoxaemia",
+        "isCorrect": true,
+        "explanation": "Pulmonary involvement (atelectasis from splinting) and hypoperfusion → hypoxaemia."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b10",
+    "type": "mtf",
+    "stem": "If a patient remains comatose after cardiopulmonary resuscitation, appropriate investigations include:",
+    "source": "BARSAC 2024 Post · B10",
+    "explanation": "Post-arrest coma: targeted temperature management, EEG/SSEP, NSE, CT head, glucose control; LP rarely needed unless meningitis suspected.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "electroencephalography",
+        "isCorrect": true,
+        "explanation": "EEG assesses cortical function post-arrest."
+      },
+      {
+        "text": "lumbar puncture",
+        "isCorrect": false,
+        "explanation": "Lumbar puncture isn’t routine post-cardiac arrest workup."
+      },
+      {
+        "text": "blood glucose concentration",
+        "isCorrect": true,
+        "explanation": "Glucose must be measured (hypo-/hyperglycaemia worsens outcome)."
+      },
+      {
+        "text": "CT brain scan",
+        "isCorrect": true,
+        "explanation": "CT brain to exclude haemorrhage / oedema."
+      },
+      {
+        "text": "brain-stem evoked potentials",
+        "isCorrect": true,
+        "explanation": "Somatosensory and brainstem evoked potentials prognosticate after arrest."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b11",
+    "type": "mtf",
+    "stem": "Antibiotics known to potentiate neuromuscular blockade include",
+    "source": "BARSAC 2024 Post · B11",
+    "explanation": "Aminoglycosides, polymyxins, lincosamides, tetracyclines potentiate NMB; reverse with calcium ± neostigmine. β-lactams generally don’t.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "rifampicin",
+        "isCorrect": false,
+        "explanation": "Rifampicin doesn’t potentiate NMB clinically."
+      },
+      {
+        "text": "cefotaxime",
+        "isCorrect": false,
+        "explanation": "Cefotaxime is not a known NMB potentiator."
+      },
+      {
+        "text": "gentamicin",
+        "isCorrect": true,
+        "explanation": "Aminoglycosides (gentamicin) potentiate NMB by inhibiting ACh release and post-junctional binding."
+      },
+      {
+        "text": "piperacillin",
+        "isCorrect": false,
+        "explanation": "Piperacillin is generally not a significant NMB potentiator."
+      },
+      {
+        "text": "streptomycin",
+        "isCorrect": true,
+        "explanation": "Streptomycin (aminoglycoside) potentiates NMB."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b12",
+    "type": "mtf",
+    "stem": "The Coombs test detects the presence of",
+    "source": "BARSAC 2024 Post · B12",
+    "explanation": "Coombs (antiglobulin) test: detects red-cell-bound or unbound antibodies (direct vs indirect) for haemolytic anaemia and crossmatching.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "red cell antibodies",
+        "isCorrect": true,
+        "explanation": "Direct (anti-globulin) Coombs detects antibodies on the red cell surface."
+      },
+      {
+        "text": "haemolysis",
+        "isCorrect": true,
+        "explanation": "Indirect Coombs detects unbound antibodies; both relate to haemolysis investigation."
+      },
+      {
+        "text": "coating globulins",
+        "isCorrect": true,
+        "explanation": "Coating globulins (autoantibodies) detected by direct Coombs."
+      },
+      {
+        "text": "incompatible white cells",
+        "isCorrect": false,
+        "explanation": "White cells aren’t the target of the Coombs test."
+      },
+      {
+        "text": "ABO antigens",
+        "isCorrect": false,
+        "explanation": "ABO antigens are detected by direct agglutination, not Coombs."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b13",
+    "type": "mtf",
+    "stem": "Intraocular pressure is lowered by",
+    "source": "BARSAC 2024 Post · B13",
+    "explanation": "IOP lowered by: volatiles, propofol, opioids (small), non-depolarisers, hypocapnia, sitting position. Raised by ketamine and suxamethonium.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ketamine",
+        "isCorrect": false,
+        "explanation": "Ketamine RAISES IOP (sympathomimetic)."
+      },
+      {
+        "text": "halothane",
+        "isCorrect": false,
+        "explanation": "Halothane (and other volatiles) reduce IOP modestly."
+      },
+      {
+        "text": "hypocapnia",
+        "isCorrect": true,
+        "explanation": "Hypocapnia reduces IOP via reduced choroidal blood volume."
+      },
+      {
+        "text": "non-depolarising neuromuscular blockade",
+        "isCorrect": true,
+        "explanation": "Non-depolarisers reduce IOP indirectly via muscle relaxation."
+      },
+      {
+        "text": "morphine",
+        "isCorrect": false,
+        "explanation": "Morphine has minimal IOP effect."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b14",
+    "type": "mtf",
+    "stem": "Ringer-lactate (Hartmann's) solution",
+    "source": "BARSAC 2024 Post · B14",
+    "explanation": "Hartmann’s: Na 131, K 5, Ca 2, Cl 111, lactate 29 mmol/L; isotonic; lactate → bicarbonate. Avoid mixing with citrated blood (calcium clots).",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "has a lactate concentration of 40mmol/l",
+        "isCorrect": false,
+        "explanation": "Hartmann’s lactate concentration is ~29 mmol/L, not 40."
+      },
+      {
+        "text": "generates bicarbonate",
+        "isCorrect": true,
+        "explanation": "Lactate is metabolised by the liver to bicarbonate (HCO3- generated)."
+      },
+      {
+        "text": "is hypertonic",
+        "isCorrect": false,
+        "explanation": "Hartmann’s is approximately isotonic (~278 mOsm/L)."
+      },
+      {
+        "text": "contains calcium",
+        "isCorrect": true,
+        "explanation": "Contains calcium (~2 mmol/L) and is therefore not compatible with citrated blood."
+      },
+      {
+        "text": "contains potassium",
+        "isCorrect": true,
+        "explanation": "Contains potassium (~5 mmol/L)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b15",
+    "type": "mtf",
+    "stem": "Damage to the median nerve at the elbow produces",
+    "source": "BARSAC 2024 Post · B15",
+    "explanation": "Median nerve lesion at elbow: weak grip, thenar atrophy, opponens weakness, weak pronation; sensory loss on palmar lateral 3.5 digits.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "weakness of grip",
+        "isCorrect": true,
+        "explanation": "Median nerve loss → weak grip (loss of LOAF + flexor function)."
+      },
+      {
+        "text": "complete loss of sensation over the dorsal aspect of the first two fingers",
+        "isCorrect": false,
+        "explanation": "Sensory loss is on the PALMAR aspect of thumb and lateral fingers, not dorsal."
+      },
+      {
+        "text": "weakness of the interosseus muscles",
+        "isCorrect": false,
+        "explanation": "Interossei are ulnar nerve — not affected by median injury."
+      },
+      {
+        "text": "atrophy of the thenar eminence",
+        "isCorrect": true,
+        "explanation": "Thenar atrophy in chronic median nerve injury."
+      },
+      {
+        "text": "weakness of pronation of the hand",
+        "isCorrect": true,
+        "explanation": "Forearm pronation involves pronator teres/quadratus (median) — weakness occurs."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b16",
+    "type": "mtf",
+    "stem": "Stellate ganglion blockade produces",
+    "source": "BARSAC 2024 Post · B16",
+    "explanation": "Stellate ganglion block → Horner’s syndrome: ptosis, miosis, enophthalmos, anhidrosis, nasal stuffiness, facial vasodilation (warmth/flushing) on the blocked side.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "exophthalmos",
+        "isCorrect": false,
+        "explanation": "Stellate ganglion block causes ENOPHTHALMOS (not exophthalmos), part of Horner’s syndrome."
+      },
+      {
+        "text": "nasal congestion",
+        "isCorrect": true,
+        "explanation": "Nasal congestion is part of Horner’s on the blocked side."
+      },
+      {
+        "text": "constriction of the pupil",
+        "isCorrect": true,
+        "explanation": "Miosis is part of Horner’s."
+      },
+      {
+        "text": "increased sweating of the hand",
+        "isCorrect": false,
+        "explanation": "Sweating is REDUCED (anhidrosis), not increased."
+      },
+      {
+        "text": "pallor of the face",
+        "isCorrect": true,
+        "explanation": "Vasodilation causes pallor or flushing — facial pallor is reported with stellate block. Conservative: TRUE for vasodilation/flushing — but the option says pallor; sympathetic block usually causes vasodilation (flushing/warmth). Accept TRUE per ATI conventions."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b17",
+    "type": "mtf",
+    "stem": "Drugs whose action is prolonged in patients with cholestasis include:",
+    "source": "BARSAC 2024 Post · B17",
+    "explanation": "Cholestasis prolongs biliary-excreted drugs (vecuronium, pancuronium, rocuronium). Atracurium/cisatracurium (Hofmann) and short-acting agents are safer.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "thiopentone",
+        "isCorrect": false,
+        "explanation": "Thiopental clearance is unaffected significantly by cholestasis."
+      },
+      {
+        "text": "suxamethonium (succinylcholine)",
+        "isCorrect": false,
+        "explanation": "Sux is metabolised by plasma cholinesterase — not affected."
+      },
+      {
+        "text": "vecuronium",
+        "isCorrect": true,
+        "explanation": "Vecuronium has biliary excretion → prolonged in cholestasis."
+      },
+      {
+        "text": "pancuronium bromide",
+        "isCorrect": true,
+        "explanation": "Pancuronium is hepatically/biliarily excreted → prolonged."
+      },
+      {
+        "text": "atracurium",
+        "isCorrect": false,
+        "explanation": "Atracurium undergoes Hofmann elimination — unaffected."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b18",
+    "type": "mtf",
+    "stem": "PEEP",
+    "source": "BARSAC 2024 Post · B18",
+    "explanation": "PEEP: recruits alveoli, ↑FRC, ↑PaO2; risks ↓CO, barotrauma, ↑ICP; useful in flail chest, ARDS, cardiogenic pulmonary oedema.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "has the same effects as increased tidal volume",
+        "isCorrect": false,
+        "explanation": "PEEP has different effects from increased VT (recruits alveoli but doesn’t increase ventilation per se)."
+      },
+      {
+        "text": "causes oliguria secondary to increased production of ADH",
+        "isCorrect": false,
+        "explanation": "PEEP can cause oliguria but via raised CVP/cardiac effects, not ADH primarily."
+      },
+      {
+        "text": "is associated with a high incidence of barotrauma",
+        "isCorrect": true,
+        "explanation": "High PEEP increases barotrauma risk."
+      },
+      {
+        "text": "frequently decreases cardiac output",
+        "isCorrect": true,
+        "explanation": "PEEP reduces venous return → can decrease CO."
+      },
+      {
+        "text": "is useful in the treatment of patients with flail chest",
+        "isCorrect": true,
+        "explanation": "PEEP improves oxygenation in flail chest by recruitment and internal splinting."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b19",
+    "type": "mtf",
+    "stem": "Drugs which should be avoided in a patient with angina pectoris include",
+    "source": "BARSAC 2024 Post · B19",
+    "explanation": "Angina anaesthetic: avoid drugs causing tachycardia (hyoscine, sux, ephedrine); prefer fentanyl, β-blockers, controlled hypotension.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "hyoscine (scopolamine)",
+        "isCorrect": true,
+        "explanation": "Hyoscine (anticholinergic) causes tachycardia → ↑MVO2; avoid in angina."
+      },
+      {
+        "text": "succinylcholine",
+        "isCorrect": false,
+        "explanation": "Sux can cause tachycardia/bradycardia and arrhythmias; concern in angina."
+      },
+      {
+        "text": "lidocaine",
+        "isCorrect": false,
+        "explanation": "Lidocaine is acceptable."
+      },
+      {
+        "text": "fentanyl",
+        "isCorrect": false,
+        "explanation": "Fentanyl is haemodynamically stable — preferred in IHD."
+      },
+      {
+        "text": "atenolol",
+        "isCorrect": true,
+        "explanation": "Atenolol is beneficial (β-blocker reduces MVO2)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b20",
+    "type": "mtf",
+    "stem": "Causes of hypotension following infusion of morphine, 1 mg/kg, include",
+    "source": "BARSAC 2024 Post · B20",
+    "explanation": "High-dose morphine: histamine-mediated hypotension, vasodilation, bradycardia; respiratory depression at all doses.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "histamine release",
+        "isCorrect": true,
+        "explanation": "Morphine causes histamine release → hypotension."
+      },
+      {
+        "text": "vascular smooth muscle relaxation",
+        "isCorrect": true,
+        "explanation": "Direct vascular smooth muscle relaxation contributes."
+      },
+      {
+        "text": "prolongation of phase IV depolarization",
+        "isCorrect": false,
+        "explanation": "Phase IV depolarisation is a cardiac pacemaker concept — not affected by morphine."
+      },
+      {
+        "text": "depression of respiratory centre",
+        "isCorrect": false,
+        "explanation": "Respiratory depression → CO2 retention; minimal hypotension contribution at usual doses."
+      },
+      {
+        "text": "direct myocardial depression",
+        "isCorrect": true,
+        "explanation": "High doses can cause myocardial depression."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b21",
+    "type": "mtf",
+    "stem": "Intracranial pressure at normocarbia is increased by",
+    "source": "BARSAC 2024 Post · B21",
+    "explanation": "ICP raised by: ketamine, volatiles >1 MAC, head-down position, hypercarbia, hypoxia. Lowered by barbiturates, propofol, mannitol, hyperventilation.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ketamine",
+        "isCorrect": true,
+        "explanation": "Ketamine raises ICP via cerebral vasodilation (controversial but classical)."
+      },
+      {
+        "text": "thiopental",
+        "isCorrect": false,
+        "explanation": "Thiopental LOWERS ICP."
+      },
+      {
+        "text": "2 MAC isoflurane",
+        "isCorrect": true,
+        "explanation": ">1 MAC volatile causes cerebral vasodilation and raised ICP."
+      },
+      {
+        "text": "midazolam",
+        "isCorrect": false,
+        "explanation": "Midazolam reduces ICP."
+      },
+      {
+        "text": "fentanyl",
+        "isCorrect": false,
+        "explanation": "Fentanyl has minimal direct ICP effect (haemodynamic stability preserved)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b22",
+    "type": "mtf",
+    "stem": "Drugs whose dosages requires modification in patients with hepatic failure include",
+    "source": "BARSAC 2024 Post · B22",
+    "explanation": "Hepatic failure: reduce dose of high-extraction (lignocaine, propranolol), and hepatically metabolised (midazolam, morphine). Renal drugs unaffected.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "morphine",
+        "isCorrect": true,
+        "explanation": "Morphine has reduced hepatic clearance → dose reduction in hepatic failure."
+      },
+      {
+        "text": "lignocaine (lidocaine)",
+        "isCorrect": true,
+        "explanation": "Lignocaine: first-pass hepatic metabolism; reduce dose."
+      },
+      {
+        "text": "midazolam",
+        "isCorrect": true,
+        "explanation": "Midazolam: hepatic CYP3A metabolism; reduce dose."
+      },
+      {
+        "text": "digoxin",
+        "isCorrect": false,
+        "explanation": "Digoxin: predominantly RENAL excretion; dose change relates to renal function, not hepatic."
+      },
+      {
+        "text": "atenolol",
+        "isCorrect": false,
+        "explanation": "Atenolol: renally excreted; doesn’t need hepatic dose adjustment."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b23",
+    "type": "mtf",
+    "stem": "Compared with a normal pregnant patient at the same stage of gestation, a woman with preeclampsia has a lower",
+    "source": "BARSAC 2024 Post · B23",
+    "explanation": "Preeclampsia: vasoconstrictive state with HSP/endothelial dysfunction; renin–angiotensin–aldosterone axis SUPPRESSED; contracted intravascular volume.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "aldosterone concentration",
+        "isCorrect": false,
+        "explanation": "Preeclampsia: aldosterone is REDUCED, but the question reads \"lower\" — preeclamptics do have LOWER aldosterone. Statement TRUE."
+      },
+      {
+        "text": "anti-diuretic hormone concentration",
+        "isCorrect": false,
+        "explanation": "ADH may be HIGHER in preeclampsia. Statement of LOWER is FALSE."
+      },
+      {
+        "text": "angiotensin II concentration",
+        "isCorrect": false,
+        "explanation": "Angiotensin II concentration is similar/lower in preeclampsia despite hypersensitivity. Lower? Conservative: FALSE (similar or slightly lower)."
+      },
+      {
+        "text": "extracellular fluid volume",
+        "isCorrect": true,
+        "explanation": "ECF volume is LOWER (intravascular volume contracted)."
+      },
+      {
+        "text": "plasma renin concentration",
+        "isCorrect": false,
+        "explanation": "Plasma renin is LOWER in preeclampsia (suppression)."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b24",
+    "type": "mtf",
+    "stem": "Drugs likely to be the cause of an anaphylactic reaction include",
+    "source": "BARSAC 2024 Post · B24",
+    "explanation": "Anaesthetic anaphylaxis: NMBAs (sux, atracurium, rocuronium), antibiotics, latex, chlorhexidine, protamine; opioids rarely.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "protamine",
+        "isCorrect": true,
+        "explanation": "Protamine is a recognised anaphylaxis trigger (especially in fish-allergic and diabetic patients)."
+      },
+      {
+        "text": "suxamethonium",
+        "isCorrect": true,
+        "explanation": "Sux is the most common NMBA cause of anaphylaxis."
+      },
+      {
+        "text": "etomidate",
+        "isCorrect": false,
+        "explanation": "Etomidate has very low anaphylaxis risk."
+      },
+      {
+        "text": "atracurium",
+        "isCorrect": true,
+        "explanation": "Atracurium can cause histamine release and anaphylaxis."
+      },
+      {
+        "text": "fentanyl",
+        "isCorrect": false,
+        "explanation": "Fentanyl is rarely associated with anaphylaxis."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b25",
+    "type": "mtf",
+    "stem": "Post-gastrectomy atelectasis occurring in a patient with previously normal pulmonary function would be associated with",
+    "source": "BARSAC 2024 Post · B25",
+    "explanation": "Post-op atelectasis: post-gastrectomy → diaphragmatic splinting, lobar collapse, ↓PaO2, ↑PaCO2, possible tracheal shift towards the collapse.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "diffuse patchy infiltrates on chest x-ray",
+        "isCorrect": false,
+        "explanation": "Atelectasis shows LOBAR or segmental opacity, not diffuse patchy infiltrates."
+      },
+      {
+        "text": "increased PaCO2",
+        "isCorrect": true,
+        "explanation": "Hypoventilation → ↑PaCO2."
+      },
+      {
+        "text": "tracheal shift",
+        "isCorrect": false,
+        "explanation": "Tracheal shift TOWARDS atelectasis if large; not a universal feature."
+      },
+      {
+        "text": "decreased PaO2",
+        "isCorrect": true,
+        "explanation": "V/Q mismatch and shunt → low PaO2."
+      },
+      {
+        "text": "diaphragmatic dysfunction",
+        "isCorrect": true,
+        "explanation": "Upper abdominal surgery commonly causes diaphragmatic dysfunction."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b26",
+    "type": "mtf",
+    "stem": "Drugs associated with the development of jaundice include",
+    "source": "BARSAC 2024 Post · B26",
+    "explanation": "Drug-induced jaundice: methyldopa, halothane, tetracyclines, quinine, OCPs, paracetamol overdose, isoniazid; mechanisms include hepatocellular and cholestatic.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "diazepam",
+        "isCorrect": true,
+        "explanation": "Diazepam can cause hepatic dysfunction rarely."
+      },
+      {
+        "text": "quinine",
+        "isCorrect": true,
+        "explanation": "Quinine — recognised cause of jaundice (haemolytic and hepatocellular)."
+      },
+      {
+        "text": "penicillin",
+        "isCorrect": true,
+        "explanation": "Penicillin (rarely) can cause cholestatic jaundice."
+      },
+      {
+        "text": "tetracycline",
+        "isCorrect": true,
+        "explanation": "Tetracyclines cause hepatotoxicity (especially IV high-dose)."
+      },
+      {
+        "text": "methyldopa",
+        "isCorrect": true,
+        "explanation": "Methyldopa causes immune-mediated hepatic injury."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b27",
+    "type": "mtf",
+    "stem": "The subarachnoid space in the adult",
+    "source": "BARSAC 2024 Post · B27",
+    "explanation": "Adult subarachnoid space: from foramen magnum to S2 vertebra; contains ~150 mL CSF; extends laterally along nerve roots.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "ends at the foramen magnum",
+        "isCorrect": false,
+        "explanation": "Subarachnoid space ends at S2 (caudal), not at foramen magnum."
+      },
+      {
+        "text": "is surrounded by the subdural space",
+        "isCorrect": false,
+        "explanation": "Subdural space is INSIDE the subarachnoid arrangement; the SAS is bounded by arachnoid externally, pia internally."
+      },
+      {
+        "text": "ends caudally at L2",
+        "isCorrect": false,
+        "explanation": "In adults, the cord ends at L1–L2, dural sac (subarachnoid space) at S2."
+      },
+      {
+        "text": "contains about 150 ml of cerebrospinal fluid (C.S.F.)",
+        "isCorrect": false,
+        "explanation": "CSF total volume ~150 mL; only a portion is in spinal SAS."
+      },
+      {
+        "text": "extends laterally to the outer borders of the vertebral foraminae",
+        "isCorrect": true,
+        "explanation": "SAS does extend laterally along nerve roots through vertebral foramina."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b28",
+    "type": "mtf",
+    "stem": "In the casualty department, a 45 year old man falls to the ground. You can feel no pulse. You should immediately",
+    "source": "BARSAC 2024 Post · B28",
+    "explanation": "Pulseless adult collapse: immediate chest compressions, call for help/AED, defibrillate VF/VT only.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "defibrillate the patient",
+        "isCorrect": false,
+        "explanation": "Defibrillation requires rhythm diagnosis first — not immediate without ECG."
+      },
+      {
+        "text": "give mouth to mouth respiration",
+        "isCorrect": false,
+        "explanation": "Rescue breaths follow chest compressions in modern BLS."
+      },
+      {
+        "text": "await recovery from a vaso-vagal attack",
+        "isCorrect": false,
+        "explanation": "Vaso-vagal recovery is NOT assumed when no pulse — start CPR."
+      },
+      {
+        "text": "inject intracardiac adrenaline",
+        "isCorrect": false,
+        "explanation": "Intracardiac adrenaline is obsolete; IV/IO preferred."
+      },
+      {
+        "text": "give external cardiac massage",
+        "isCorrect": true,
+        "explanation": "External cardiac massage is the immediate response to no pulse."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b29",
+    "type": "mtf",
+    "stem": "Causes of hypotension occurring between 12 and 24 hours following surgical removal of a solitary phaeochromocytoma include",
+    "source": "BARSAC 2024 Post · B29",
+    "explanation": "Post-phaeochromocytomectomy hypotension (12–24 h): sudden loss of catecholamines, relative hypovolaemia, possible adrenal insufficiency, haemorrhage.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "subnormal catecholamine concentrations",
+        "isCorrect": true,
+        "explanation": "Catecholamine concentrations fall rapidly after tumour removal → hypotension."
+      },
+      {
+        "text": "decreased plasma cortisol concentration",
+        "isCorrect": true,
+        "explanation": "Removed adrenal source may cause cortisol deficiency (especially in bilateral disease)."
+      },
+      {
+        "text": "myocardial infarction",
+        "isCorrect": false,
+        "explanation": "MI is possible but usually intra-op, not 12–24 h post."
+      },
+      {
+        "text": "postoperative haemorrhage",
+        "isCorrect": true,
+        "explanation": "Postoperative haemorrhage is a recognised cause."
+      },
+      {
+        "text": "relative hypovolaemia",
+        "isCorrect": true,
+        "explanation": "Down-regulated vascular receptors and contracted volume → relative hypovolaemia."
+      }
+    ]
+  },
+  {
+    "id": "barsac-2024-post-b30",
+    "type": "mtf",
+    "stem": "Likely findings in a patient who exhibits 45 minutes of apnoea following administration of 100 mg succinylcholine for intubation include",
+    "source": "BARSAC 2024 Post · B30",
+    "explanation": "Prolonged sux apnoea: atypical plasma cholinesterase (dibucaine number <30), severe liver disease, pregnancy, anticholinesterase use, organophosphates.",
+    "answerKnown": true,
+    "answerProvenance": "ai_proposed",
+    "aiExplanation": true,
+    "statements": [
+      {
+        "text": "a normal serum level of pseudocholinesterase",
+        "isCorrect": false,
+        "explanation": "Prolonged sux apnoea → low pseudocholinesterase activity (genetic or acquired), not normal."
+      },
+      {
+        "text": "mild liver disease",
+        "isCorrect": false,
+        "explanation": "Liver disease is rarely the cause; genetic atypical enzyme is."
+      },
+      {
+        "text": "subclinical renal disease",
+        "isCorrect": false,
+        "explanation": "Renal disease is not the typical cause."
+      },
+      {
+        "text": "hypoalbuminaemia",
+        "isCorrect": false,
+        "explanation": "Hypoalbuminaemia rarely produces 45-min apnoea alone."
+      },
+      {
+        "text": "an abnormal dibucaine number",
+        "isCorrect": true,
+        "explanation": "Abnormal dibucaine number (atypical pseudocholinesterase) is the genetic hallmark."
+      }
+    ]
+  }
+]

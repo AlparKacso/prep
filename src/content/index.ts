@@ -5,6 +5,9 @@ import barsac2025post from './barsac-2025-post/questions.json'
 import hola2022b from './hola-2022-b/questions.json'
 import edaic2020 from './edaic-2020/questions.json'
 import hola2021 from './hola-2021/questions.json'
+import barsac2024pre from './barsac-2024-pre/questions.json'
+import barsac2024post from './barsac-2024-post/questions.json'
+import holaPt2023 from './hola-pt-2023/questions.json'
 
 // Each folder's JSON omits the `folder` field — it's injected here from the
 // directory name so a question always knows where it came from.
@@ -14,6 +17,9 @@ const RAW: Record<string, unknown[]> = {
   'hola-2022-b': hola2022b,
   'edaic-2020': edaic2020,
   'hola-2021': hola2021,
+  'barsac-2024-pre': barsac2024pre,
+  'barsac-2024-post': barsac2024post,
+  'hola-pt-2023': holaPt2023,
 }
 
 const LABELS: Record<string, string> = {
@@ -22,6 +28,9 @@ const LABELS: Record<string, string> = {
   'hola-2022-b': 'HOLA 2022 · Paper B',
   'edaic-2020': 'EDAIC 2020',
   'hola-2021': 'HOLA 2021',
+  'barsac-2024-pre': 'BARSAC 2024 Pre',
+  'barsac-2024-post': 'BARSAC 2024 Post',
+  'hola-pt-2023': 'HOLA Portugalia 2023',
 }
 
 function labelFor(name: string): string {
