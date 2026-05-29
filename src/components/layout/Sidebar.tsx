@@ -37,7 +37,17 @@ export default function Sidebar({ onClose }: { onClose?: () => void }) {
       }}
     >
       <div style={{ padding: '0.25rem 0.75rem', marginBottom: '2rem' }}>
-        <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.625rem' }}>
+        <Link
+          href="/dashboard"
+          onClick={onClose}
+          aria-label="prep — go to home"
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '0.625rem',
+            textDecoration: 'none',
+          }}
+        >
           <div
             style={{
               width: 28,
@@ -70,7 +80,7 @@ export default function Sidebar({ onClose }: { onClose?: () => void }) {
           >
             prep
           </span>
-        </div>
+        </Link>
         <div
           style={{
             fontSize: 10,

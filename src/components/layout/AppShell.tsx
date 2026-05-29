@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
 import Sidebar from './Sidebar'
 
 export default function AppShell({ children }: { children: React.ReactNode }) {
@@ -44,7 +45,18 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
               <path d="M3 6h16M3 11h16M3 16h10" />
             </svg>
           </button>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+          <Link
+            href="/dashboard"
+            onClick={() => setOpen(false)}
+            aria-label="prep — go to home"
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.5rem',
+              textDecoration: 'none',
+              color: 'var(--text)',
+            }}
+          >
             <div
               style={{
                 width: 26,
@@ -68,7 +80,7 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
               </svg>
             </div>
             <span style={{ fontSize: 16, fontWeight: 800, letterSpacing: '-0.02em' }}>prep</span>
-          </div>
+          </Link>
           <div style={{ width: 30 }} />
         </header>
 
